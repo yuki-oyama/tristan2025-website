@@ -3,6 +3,7 @@ date: "2020-12-01"
 title: Introduction to Okinawa
 categories: ["Information"]
 tags: ["Okinawa", "location", "tour"]
+authors: ["admin"]
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

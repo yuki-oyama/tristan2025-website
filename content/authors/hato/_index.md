@@ -37,7 +37,7 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: false
+superuser: true
 title: Eiji Hato
 user_groups:
 - Organizing Committee
