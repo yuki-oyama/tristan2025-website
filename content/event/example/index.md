@@ -23,9 +23,9 @@ location: Wowchemy HQ
 projects: null
 publishDate: "2017-01-01T00:00:00Z"
 slides: null
-summary: An example event.
+summary: Conference dinner at a fancy restaurant
 tags: []
-title: Example Event
+title: Gala Dinner
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -11,11 +11,14 @@ main:
     url: people
     weight: 30
   - name: Calls
-    url: event
+    url: call
     weight: 40
+  - name: Events
+    url: event
+    weight: 50
   - name: Proceedings
     url: publication
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70

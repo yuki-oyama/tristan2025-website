@@ -16,7 +16,7 @@ sections:
       TRISTAN XII
       
     cta:
-      url: people
+      url: call
       label: Call for papers
       icon_pack: fas
       icon: door-open
