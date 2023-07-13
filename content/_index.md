@@ -25,7 +25,7 @@ sections:
     background:
       image: 
         filename: beach.jpg
-        darken: 0.3
+        darken: 0.5
         size: cover
         position: center
         parallax: false
