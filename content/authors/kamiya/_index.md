@@ -19,9 +19,9 @@ interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
-last_name: Fukuda
+last_name: Kamiya
 organizations:
-- name: University of Tokyo
+- name: University of the Ryukyus
   url: ""
 role: Professor of Civil Engineering
 social:
@@ -38,11 +38,11 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Daisuke Fukuda
+title: Daisuke Kamiya
 user_groups:
 - Organizing Committee
-- Secretary General
+- Co-Chair
 ---
 
-Eiji Hato is a professor of ...
+Daisuke Kamiya is a professor of ...
 

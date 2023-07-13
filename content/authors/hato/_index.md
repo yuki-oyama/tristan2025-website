@@ -41,7 +41,7 @@ superuser: false
 title: Eiji Hato
 user_groups:
 - Organizing Committee
-- General Chair
+- Chair
 ---
 
 Eiji Hato is a professor of ...
