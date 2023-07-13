@@ -24,7 +24,7 @@ sections:
     columns: "2"
     background:
       image: 
-        filename: busena.jpg
+        filename: beach.jpg
       image_darken: 0.3
       image_size: cover
       image_position: center
