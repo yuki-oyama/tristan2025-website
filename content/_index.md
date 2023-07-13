@@ -28,7 +28,7 @@ sections:
       image_darken: 0.3
       image_size: cover
       image_position: center
-      image_parallax: true
+      image_parallax: false
       text_color_light: true
       color: "#24292e"
 
