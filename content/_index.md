@@ -25,10 +25,10 @@ sections:
     background:
       image: 
         filename: beach.jpg
-      image_darken: 0.3
-      image_size: cover
-      image_position: center
-      image_parallax: true
+        darken: 0.3
+        size: cover
+        position: center
+        parallax: true
       text_color_light: true
       color: "#24292e"
 
