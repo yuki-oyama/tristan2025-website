@@ -19,7 +19,7 @@ sections:
       url: call
       label: Call for papers
       icon_pack: fas
-      icon: door-open
+      icon: paper-plane
   design:
     columns: "2"
     background:
@@ -28,7 +28,7 @@ sections:
         darken: 0.3
         size: cover
         position: center
-        parallax: true
+        parallax: false
       text_color_light: true
       color: "#24292e"
 
