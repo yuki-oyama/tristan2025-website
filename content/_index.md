@@ -30,12 +30,12 @@ sections:
     columns: "2"
     background:
       image: 
-        filename: beach2.jpg
+        filename: upsplash/manza.jpg
         darken: 0.5
         size: cover
         position: center
         parallax: false
-      text_color_light: true
+      text_color_light: false
       color: "#24292e"
 
 - block: hero
