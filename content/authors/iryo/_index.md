@@ -21,9 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Iryo
 organizations:
-- name: Tohoku University
-  url: ""
-role: Professor of Civil Engineering
+#- name: Tohoku University
+#  url: ""
+role: Co-Chair <br>
+      Tohoku University
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,5 +45,5 @@ user_groups:
 - Co-Chair
 ---
 
-Eiji Hato is a professor of ...
+<!-- Eiji Hato is a professor of ... -->
 

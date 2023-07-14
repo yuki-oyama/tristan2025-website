@@ -21,9 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Fukuda
 organizations:
-- name: University of Tokyo
-  url: ""
-role: Professor of Civil Engineering
+#- name: University of Tokyo
+#  url: ""
+role: Secretary General <br>
+      University of Tokyo
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,8 +42,7 @@ superuser: false
 title: Daisuke Fukuda
 user_groups:
 - Organizing Committee
-- Secretary General
 ---
 
-Eiji Hato is a professor of ...
+<!-- Eiji Hato is a professor of ... -->
 

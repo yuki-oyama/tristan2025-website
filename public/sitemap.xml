@@ -30,43 +30,71 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tristan2025test.netlify.app/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/post/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/post/20-12-02-icml-best-paper/</loc>
+    <loc>https://tristan2025test.netlify.app/tag/announcement/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tristan2025test.netlify.app/post/20-12-01-wowchemy-prize/</loc>
+    <loc>https://tristan2025test.netlify.app/category/announcement/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/authors/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/categories/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/author/daisuke-kamiya/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/author/eiji-hato/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/tag/greeting/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/tags/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/author/takamasa-iryo/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/post/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/post/1_welcome_to_tristan/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/category/information/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/post/2_introduction_to_okinawa/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/tag/location/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/tag/okinawa/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/author/organizing-committee/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/tag/tour/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -75,14 +103,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025test.netlify.app/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025test.netlify.app/author/nelson-bighetti/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,6 +142,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025test.netlify.app/author/alice-wu-%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/author/daisuke-fukuda/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

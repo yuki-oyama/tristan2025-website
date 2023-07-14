@@ -13,12 +13,12 @@ main:
   - name: Calls
     url: call
     weight: 40
-  - name: Events
-    url: event
-    weight: 50
-  - name: Proceedings
-    url: publication
-    weight: 60
+  #- name: Events
+  #  url: event
+  #  weight: 50
+  #- name: Proceedings
+  #  url: publication
+  #  weight: 60
   - name: Contact
     url: contact
     weight: 70

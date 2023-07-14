@@ -20,10 +20,11 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Kamiya
-organizations:
-- name: University of the Ryukyus
-  url: ""
-role: Professor of Civil Engineering
+#organizations:
+#- name: University of the Ryukyus
+#  url: ""
+role: Co-Chair <br>
+      University of the Ryukyus
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,5 +45,5 @@ user_groups:
 - Co-Chair
 ---
 
-Daisuke Kamiya is a professor of ...
+<!-- Eiji Hato is a professor of ... -->
 
