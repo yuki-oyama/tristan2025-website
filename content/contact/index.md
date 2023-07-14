@@ -13,8 +13,8 @@ sections:
     #appointment_url: https://calendly.com
     autolink: true
     coordinates:
-      latitude: "37.4275"
-      longitude: "-122.1697"
+      latitude: "26.542592537771643"
+      longitude: "127.93422222328738"
     #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     email: secretary@bin.t.u-tokyo.ac.jp
     form:
@@ -45,7 +45,7 @@ sections:
   design:
     background:
       image:
-        filename: contact.jpg
+        filename: oyama/cosa.jpg
         filters:
           brightness: 1
         parallax: false

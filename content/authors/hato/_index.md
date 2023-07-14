@@ -41,7 +41,7 @@ social:
 superuser: true
 title: Eiji Hato
 user_groups:
-- Organizing Committee
+#- Organizing Committee
 - Chair
 ---
 

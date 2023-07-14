@@ -7,6 +7,7 @@ sections:
     sort_by: Params.last_name
     title: People behind the Conference
     user_groups:
+    - Chair
     - Organizing Committee
     - Steering Committee
     - Keynote Speaker
