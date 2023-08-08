@@ -13,7 +13,7 @@ sections:
     - Keynote Speaker
   design:
     show_interests: no
-    show_role: yes
+    show_role: no
     show_position: yes
     show_social: no
 date: "2022-10-24"
