@@ -14,14 +14,14 @@ education:
   #  year: 2008
 email: ""
 first_name: Daisuke
-highlight_name: false
+highlight_name: true
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Kamiya
-#organizations:
-#- name: University of the Ryukyus
+organizations:
+- name: Professor
 #  url: ""
 role: Co-Chair <br>
       University of the Ryukyus

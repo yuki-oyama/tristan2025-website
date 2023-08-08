@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Kobayashi
 organizations:
-#- name: University of Tokyo
+- name: Assistant Professor
 #  url: ""
 role: University of Tokyo
 position: Assistant Professor

@@ -14,14 +14,14 @@ education:
   #  year: 2008
 email: ""
 first_name: Eiji
-highlight_name: false
+highlight_name: true
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Hato
-#organizations:
-#- name: University of Tokyo
+organizations:
+- name: Professor
 #  url: ""
 role: Chair <br>
       University of Tokyo

@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Ando
 organizations:
-#- name: Kumamoto University
+- name: Assistant Professor
 #  url: ""
 role: Kumamoto University
 position: Assistant Professor

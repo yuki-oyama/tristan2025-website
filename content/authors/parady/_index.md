@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Parady
 organizations:
-#- name: University of Tokyo
+- name: Lecturer
 #  url: ""
 role: University of Tokyo
 position: Lecturer

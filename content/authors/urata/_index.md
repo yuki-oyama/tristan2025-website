@@ -20,8 +20,8 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Urata
-#organizations:
-#- name: University of Tsukuba
+organizations:
+- name: Associate Professor
 #  url: ""
 role: University of Tsukuba
 position: Associate Professor

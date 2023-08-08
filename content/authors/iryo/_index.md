@@ -14,14 +14,14 @@ education:
   #  year: 2008
 email: ""
 first_name: Takamasa
-highlight_name: false
+highlight_name: true
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Iryo
 organizations:
-#- name: Tohoku University
+- name: Professor
 #  url: ""
 role: Co-Chair <br>
       Tohoku University

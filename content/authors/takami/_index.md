@@ -7,8 +7,8 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Takami
-#organizations:
-#- name: The University of Tokyo
+organizations:
+- name: Associate Professor
 #  url: ""
 role: The University of Tokyo
 position: Associate Professor

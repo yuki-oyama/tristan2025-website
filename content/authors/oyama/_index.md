@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Yuki
 organizations:
-#- name: Shibaura Institute of Technology
+- name: Associate Professor
 #  url: ""
 role: Shibaura Institute of Technology
 position: Associate Professor

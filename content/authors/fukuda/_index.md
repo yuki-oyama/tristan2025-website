@@ -14,18 +14,17 @@ education:
   #  year: 2008
 email: ""
 first_name: Daisuke
-highlight_name: false
+highlight_name: true
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Fukuda
-organizations:University of Tokyo
-#- name: University of Tokyo
+organizations:
+- name: Professor
 #  url: ""
 role: Secretary General <br>
       University of Tokyo
-position: professor
 social:
 #- icon: envelope
 #  icon_pack: fas

@@ -20,11 +20,10 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Hara
-#organizations:
-#- name: Tohoku University
+organizations:
+  - name: Associate Professor
 #  url: ""
 role: Tohoku University
-position: Associate Professor
 social:
 #- icon: envelope
 #  icon_pack: fas
