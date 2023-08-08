@@ -21,10 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Fukuda
 organizations:
-#- name: University of Tokyo
+name: University of Tokyo
 #  url: ""
 role: Secretary General <br>
-      University of Tokyo
+      Professor
 position: professor
 social:
 #- icon: envelope
