@@ -25,6 +25,7 @@ last_name: Kamiya
 #  url: ""
 role: Co-Chair <br>
       University of the Ryukyus
+position: Professor
 social:
 #- icon: envelope
 #  icon_pack: fas

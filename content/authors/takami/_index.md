@@ -1,29 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  #courses:
-  #- course: PhD in Artificial Intelligence
-  #  institution: Stanford University
-  #  year: 2012
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2009
-  #- course: BSc in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  year: 2008
 email: ""
-first_name: Junji
+first_name: Kiyoshi
 highlight_name: false
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
-last_name: Urata
+last_name: Takami
 #organizations:
-#- name: University of Tsukuba
+#- name: The University of Tokyo
 #  url: ""
-role: University of Tsukuba
+role: The University of Tokyo
 position: Associate Professor
 social:
 #- icon: envelope
@@ -39,7 +26,7 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Junji Urata
+title: Kiyoshi Takami
 user_groups:
 - Organizing Committee
 ---

@@ -25,6 +25,7 @@ organizations:
 #  url: ""
 role: Co-Chair <br>
       Tohoku University
+position: Professor
 social:
 #- icon: envelope
 #  icon_pack: fas

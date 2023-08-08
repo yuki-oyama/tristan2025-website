@@ -1,9 +1,9 @@
 ---
-date: "2022-10-24"
+title: "People"
 sections:
 - block: people
   content:
-    sort_ascending: true
+    sort_ascending: yes
     sort_by: Params.last_name
     title: People behind the Conference
     user_groups:
@@ -12,9 +12,10 @@ sections:
     - Steering Committee
     - Keynote Speaker
   design:
-    show_interests: false
-    show_role: true
-    show_social: false
-title: People
+    show_interests: no
+    show_role: yes
+    show_position: yes
+    show_social: no
+date: "2022-10-24"
 type: landing
 ---

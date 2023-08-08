@@ -21,9 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Hara
 #organizations:
-#- name: University of the Ryukyus
+#- name: Tohoku University
 #  url: ""
 role: Tohoku University
+position: Associate Professor
 social:
 #- icon: envelope
 #  icon_pack: fas

@@ -13,19 +13,17 @@ education:
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
 email: ""
-first_name: Eiji
+first_name: Ryo
 highlight_name: false
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
-last_name: Hato
-#organizations:
-#- name: University of Tokyo
+last_name: Yamanaka
+organizations:
+#- name: Chuo Kensetsu Consultant,Co.,Ltd.
 #  url: ""
-role: Chair <br>
-      University of Tokyo
-position: Professor
+role: Chuo Kensetsu Consultant,Co.,Ltd.
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -39,12 +37,11 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: true
-title: Eiji Hato
+superuser: false
+title: Ryo Yamanaka
 user_groups:
-#- Organizing Committee
-- Chair
+- Organizing Committee
 ---
 
-<!-- Eiji Hato is a professor of ...-->
+<!-- Eiji Hato is a professor of ... -->
 

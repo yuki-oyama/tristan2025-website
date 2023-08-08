@@ -25,6 +25,7 @@ organizations:
 #  url: ""
 role: Secretary General <br>
       University of Tokyo
+position: professor
 social:
 #- icon: envelope
 #  icon_pack: fas

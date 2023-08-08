@@ -13,19 +13,18 @@ education:
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
 email: ""
-first_name: Eiji
+first_name: Oyama
 highlight_name: false
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
-last_name: Hato
-#organizations:
-#- name: University of Tokyo
+last_name: Yuki
+organizations:
+#- name: Shibaura Institute of Technology
 #  url: ""
-role: Chair <br>
-      University of Tokyo
-position: Professor
+role: Shibaura Institute of Technology
+position: Associate Professor
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -39,12 +38,11 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-superuser: true
-title: Eiji Hato
+superuser: false
+title: Yuki Oyama
 user_groups:
-#- Organizing Committee
-- Chair
+- Organizing Committee
 ---
 
-<!-- Eiji Hato is a professor of ...-->
+<!-- Eiji Hato is a professor of ... -->
 
