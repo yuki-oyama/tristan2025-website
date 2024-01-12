@@ -24,7 +24,7 @@ role: Secretary General <br>
       University of Tokyo
 organizations:
 - name: Professor
-position: 4
+position: a
 #  url: ""
 social:
 #- icon: envelope

@@ -45,4 +45,3 @@ user_groups:
 
 <!-- Eiji Hato is a professor of ... -->
 
-<!-- Eiji Hato is a professor of ... -->
