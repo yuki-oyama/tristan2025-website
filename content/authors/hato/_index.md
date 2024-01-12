@@ -25,7 +25,7 @@ role: Chair <br>
       University of Tokyo
 organizations:
 - name: Professor
-position: 1
+position: a
 social:
 #- icon: envelope
 #  icon_pack: fas

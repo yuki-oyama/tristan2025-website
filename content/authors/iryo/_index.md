@@ -24,7 +24,7 @@ role: Co-Chair <br>
       Tohoku University
 organizations:
 - name: Professor
-position: 3
+position: c
 social:
 #- icon: envelope
 #  icon_pack: fas

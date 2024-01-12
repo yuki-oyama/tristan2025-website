@@ -25,7 +25,7 @@ role: Co-Chair <br>
       University of the Ryukyus
 organizations:
 - name: Professor
-position: 2
+position: b
 social:
 #- icon: envelope
 #  icon_pack: fas
