@@ -6,9 +6,9 @@ first_name: Hiroe
 highlight_name: no
 interests: null
 last_name: Ando
-role: Kumamoto University
 organizations:
 - name: Assistant Professor
+role: Kumamoto University
 position: Assistant Professor
 social: null
 superuser: no

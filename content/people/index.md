@@ -3,7 +3,7 @@ title: "People"
 sections:
 - block: people
   content:
-    sort_ascending: no
+    sort_ascending: yes
     sort_by: Params.position
     title: People behind the Conference
     user_groups:
