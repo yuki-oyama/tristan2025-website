@@ -20,12 +20,12 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Hato
-organizations:
-- name: Professor
 #  url: ""
 role: Chair <br>
       University of Tokyo
-position: Professor
+organizations:
+- name: Professor
+position: 1
 social:
 #- icon: envelope
 #  icon_pack: fas

@@ -20,12 +20,12 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Kamiya
-organizations:
-- name: Professor
 #  url: ""
 role: Co-Chair <br>
       University of the Ryukyus
-position: Professor
+organizations:
+- name: Professor
+position: 2
 social:
 #- icon: envelope
 #  icon_pack: fas
