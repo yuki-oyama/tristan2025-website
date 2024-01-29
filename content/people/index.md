@@ -5,12 +5,12 @@ sections:
   content:
     sort_ascending: yes
     sort_by: Params.position
-    title: People behind the Conference
+    title: Committee
     user_groups:
     - Chair
-    - Organizing Committee
-    - Steering Committee
-    - Keynote Speaker
+    - Local Organizing Committee
+    - Program Committee
+    - Scientific Committee
   design:
     show_interests: no
     show_role: yes

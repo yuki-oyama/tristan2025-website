@@ -40,7 +40,7 @@ social:
 superuser: false
 title: Hiroe Ando
 user_groups:
-- Organizing Committee
+- Local Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

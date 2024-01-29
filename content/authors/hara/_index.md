@@ -23,7 +23,8 @@ last_name: Hara
 organizations:
   - name: Associate Professor
 #  url: ""
-role: Tohoku University
+role: Secretary General <br>
+      Tohoku University
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -40,7 +41,7 @@ social:
 superuser: false
 title: Yusuke Hara
 user_groups:
-- Organizing Committee
+- Local Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

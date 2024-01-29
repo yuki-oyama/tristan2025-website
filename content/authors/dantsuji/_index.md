@@ -40,7 +40,7 @@ social:
 superuser: false
 title: Takao Dantsuji
 user_groups:
-- Organizing Committee
+- Local Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->
