@@ -20,11 +20,11 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Fukuda
-role: Secretary General <br>
-      University of Tokyo
+role: Professor
 organizations:
-- name: Professor
-position: a
+- name: Co-Chair <br>
+      University of Tokyo
+position: b
 #  url: ""
 social:
 #- icon: envelope

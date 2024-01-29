@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Risa Kobayashi
 user_groups:
-- Organizing Committee
+- Local Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

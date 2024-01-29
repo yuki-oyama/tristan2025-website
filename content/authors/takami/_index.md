@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Kiyoshi Takami
 user_groups:
-- Organizing Committee
+- Local Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

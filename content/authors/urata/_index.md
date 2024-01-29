@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Junji Urata
 user_groups:
-- Organizing Committee
+- Local Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->
