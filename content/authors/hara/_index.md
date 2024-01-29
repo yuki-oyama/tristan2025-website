@@ -16,16 +16,14 @@ email: ""
 first_name: Yusuke
 highlight_name: false
 interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+- test
 last_name: Hara
 organizations:
-  - name: Associate Professor
+  - name: Tohoku University
 #  url: ""
 role: Secretary General <br>
       Tohoku University
-position:a
+position: a
 social:
 #- icon: envelope
 #  icon_pack: fas

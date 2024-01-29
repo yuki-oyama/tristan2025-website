@@ -12,7 +12,7 @@ sections:
     - Program Committee
     - Scientific Committee
   design:
-    show_interests: no
+    show_interests: yes
     show_role: yes
     show_organizations: yes
     show_social: no
