@@ -20,8 +20,8 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Iryo
-role: Tohoku University <br>
-Professor
+role: Co-chair <br>
+      Tohoku University
 organizations:
 - name: Co-Chair
 position: d
