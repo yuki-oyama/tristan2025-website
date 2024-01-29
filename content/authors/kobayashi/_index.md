@@ -21,10 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Kobayashi
 organizations:
-- name: Assistant Professor
+- name: University of Tokyo
 #  url: ""
-role: University of Tokyo
-position: Assistant Professor
+role: Assistant Professor
+position: e
 social:
 #- icon: envelope
 #  icon_pack: fas

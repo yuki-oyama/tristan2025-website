@@ -21,9 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Yamanaka
 organizations:
-#- name: Chuo Kensetsu Consultant,Co.,Ltd.
+- name: Chuo Kensetsu Consultant,Co.,Ltd.
 #  url: ""
-role: Chuo Kensetsu Consultant,Co.,Ltd.
+#role: Chuo Kensetsu Consultant,Co.,Ltd.
+position: j
 social:
 #- icon: envelope
 #  icon_pack: fas

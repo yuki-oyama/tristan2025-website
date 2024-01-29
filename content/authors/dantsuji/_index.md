@@ -21,9 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Dantsuji
 organizations:
-- name: Assistant Professor
+- name: Kanazawa University
 #  url: ""
-role: Kanazawa University
+role: Assistant Professor
+position: c
 social:
 #- icon: envelope
 #  icon_pack: fas

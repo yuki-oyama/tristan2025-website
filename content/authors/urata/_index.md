@@ -21,10 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Urata
 organizations:
-- name: Associate Professor
+- name: University of Tsukuba
 #  url: ""
-role: University of Tsukuba
-position: Associate Professor
+role: Associate Professor
+position: i
 social:
 #- icon: envelope
 #  icon_pack: fas

@@ -21,9 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Ando
 organizations:
-- name: Assistant Professor
+- name: Kumamoto University
 #  url: ""
-role: Kumamoto University
+role:  Assistant Professor
+position: b
 social:
 #- icon: envelope
 #  icon_pack: fas

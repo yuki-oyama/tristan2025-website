@@ -8,10 +8,10 @@ interests:
 #- Information Retrieval
 last_name: Takami
 organizations:
-- name: Associate Professor
+- name: University of Tokyo
 #  url: ""
-role: The University of Tokyo
-position: Associate Professor
+role: Associate Professor
+position: h
 social:
 #- icon: envelope
 #  icon_pack: fas

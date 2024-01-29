@@ -21,10 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Parady
 organizations:
-- name: Lecturer
+- name: University of Tokyo
 #  url: ""
-role: University of Tokyo
-position: Lecturer
+role: Lecturer
+position: g
 social:
 #- icon: envelope
 #  icon_pack: fas
