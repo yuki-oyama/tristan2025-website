@@ -25,6 +25,7 @@ organizations:
 #  url: ""
 role: Secretary General <br>
       Tohoku University
+position:a
 social:
 #- icon: envelope
 #  icon_pack: fas
