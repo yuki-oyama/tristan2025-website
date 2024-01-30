@@ -16,7 +16,7 @@ email: ""
 first_name: Yusuke
 highlight_name: false
 interests:
-- test
+#- test
 last_name: Hara
 organizations:
   - name: Secretary General <br>
