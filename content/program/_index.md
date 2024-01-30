@@ -1,7 +1,7 @@
 ---
 date: "2022-10-24"
-title: Conference Program
-type: landing
+title: "Conference Program"
+type: pages
 sections:
 - block: markdown
   content:
@@ -17,12 +17,12 @@ sections:
 
 ### Yafeng Yin
 
-![](avatar.jpg)
+![](images/yafeng.jpg)
 Yafeng Yin BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO 
 
 ### Karen Smilowitz
 
-![](avatar.jpg)
+![](images/karen.jpg)
 Karen Smilowitz BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO 
 
 
