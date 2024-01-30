@@ -21,10 +21,9 @@ interests:
 #- Information Retrieval
 last_name: Hato
 #  url: ""
-role: Professor
+role: University of Tokyo
 organizations:
-- name: Chair <br>
-      University of Tokyo
+- name: Chair Professor
 position: a
 social:
 #- icon: envelope

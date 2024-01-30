@@ -20,10 +20,9 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Fukuda
-role: Professor
+role: University of Tokyo
 organizations:
-- name: Co-Chair <br>
-      University of Tokyo
+- name: Co-Chair Professor
 position: b
 #  url: ""
 social:

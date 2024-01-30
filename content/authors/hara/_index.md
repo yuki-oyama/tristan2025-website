@@ -19,10 +19,9 @@ interests:
 #- test
 last_name: Hara
 organizations:
-  - name: Secretary General <br>
-      Tohoku University
+  - name: Secretary General Associate Professor
 #  url: ""
-role: Associate Professor
+role: Tohoku University
 position: a
 social:
 #- icon: envelope
