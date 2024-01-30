@@ -3,12 +3,12 @@ date: "2022-10-24"
 sections:
 - block: markdown
   content:
-    title: Call for Papers
+    title: Call for Submissions
   design:
     show_interests: false
     show_role: true
     show_social: true
-title: Call for Papers
+title: Call for Submissions
 type: landing
 ---
 

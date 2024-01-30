@@ -22,7 +22,7 @@ interests:
 last_name: Kamiya
 #  url: ""
 role: University of the Ryukyus
-Professor
+role: Professor
 organizations:
 - name: Co-Chair
 position: c
