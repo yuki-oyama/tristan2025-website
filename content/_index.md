@@ -87,6 +87,7 @@ sections:
     #image:
     #  filename: logoB_tate.png
     text: |
+      **Important Dates**
       - Submissions site opens: 15 October 2024
       - Extended abstract submission: 15 December 2024
       - Notification of acceptance: 15 March 2025
@@ -94,7 +95,7 @@ sections:
       - Early-bird registration: until 20 April 2025
     
     title:
-       Important Dates
+       null
   
   design:
     columns: "2"
