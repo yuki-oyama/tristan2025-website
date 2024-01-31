@@ -82,6 +82,23 @@ sections:
     show_organizations: yes
     show_social: no
 
+- block: hero
+  content:
+    #image:
+    #  filename: logoB_tate.png
+    text: |
+      - Submissions site opens: 15 October 2024
+      - Extended abstract submission: 15 December 2024
+      - Notification of acceptance: 15 March 2025
+      - Submission of revised extended abstracts: 31 March 2025
+      - Early-bird registration: until 20 April 2025
+    
+    title:
+       Important Dates
+  
+  design:
+    columns: "2"
+
 #- block: collection
 #  content:
 #    count: 5

@@ -21,3 +21,5 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 
 ![](shinryokan1.jpg)
 
+## Transportation
+
