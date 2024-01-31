@@ -25,24 +25,9 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 |---|---|
 |![](shinryokan1.jpg)|![](shinryokan2.jpg)|-->
 
-<style>
-  ul {
-    display: flex;
-    justify-content: center;
-  }
-
-  li {
-    list-style: none;
-  }
-
-  li:nth-child(2) {
-    margin: 0 10px;
-  }
-</style>
-
 <ul>
-<li><img src="shinryokan1.jpg" width="300" height="200" alt="" /></li>
-<li><img src="shinryokan2.jpg" width="300" height="200" alt="" /></li>
+<li><img src="shinryokan1.jpg" alt="" /></li>
+<li><img src="shinryokan2.jpg" alt="" /></li>
 </ul>
 
 ## Getting to the Venue
@@ -73,3 +58,19 @@ We plan to prepare recommendations of various types of accommodation so that eve
 |---|---|
 |![](busena.jpg)|![](manza.jpg)|
 -->
+
+
+<style>
+  ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  li:nth-child(2) {
+    margin: 0 10px;
+  }
+</style>
