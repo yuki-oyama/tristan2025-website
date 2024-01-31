@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Oyama | TRISTAN 2025</title>
+    <link>https://tristan2025test.netlify.app/author/yuki-oyama/</link>
+      <atom:link href="https://tristan2025test.netlify.app/author/yuki-oyama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuki Oyama</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://tristan2025test.netlify.app/author/yuki-oyama/avatar_hud737f9721ca34601a93ece61613dd86b_44922_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yuki Oyama</title>
+      <link>https://tristan2025test.netlify.app/author/yuki-oyama/</link>
+    </image>
+    
+  </channel>
+</rss>
