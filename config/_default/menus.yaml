@@ -16,9 +16,9 @@ main:
   - name: Venue
     url: venue
     weight: 50
-  #- name: Program
-  #  url: program
-  #  weight: 50
+  - name: Registration
+    url: registration
+    weight: 60
   #- name: Events
   #  url: event
   #  weight: 50
@@ -27,4 +27,4 @@ main:
   #  weight: 60
   - name: Contact
     url: contact
-    weight: 70
+    weight: 200
