@@ -1,10 +1,10 @@
 ---
 bio: null 
-education:
-  courses:
-  - course: Ph.D. Civil and Environmental Engineering
-    institution: University of California, Berkeley
-    year: 2001
+#education:
+#  courses:
+  #- course: Ph.D. Civil and Environmental Engineering
+  #  institution: University of California, Berkeley
+  #  year: 2001
   #- course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2009

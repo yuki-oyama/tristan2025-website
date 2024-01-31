@@ -1,10 +1,10 @@
 ---
 bio: null
-education:
-  courses:
-  - course: PhD, Civil Engineering
-    institution: University of Tokyo
-    year: 2002
+#education:
+#  courses:
+#  - course: PhD, Civil Engineering
+#    institution: University of Tokyo
+#    year: 2002
   #- course: MEng in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
   #  year: 2009
