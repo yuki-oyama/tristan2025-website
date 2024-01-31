@@ -62,6 +62,10 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tristan2025test.netlify.app/venue/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tristan2025test.netlify.app/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -135,6 +139,9 @@
     <loc>https://tristan2025test.netlify.app/author/junji-urata/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tristan2025test.netlify.app/author/karen-smilowitz/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tristan2025test.netlify.app/author/kiyoshi-takami/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -151,6 +158,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025test.netlify.app/author/takao-dantsuji/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025test.netlify.app/author/yafeng-yin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025test.netlify.app/author/yuki-oyama/</loc>

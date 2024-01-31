@@ -13,9 +13,12 @@ main:
   - name: Call
     url: call
     weight: 40
-  - name: Program
-    url: program
+  - name: Venue
+    url: venue
     weight: 50
+  #- name: Program
+  #  url: program
+  #  weight: 50
   #- name: Events
   #  url: event
   #  weight: 50
