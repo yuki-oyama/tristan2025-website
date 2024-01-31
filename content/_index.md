@@ -34,16 +34,16 @@ sections:
     image:
       filename: logoB_tate.png
     text: |
-      **Twelveth Triennial Symposium on Transportation Analysis conference (TRISTAN XII)**
-      
       <!--**June 22 to 27, 2025**  
       **[Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in Okinawa, Japan**-->       
       
-       TRISTAN XII will take place from **June 22 to 27, 2025**, at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in **Okinawa, Japan**.
-      <br>
+       Twelveth Triennial Symposium on Transportation Analysis conference (TRISTAN XII) will take place from **June 22 to 27, 2025**, at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in **Okinawa, Japan**.
     
       <!--As the tradition of TRISTAN, the symposium is full of opportunity of interactions with high scientific quality during and outside technical sessions, a good sense of community, and enriching and enjoyable social tours in the island! We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.-->
-      
+    
+    title:
+       TRISTAN XII
+    
     cta:
       url: call
       label: Call for submissions
