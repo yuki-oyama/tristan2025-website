@@ -19,9 +19,9 @@ interests:
 #- test
 last_name: Hara
 organizations:
-  - name: Associate Professor
+  - name: Tohoku University
 #  url: ""
-role: Tohoku University
+role: Associate Professor
 position: a
 social:
 #- icon: envelope

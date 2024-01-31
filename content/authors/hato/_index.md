@@ -21,9 +21,9 @@ interests:
 #- Information Retrieval
 last_name: Hato
 #  url: ""
-role: University of Tokyo
+role: Professor
 organizations:
-- name: Professor
+- name: University of Tokyo
 position: a
 social:
 #- icon: envelope
@@ -46,4 +46,3 @@ user_groups:
 ---
 
 <!-- Eiji Hato is a professor of ...-->
-
