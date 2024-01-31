@@ -40,4 +40,11 @@ More information on transportation, including the bus network, is available at t
 ## Accommodation
 We plan to prepare recommendations of various types of accommodation so that every participant, including professors, researchers, students and practitioners, can find a suitable place to stay.
 
-## Glance at Okinawa
+<!--## Glance at Okinawa
+
+### Beaches around the venue
+
+|||
+|---|---|
+|![](busena.jpg)|![](manza.jpg)|
+-->
