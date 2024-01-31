@@ -40,12 +40,21 @@ More information on transportation, including the bus network, is available at t
 
 <!--|||
 |---|---|
-|![](ferry.jpg)|![](bus.jpg)|-->
+|![](ferry.jpg)|![](bus.jpg)|
 
 <ul>
 <li><img src="ferry.jpg" alt="" /></li>
 <li><img src="bus.jpg" alt="" /></li>
-</ul>
+</ul>-->
+
+<div class="img__inner">
+     <div class="img__card">
+         <img src="ferry_small.jpg" alt="" class="img-item">
+     </div>
+     <div class="img__card">
+         <img src="bus_small.jpg" alt="" class="img-item">
+     </div>
+</div>
 
 ## Accommodation
 We plan to prepare recommendations of various types of accommodation so that every participant, including professors, researchers, students and practitioners, can find a suitable place to stay.
@@ -55,18 +64,26 @@ We plan to prepare recommendations of various types of accommodation so that eve
 
 ### Beaches around the venue
 
-<ul>
-<li><img src="busena.jpg" alt="" /></li>
-<li><img src="manza.jpg" alt="" /></li>
-</ul>
+<div class="img__inner">
+     <div class="img__card">
+         <img src="busena.jpg" alt="" class="img-item">
+     </div>
+     <div class="img__card">
+         <img src="manza.jpg" alt="" class="img-item">
+     </div>
+</div>
 
 ### History and tradition of the Ryukyu Islands
 Shuri Castle (Shuri-jō), located in Naha, Okinawa, is a historical landmark that once served as the palace of the Ryukyu Kingdom. Dating back to the 14th century, this castle is a symbol of Okinawa's distinct cultural heritage, blending Japanese, Chinese, and Southeast Asian architectural influences. Known for its striking red tiles and the iconic Shureimon gate, the castle showcases the unique Ryukyuan style. It functioned as the political and administrative center of the Ryukyu Kingdom for centuries. Shuri Castle has undergone several reconstructions due to wars and fires, including significant damage during World War II and a recent fire in 2019. Despite these challenges, the castle remains a testament to the resilience of Okinawan culture. Today, as a UNESCO World Heritage Site, it attracts visitors worldwide, offering insights into the rich history and traditions of the Ryukyu Islands.
 
-<ul>
-<li><img src="castle.jpg" alt="" /></li>
-<li><img src="castle2.jpg" alt="" /></li>
-</ul>
+<div class="img__inner">
+     <div class="img__card">
+         <img src="castle.jpg" alt="" class="img-item">
+     </div>
+     <div class="img__card">
+         <img src="castle2.jpg" alt="" class="img-item">
+     </div>
+</div>
 
 
 ### Isolated islands surrounding Okinawa Island
@@ -77,12 +94,12 @@ The Kerama Islands, a short trip from the main island, are a group of smaller is
 These islands, along with many others in Okinawa Prefecture, provide a tranquil escape and an opportunity to experience the serene beauty and rich cultural heritage distinct to this part of Japan.
 
 <div class="img__inner">
-       <div class="img__card">
-           <img src="minna.jpg" alt="" class="img-item">
-       </div>
-       <div class="img__card">
-           <img src="beach2.jpg" alt="" class="img-item">
-       </div>
+     <div class="img__card">
+         <img src="minna.jpg" alt="" class="img-item">
+     </div>
+     <div class="img__card">
+         <img src="beach2.jpg" alt="" class="img-item">
+     </div>
 </div>
 
 
@@ -90,12 +107,14 @@ These islands, along with many others in Okinawa Prefecture, provide a tranquil 
 Mangroves are predominantly located in the estuaries and along the coastlines where freshwater meets seawater, creating a unique habitat. The mangroves are distinguished by their dense root systems, which not only protect shorelines from erosion but also provide a breeding ground and nursery for various marine species, including fish, crustaceans, and mollusks.
 Mangrove forests in Okinawa are not just ecological treasures; they are also culturally significant. They have been traditionally used in local industries, such as fishing and salt production. Today, these mangroves are popular among tourists for activities like kayaking and guided nature walks, offering a chance to explore and learn about these vital ecosystems. Their importance in carbon sequestration, especially in the fight against climate change, further underscores the value of preserving Okinawa's mangroves.
 
-
-<ul>
-<li><img src="mangrove.jpg" alt="" /></li>
-<li><img src="mangrove2.jpg" alt="" /></li>
-</ul>
-
+<div class="img__inner">
+     <div class="img__card">
+         <img src="mangrove.jpg" alt="" class="img-item">
+     </div>
+     <div class="img__card">
+         <img src="mangrove2.jpg" alt="" class="img-item">
+     </div>
+</div>
 
 <style>
   ul {
@@ -120,8 +139,9 @@ Mangrove forests in Okinawa are not just ecological treasures; they are also cul
    padding: 0 0;
 
    max-width: 1000px;
+   max-height: 500px;
 
-   margin: 10px 10px;
+   margin: 5px 5px;
 
   }
   .img__card {
