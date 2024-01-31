@@ -13,7 +13,7 @@ sections:
     show_social: true
 ---
 
-Okinawa island, located in the southernmost region of Japan, offers a captivating blend of natural beauty and rich cultural heritage influenced by its history of being an independent kingdom, then later becoming a part of Japan.
+Okinawa island, located in the southernmost region of Japan, offers a captivating blend of natural beauty and rich cultural heritage influenced by its history of being an independent kingdom, then later becoming a part of Japan. We are delighted to host the TRISTAN symposium in Okinawa.
 
 You can find official travel guide to Okinawa at [VISIT OKINAWA JAPAN](https://visitokinawajapan.com/).
 
@@ -64,6 +64,8 @@ More information on transportation, including the bus network, is available at t
 We plan to prepare recommendations of various types of accommodation so that every participant, including professors, researchers, students and practitioners, can find a suitable place to stay.
 
 If you need the information before the announcement, please send us e-mail from the [contact form](/contact). 
+<br>
+<br>
 
 
 ## Attractors in Okinawa (to name a few)
