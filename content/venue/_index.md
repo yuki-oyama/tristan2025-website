@@ -53,13 +53,13 @@ After arriving at Naha Airport, there are convenient, safe and on-time bus lines
 More information on transportation, including the bus network, is available at the [official travel guide website](https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/).
 
 
-|||
+<!--|||
 |---|---|
-|![](ferry.jpg)|![](bus.jpg)|
+|![](ferry.jpg)|![](bus.jpg)|-->
 
 <ul>
-<li><img src="ferry.jpg" width="300" height="200" alt="" /></li>
-<li><img src="bus.jpg" width="300" height="200" alt="" /></li>
+<li><img src="ferry.jpg" alt="" /></li>
+<li><img src="bus.jpg" alt="" /></li>
 </ul>
 
 ## Accommodation
