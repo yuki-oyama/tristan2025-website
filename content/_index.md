@@ -25,7 +25,7 @@ sections:
     columns: "2"
     background:
       image: 
-        filename: busena_small.jpg
+        filename: busena_high.jpg
         darken: 0.5
         size: cover
         position: center
