@@ -39,17 +39,20 @@ sections:
       <!--**June 22 to 27, 2025**  
       **[Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in Okinawa, Japan**-->       
       
-       TRISTAN XII will take place from **June 22 to 27, 2025**, at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in **Okinawa, Japan** (in-person only).
+       TRISTAN XII will take place from **June 22 to 27, 2025**, at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in **Okinawa, Japan**.
+      <br>
+    
+      <!--As the tradition of TRISTAN, the symposium is full of opportunity of interactions with high scientific quality during and outside technical sessions, a good sense of community, and enriching and enjoyable social tours in the island! We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.-->
       
-      As the tradition of TRISTAN, the symposium is full of opportunity of interactions with high scientific quality during and outside technical sessions, a good sense of community, and enriching and enjoyable social tours in the island! We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.
     cta:
       url: call
-      label: Call for papers
+      label: Call for submissions
       icon_pack: fas
       icon: paper-plane
   
   design:
     columns: "2"
+    font_size: small
       
 - block: collection
   content:
