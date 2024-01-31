@@ -26,9 +26,9 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 |![](shinryokan1.jpg)|![](shinryokan2.jpg)|
 
 ## Getting to the Venue
-To get to the venue, all participants can arrive at **Naha Airport**, the biggest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the two **Tokyo Airports** (Haneda and Narita), and many other major airports around Japan. 
+To get to the venue, all participants can arrive at **Naha Airport**, the main and largest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the two **Tokyo Airports** (Haneda and Narita), and many other major airports around Japan. 
 
-After arriving at Naha Airport, there are many convenient, safe and on-time bus lines connecting to around the venue. You can also rent a car to get around the Okinawa Island.
+After arriving at Naha Airport, there are convenient, safe and on-time bus lines connecting to around the venue. You can also rent a car to get around the Okinawa Island.
 
 More information on transportation, including the bus network, is available at the [official travel guide website](https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/).
 
