@@ -69,6 +69,19 @@ sections:
     columns: "2"
     view: compact
 
+- block: people
+  content:
+    sort_ascending: yes
+    sort_by: Params.position
+    title: Plenary Speakers
+    user_groups:
+    - Keynote speakers
+  design:
+    show_interests: no
+    show_role: no
+    show_organizations: yes
+    show_social: no
+
 #- block: collection
 #  content:
 #    count: 5
