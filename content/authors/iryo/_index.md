@@ -22,7 +22,7 @@ interests:
 last_name: Iryo
 role: Tohoku University
 organizations:
-- name: Co-chair Professor
+- name: Professor
 position: d
 social:
 #- icon: envelope

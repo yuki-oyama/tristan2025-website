@@ -23,7 +23,7 @@ last_name: Kamiya
 #  url: ""
 role: University of the Ryukyus
 organizations:
-- name: Co-Chair Professor
+- name: Professor
 position: c
 social:
 #- icon: envelope

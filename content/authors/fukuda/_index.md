@@ -22,7 +22,7 @@ interests:
 last_name: Fukuda
 role: University of Tokyo
 organizations:
-- name: Co-Chair Professor
+- name: Professor
 position: b
 #  url: ""
 social:

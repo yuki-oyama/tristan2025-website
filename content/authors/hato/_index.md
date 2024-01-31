@@ -23,7 +23,7 @@ last_name: Hato
 #  url: ""
 role: University of Tokyo
 organizations:
-- name: Chair Professor
+- name: Professor
 position: a
 social:
 #- icon: envelope
