@@ -8,6 +8,7 @@ sections:
     title: Committee
     user_groups:
     - Chair
+    - Co-Chair
     - Local Organizing Committee
     - Program Committee
     - Scientific Committee

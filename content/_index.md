@@ -75,7 +75,8 @@ sections:
     sort_by: Params.position
     title: Plenary Speakers
     user_groups:
-    - Keynote speakers
+      - Keynote speakers
+    text: More to come!
   design:
     show_interests: no
     show_role: no

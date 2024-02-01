@@ -41,7 +41,7 @@ superuser: false
 title: Takamasa Iryo
 user_groups:
 #- Organizing Committee
-- Chair
+- Co-Chair
 ---
 
 <!-- Eiji Hato is a professor of ... -->

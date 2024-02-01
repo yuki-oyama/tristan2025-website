@@ -42,7 +42,7 @@ superuser: false
 title: Daisuke Kamiya
 user_groups:
 #- Organizing Committee
-- Chair
+- Co-Chair
 ---
 
 <!-- Eiji Hato is a professor of ... -->

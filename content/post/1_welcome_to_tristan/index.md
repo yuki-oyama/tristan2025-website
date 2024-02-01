@@ -10,7 +10,7 @@ authors: ["admin"] #"hato", "kamiya", "iryo"
 
 We are honored to host the12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)! 
 
-The symposium will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan. It is organized by The University of Tokyo, University of the Ryukyus, and Tohoku University, Japan.
+The symposium will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan. It is organized by The University of Tokyo, in cooperation with University of the Ryukyus, and Tohoku University.
 
 The TRISTAN symposium is a fantastic opportunity to showcase state-of-the-art research on innovative models, methodologies, analysis, and applications in Transportation Science, mainly based on Operations Research. 
 

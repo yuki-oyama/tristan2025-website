@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Daisuke Fukuda
 user_groups:
-- Chair
+- Co-Chair
 ---
 
 <!-- Eiji Hato is a professor of ... -->
