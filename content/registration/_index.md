@@ -14,4 +14,5 @@ type: landing
 
 <!-- Please see below for a list of topics. -->
 Registration details will be announced at a later date.
-The participation fee is expected to be about the same as in the past symposiums.
+
+The registration fee will be in line with previous conferences.
