@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Program | TRISTAN 2025</title>
+    <link>https://tristan2025test.netlify.app/program/</link>
+      <atom:link href="https://tristan2025test.netlify.app/program/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference Program</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025test.netlify.app/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Conference Program</title>
+      <link>https://tristan2025test.netlify.app/program/</link>
+    </image>
+    
+  </channel>
+</rss>

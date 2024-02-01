@@ -13,10 +13,10 @@ sections:
     #appointment_url: https://calendly.com
     autolink: true
     coordinates:
-      latitude: "26.542592537771643"
-      longitude: "127.93422222328738"
+      latitude: "35.71432100520097"
+      longitude: "139.76003826955326"
     #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: secretary@bin.t.u-tokyo.ac.jp
+    email: tristan2025@bin.t.u-tokyo.ac.jp
     form:
       formspree:
         id: null
@@ -27,7 +27,8 @@ sections:
     #- Monday 10:00 to 13:00
     #- Wednesday 09:00 to 10:00
     phone: null
-    text: 
+    text:
+      Please feel free to contact us if you have any questions! 
       #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus
       #augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor
       #ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus

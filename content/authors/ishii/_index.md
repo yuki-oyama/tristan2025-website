@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Ishii
 organizations:
-#- name: The Institute of Behavioral Science
+- name: The Institute of Behavioral Science
 #  url: ""
 role: The Institute of Behavioral Science
 position: d

@@ -16,11 +16,10 @@ email: ""
 first_name: Yusuke
 highlight_name: false
 interests:
-- test
+#- test
 last_name: Hara
 organizations:
-  - name: Secretary General <br>
-      Tohoku University
+  - name: Tohoku University
 #  url: ""
 role: Associate Professor
 position: a

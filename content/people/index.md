@@ -12,8 +12,8 @@ sections:
     - Program Committee
     - Scientific Committee
   design:
-    show_interests: yes
-    show_role: yes
+    show_interests: no
+    show_role: no
     show_organizations: yes
     show_social: no
 date: "2022-10-24"

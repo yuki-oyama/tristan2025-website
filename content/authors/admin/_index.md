@@ -26,7 +26,7 @@ role: Organizer
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:secretary@bin.t.u-tokyo.ac.jp
+  link: mailto:tristan2025@bin.t.u-tokyo.ac.jp
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

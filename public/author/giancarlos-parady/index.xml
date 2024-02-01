@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giancarlos Parady | TRISTAN 2025</title>
+    <link>https://tristan2025test.netlify.app/author/giancarlos-parady/</link>
+      <atom:link href="https://tristan2025test.netlify.app/author/giancarlos-parady/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giancarlos Parady</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://tristan2025test.netlify.app/author/giancarlos-parady/avatar_hubf9d84d7a0196eca2bca730ebcd9317e_21094_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Giancarlos Parady</title>
+      <link>https://tristan2025test.netlify.app/author/giancarlos-parady/</link>
+    </image>
+    
+  </channel>
+</rss>

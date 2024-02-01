@@ -5,6 +5,7 @@
 .DS_Store
 .Rprofile
 themes/.DS_Store
+content/.DS_Store
 
 # folders
 _ref/

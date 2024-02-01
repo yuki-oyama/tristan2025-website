@@ -23,8 +23,7 @@ last_name: Hato
 #  url: ""
 role: Professor
 organizations:
-- name: Chair <br>
-      University of Tokyo
+- name: University of Tokyo
 position: a
 social:
 #- icon: envelope
@@ -47,4 +46,3 @@ user_groups:
 ---
 
 <!-- Eiji Hato is a professor of ...-->
-

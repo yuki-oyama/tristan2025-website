@@ -21,10 +21,9 @@ interests:
 #- Information Retrieval
 last_name: Kamiya
 #  url: ""
-role: University of the Ryukyus
 role: Professor
 organizations:
-- name: Co-Chair
+- name: University of the Ryukyus
 position: c
 social:
 #- icon: envelope
