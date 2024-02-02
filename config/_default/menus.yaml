@@ -7,7 +7,7 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: Committee
+  - name: Committees
     url: people
     weight: 30
   - name: Call
