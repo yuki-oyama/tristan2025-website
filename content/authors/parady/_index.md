@@ -23,8 +23,8 @@ last_name: Parady
 organizations:
 - name: University of Tokyo
 #  url: ""
-role: Lecturer
-position: g
+role: 
+position: 11
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Giancarlos Parady
 user_groups:
-- Local Organizing Committee
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

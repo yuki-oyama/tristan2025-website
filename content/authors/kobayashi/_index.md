@@ -23,8 +23,8 @@ last_name: Kobayashi
 organizations:
 - name: University of Tokyo
 #  url: ""
-role: Assistant Professor
-position: e
+role: 
+position: 14
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Risa Kobayashi
 user_groups:
-- Local Organizing Committee
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

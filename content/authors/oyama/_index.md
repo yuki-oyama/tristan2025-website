@@ -23,8 +23,8 @@ last_name: Yuki
 organizations:
 - name: Shibaura Institute of Technology
 #  url: ""
-role: Associate Professor
-position: f
+role: 
+position: 7
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Yuki Oyama
 user_groups:
-- Local Organizing Committee
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

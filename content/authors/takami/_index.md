@@ -10,8 +10,8 @@ last_name: Takami
 organizations:
 - name: University of Tokyo
 #  url: ""
-role: Associate Professor
-position: h
+role:
+position: 8
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Kiyoshi Takami
 user_groups:
-- Local Organizing Committee
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

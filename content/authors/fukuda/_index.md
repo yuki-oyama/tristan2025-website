@@ -20,10 +20,10 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Fukuda
-role: Professor
+role: Co-Chair
 organizations:
 - name: University of Tokyo
-position: b
+position: 2
 #  url: ""
 social:
 #- icon: envelope
@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Daisuke Fukuda
 user_groups:
-- Co-Chair
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

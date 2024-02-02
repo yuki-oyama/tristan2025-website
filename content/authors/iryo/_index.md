@@ -20,10 +20,10 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 last_name: Iryo
-role: Professor
+role: Co-Chair
 organizations:
 - name: Tohoku University
-position: d
+position: 4
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -40,8 +40,8 @@ social:
 superuser: false
 title: Takamasa Iryo
 user_groups:
-#- Organizing Committee
-- Co-Chair
+- Organizing Committee
+#- Co-Chair
 ---
 
 <!-- Eiji Hato is a professor of ... -->

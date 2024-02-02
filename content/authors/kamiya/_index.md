@@ -21,10 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Kamiya
 #  url: ""
-role: Professor
+role: Co-Chair
 organizations:
 - name: University of the Ryukyus
-position: c
+position: 3
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,8 +41,8 @@ social:
 superuser: false
 title: Daisuke Kamiya
 user_groups:
-#- Organizing Committee
-- Co-Chair
+- Organizing Committee
+#- Co-Chair
 ---
 
 <!-- Eiji Hato is a professor of ... -->

@@ -9,13 +9,13 @@ sections:
     user_groups:
     - Chair
     - Co-Chair
-    - Local Organizing Committee
+    - Organizing Committee
     - Program Committee
     - Scientific Committee
   design:
     show_interests: no
-    show_role: no
-    show_organizations: yes
+    show_role: yes
+    show_organizations: no
     show_social: no
 date: "2022-10-24"
 type: landing

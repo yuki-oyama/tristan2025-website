@@ -23,8 +23,8 @@ last_name: Dantsuji
 organizations:
 - name: Kanazawa University
 #  url: ""
-role: Assistant Professor
-position: c
+role: 
+position: 13
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Takao Dantsuji
 user_groups:
-- Local Organizing Committee
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

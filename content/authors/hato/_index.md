@@ -21,10 +21,10 @@ interests:
 #- Information Retrieval
 last_name: Hato
 #  url: ""
-role: Professor
+role: Chair
 organizations:
 - name: University of Tokyo
-position: a
+position: 1
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,8 +41,8 @@ social:
 superuser: true
 title: Eiji Hato
 user_groups:
-#- Organizing Committee
-- Chair
+- Organizing Committee
+
 ---
 
 <!-- Eiji Hato is a professor of ...-->

@@ -23,8 +23,8 @@ last_name: Urata
 organizations:
 - name: University of Tsukuba
 #  url: ""
-role: Associate Professor
-position: i
+role: 
+position: 9
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -41,7 +41,7 @@ social:
 superuser: false
 title: Junji Urata
 user_groups:
-- Local Organizing Committee
+- Organizing Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->
