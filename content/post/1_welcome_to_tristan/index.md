@@ -6,6 +6,7 @@ title: Welcome to TRISTAN 2025!
 categories: ["Announcement"]
 tags: ["announcement", "greeting"]
 authors: ["admin"] #"hato", "kamiya", "iryo"
+summary: Welcome message from the local organizing committee.
 ---
 
 We are honored to host the12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)! 
