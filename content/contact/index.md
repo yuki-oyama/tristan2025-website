@@ -3,13 +3,13 @@ date: "2022-10-24"
 sections:
 - block: contact
   content:
-    #address:
-    #  city: Stanford
-    #  country: United States
-    #  country_code: US
-    #  postcode: "94305"
-    #  region: CA
-    #  street: 450 Serra Mall
+    address:
+      city: Bunkyo-ku
+      country: Japan
+      country_code: JP
+      postcode: "113-8656"
+      region: Tokyo
+      street: 7-3-1 Hongo
     #appointment_url: https://calendly.com
     autolink: true
     coordinates:
@@ -17,12 +17,12 @@ sections:
       longitude: "139.76003826955326"
     #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     email: tristan2025@bin.t.u-tokyo.ac.jp
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
+    #form:
+    #  formspree:
+    #    id: null
+    #  netlify:
+    #    captcha: false
+    #  provider: netlify
     office_hours:
     #- Monday 10:00 to 13:00
     #- Wednesday 09:00 to 10:00
