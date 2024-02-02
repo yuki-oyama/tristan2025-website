@@ -15,11 +15,11 @@ sections:
 
 Okinawa island, located in the southernmost region of Japan, offers a captivating blend of natural beauty and rich cultural heritage influenced by its history of being an independent kingdom, then later becoming a part of Japan. We are delighted to host the TRISTAN symposium in Okinawa.
 
-You can find official travel guide to Okinawa at [VISIT OKINAWA JAPAN](https://visitokinawajapan.com/).
+You can find an official travel guide to Okinawa at [VISIT OKINAWA JAPAN](https://visitokinawajapan.com/).
 
 
 ## Venue
-The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28). It is located in the centeral part of Okinawa island, standing on Busena Point, one of the most scenic spots in Okinawa, surrounded by the beautiful emerald ocean and blue sky. "Bankoku Shinryo" meaning "Bridge between Nations," is named after a phrase carved on the large bell at Shuri Castle. Since the 14th century, the Ryukyu Kingdom strived to promote cultural exchange through trade with China and Southeast Asia (from the official website). We believe this is a perfect venue for the fantastic TRISTAN symposium to foster international networking and collaborations!
+The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28), located in the central part of Okinawa island. It stands on Busena Point, one of the most scenic spots in Okinawa, surrounded by the beautiful emerald ocean and blue sky. "Bankoku Shinryo" meaning "Bridge between Nations," is named after a phrase carved on the large bell at Shuri Castle. Since the 14th century, the Ryukyu Kingdom strived to promote cultural exchange through trade with China and Southeast Asia (from the official website). We believe this is a perfect venue for the fantastic TRISTAN symposium to foster international networking and collaborations!
 
 <!--|||
 |---|---|
@@ -35,7 +35,7 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 </div>
 
 ## Getting to the Venue
-To get to the venue, all participants can arrive at **Naha Airport**, the main and largest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the two **Tokyo Airports** (Haneda and Narita), and many other major airports around Japan. 
+To get to the venue, all participants can arrive at **Naha Airport**, the main and largest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the **two Airports in Tokyo** (Haneda and Narita), and many other major airports around Japan. 
 
 After arriving at Naha Airport, there are convenient, safe and on-time bus lines connecting to around the venue. You can also rent a car to get around the Okinawa Island.
 
@@ -61,9 +61,9 @@ More information on transportation, including the bus network, is available at t
 </div>
 
 ## Accommodation
-We plan to prepare recommendations of various types of accommodation so that every participant, including professors, researchers, students and practitioners, can find a suitable place to stay.
+We plan to prepare recommendations for various types of accommodation so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.
 
-If you need the information before the announcement, please send us e-mail from the [contact](/contact). 
+If you need the information before the announcement, please e-mail us from the [contact page](/contact). 
 <br>
 <br>
 
@@ -72,8 +72,8 @@ If you need the information before the announcement, please send us e-mail from 
 
 ### Beaches around the venue
 The conference venue is surrounded by a number of beautiful beaches. 
-Busena Beach in Okinawa offers pristine white sands, clear turquoise waters, and vibrant coral reefs for travelers to relax and explore. 
-Manzamo, Okinawa's iconic cape, captivates with dramatic cliffs and panoramic ocean views, showcasing nature's breathtaking beauty.
+Busena Beach offers pristine white sands, clear turquoise waters, and vibrant coral reefs for travelers to relax and explore. 
+"Manzamo", Okinawa's iconic cape, captivates with dramatic cliffs and panoramic ocean views, showcasing nature's breathtaking beauty.
 
 <div class="img__inner">
      <div class="img__card">

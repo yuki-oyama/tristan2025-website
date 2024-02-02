@@ -15,7 +15,7 @@ The symposium will take place from June 22 to 27, 2025, at Bankoku Shinryokan in
 
 The TRISTAN symposium is a fantastic opportunity to showcase state-of-the-art research on innovative models, methodologies, analysis, and applications in Transportation Science, mainly based on Operations Research. 
 
-Earlier TRISTAN symposiums have established its tradition, we aim to provide a platform for idea exchanges and discussions to foster scientific and social networking and international collaborations. 
+Aligning with the tradition of earlier TRISTAN symposiums, we aim to provide a platform for idea exchanges and discussions to foster scientific and social networking and international collaborations. 
 Such opportunities will be given during and outside the technical sessions, including enjoyable social tours.
 
 We are expecting over 300 academics, researchers and practitioners from around the world. Please save the dates!
