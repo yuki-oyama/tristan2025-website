@@ -147,7 +147,7 @@ sections:
   content:
     subtitle: null
     text: |
-      {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      {{% cta cta_link="https://tristanconference.org/home" cta_text="Link to TRISTAN general webpage" %}}
     title: null
   design:
     columns: "1"
