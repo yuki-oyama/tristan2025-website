@@ -20,7 +20,7 @@ interests:
 #- Information Retrieval
 last_name: Crainic
 #  url: ""
-role: Sterring Committee Chair
+role: Steering Committee Chair
 organizations:
 - name: Université du Québec à Montréal
 position: 2
