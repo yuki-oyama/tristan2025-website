@@ -13,17 +13,17 @@ type: landing
 ---
 
 <!-- Please see below for a list of topics. -->
+The submission site will be open on 1st of August, 2024.
 
-![](aqua.jpg)
 
 ## Important Dates
 
 | Event | Date |
 | ------------------| ------------------------------ |
-| Submissions site opens: | 1 October 2024 |
-| Extended abstract submission: | 1 December 2024 |
-| Notification of acceptance: | 28 February 2025 |
-| Submission of revised extended abstracts: | 31 March 2025 |
+| Submissions site opens: | 1 August 2024 |
+| Extended abstract submission: | 15 October 2024 |
+| Notification of acceptance: | 15 January 2025 |
+| Submission of revised extended abstracts: | 15 February 2025 |
 | Early-bird registration: | until 20 April 2025 |
 |||
 
@@ -31,7 +31,12 @@ type: landing
 
 - Logistics and Freight Transport
 - Operations Research Applications in Transportation
+- Humanitarian Logistics and Disaster Management
 - Traffic Flow Models, Network Assignment, and Transport Network Economics
-- IST and Advanced Transportation Technologies
+- ITS and Advanced Transportation Technologies
 - Travel Demand/Behavior Modeling
-- Modal Transport and Management
+- Intermodal Transport, Synchromodality, and Physical Internet
+- City Logistics and Curbside Management
+- Smart City and Data Analytics
+
+![](aqua.jpg)

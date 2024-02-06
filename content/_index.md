@@ -15,11 +15,11 @@ sections:
       Earlier TRISTAN symposiums have established a tradition of a symposium of high scientific quality, with lots of interaction during and outside the technical sessions, a good sense of community, and enriching and enjoyable social tours.
       We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.-->
     
-    cta:
-      url: call
-      label: Call for submissions
-      icon_pack: fas
-      icon: paper-plane
+    #cta:
+    #  url: call
+    #  label: Call for submissions
+    #  icon_pack: fas
+    #  icon: paper-plane
       
   design:
     columns: "2"
@@ -89,10 +89,10 @@ sections:
     #  filename: logoB_tate.png
     text: |
       **Important Dates**
-      - Submissions site opens: 1 October 2024
-      - Extended abstract submission: 1 December 2024
-      - Notification of acceptance: 28 February 2025
-      - Submission of revised extended abstracts: 31 March 2025
+      - Submissions site opens: 1 August 2024
+      - Extended abstract submission: 15 October 2024
+      - Notification of acceptance: 15 January 2025
+      - Submission of revised extended abstracts: 15 February 2025
       - Early-bird registration: until 20 April 2025
     
     title:
