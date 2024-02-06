@@ -23,7 +23,7 @@ last_name: Fukuda
 role: Co-Chair
 organizations:
 - name: University of Tokyo
-position: 2
+position: 3
 #  url: ""
 social:
 #- icon: envelope

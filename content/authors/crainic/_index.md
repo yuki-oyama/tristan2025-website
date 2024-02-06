@@ -23,7 +23,7 @@ last_name: Crainic
 role: Sterring Committee Chair
 organizations:
 - name: Université du Québec à Montréal
-position: 3
+position: 2
 social:
 #- icon: envelope
 #  icon_pack: fas
