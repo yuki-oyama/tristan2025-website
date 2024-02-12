@@ -31,12 +31,13 @@ The submission site will be open on 1st of August, 2024.
 
 - Logistics and Freight Transport
 - Operations Research Applications in Transportation
-- Humanitarian Logistics and Disaster Management
 - Traffic Flow Models, Network Assignment, and Transport Network Economics
-- ITS and Advanced Transportation Technologies
 - Travel Demand/Behavior Modeling
+- Data Analytics, Learning, and Optimization in Transportation
+- Humanitarian Logistics and Disaster Management
+- Automated vehicles and Platooning
+- ITS and Advanced Transportation Technologies
 - Intermodal Transport, Synchromodality, and Physical Internet
-- City Logistics and Curbside Management
-- Smart City and Data Analytics
+- City Logistics and Smart City
 
 ![](aqua.jpg)
