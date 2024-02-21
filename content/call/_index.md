@@ -18,13 +18,13 @@ The submission site will be open on 1st of August, 2024.
 
 ## Important Dates
 
-| Event | Date |
+| Date | Event |
 | ------------------| ------------------------------ |
-| Submissions site opens: | 1 August 2024 |
-| Extended abstract submission: | 15 October 2024 |
-| Notification of acceptance: | 15 January 2025 |
-| Submission of revised extended abstracts: | 15 February 2025 |
-| Early-bird registration: | until 20 April 2025 |
+| August 1, 2024 | Submissions site open | 
+| October 15, 2024 | Extended abstract submission deadline (maximum 1500 words) |
+| January 15, 2025 | Notification of acceptance | 
+| February 15, 2025 | Submission of revised extended abstracts |
+| April 20, 2025 | Early-bird registration deadline | 
 |||
 
 ## Scope and Topics
