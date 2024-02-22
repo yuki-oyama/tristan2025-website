@@ -41,7 +41,7 @@ sections:
       <!--**June 22 to 27, 2025**  
       **[Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in Okinawa, Japan**-->       
       
-       We are honored to host the 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII), from **June 22 to 27, 2025**, at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28) in **Okinawa, Japan**. The aim of TRISTAN is to provide a platform to exchange and discuss ideas and foster international cooperation. We are expecting researchers and practitioners from around the world to discuss innovative models, methodologies and applications in Transportation Science.
+       We are honored to host the 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII), from **June 22 to 27, 2025**, at the [Bankoku Shinryokan](/venue) in **Okinawa, Japan**. The aim of TRISTAN is to provide a platform to exchange and discuss ideas and foster international cooperation. We are expecting researchers and practitioners from around the world to discuss innovative models, methodologies and applications in Transportation Science.
     
     title:
        null

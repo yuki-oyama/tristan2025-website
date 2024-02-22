@@ -22,22 +22,23 @@ The conference venue is surrounded by a number of beautiful beaches.
 Busena Beach offers pristine white sands, clear turquoise waters, and vibrant coral reefs for travelers to relax and explore. 
 "Manzamo", Okinawa's iconic cape, captivates with dramatic cliffs and panoramic ocean views, showcasing nature's breathtaking beauty.
 
-<div class="img__inner">
+![](beach.jpg)
+<!--<div class="img__inner">
      <div class="img__card">
          <img src="busena.jpg" alt="" class="img-item">
      </div>
      <div class="img__card">
          <img src="manza.jpg" alt="" class="img-item">
      </div>
-</div>
+</div>-->
 
 ## Excursion
 During the conference, we will organize enjoyable social tours.
 The 'Croissant Island’ is just over two square kilometers, and mostly flat with swathes of forest and land cleared for cattle to graze. The island is hemmed by white sand beaches and encircled by coral reefs teeming with tropical fish and green sea turtles. We enjoy marine activities and BBQ! 
 
-<iframe src="https://drive.google.com/file/d/1JBAbJ1Z4h567CHwQ-A9c55RHkGwuatKX/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" width="640" height="480" allow="autoplay"></iframe>
 
-More information is coming soon!
+More information on excursion is coming soon!
 
 
 <!--### Minna island-->

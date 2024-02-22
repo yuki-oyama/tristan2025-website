@@ -18,4 +18,4 @@ The TRISTAN symposium is a fantastic opportunity to showcase state-of-the-art re
 Aligning with the tradition of earlier TRISTAN symposiums, we aim to provide a platform for idea exchanges and discussions to foster scientific and social networking and international collaborations. 
 Such opportunities will be given during and outside the technical sessions, including enjoyable social tours.
 
-We are expecting over 300 academics, researchers and practitioners from around the world. Please save the dates!
+We are expecting academics, researchers and practitioners from around the world. Please save the dates!
