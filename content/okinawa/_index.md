@@ -36,7 +36,7 @@ Busena Beach offers pristine white sands, clear turquoise waters, and vibrant co
 During the conference, we will organize enjoyable social tours.
 The 'Croissant Island’ is just over two square kilometers, and mostly flat with swathes of forest and land cleared for cattle to graze. The island is hemmed by white sand beaches and encircled by coral reefs teeming with tropical fish and green sea turtles. We enjoy marine activities and BBQ! 
 
-<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" width="640" height="480" allow="autoplay" style="display:block;margin:0px auto"></iframe>
 
 More information on excursion is coming soon!
 
