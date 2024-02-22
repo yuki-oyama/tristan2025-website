@@ -16,9 +16,12 @@ main:
   - name: Venue
     url: venue
     weight: 50
+  - name: Okinawa
+    url: okinawa
+    weight: 60
   - name: Registration
     url: registration
-    weight: 60
+    weight: 70
   #- name: Events
   #  url: event
   #  weight: 50

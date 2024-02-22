@@ -63,9 +63,12 @@ If you need the information more details, please e-mail us from the [contact pag
 ### 1. [The Busena Terrace](https://www.terrace.co.jp/en/)
 The hotel is adjacent to Bankoku Shinryokan,  our venue, and has eight different types of restaurants on the premises and a variety of facilities including a private beach, indoor and outdoor pools, gym, and sauna. Fine cuisine, round-the-clock butler service, sybaritic spa treatments, and an exciting range of marine and other outdoor activities are all part of an enjoyable your time. A dedicated reservation site is being prepared.
 
+![](hotels/busena_hotel.jpg)
+
 ### 2. [Hotel Yugaf Inn Okinawa](https://www.yugaf.com/en/)
 Hotel Yugaf Inn Okinawa is a city resort facing Nago Bay, where guests can experience the emerald green ocean and ubtropical climate. They provide a relaxing and peaceful stay in Yanbaru, where a day feels eternal. From the hotel you can reach Bankoku Shinryokan, our venue, in 15 minutes by car. We also provide a private bus every morning and night.  A dedicated reservation site is being prepared.
 
+![](hotels/yugaf.jpg)
 
 
 <style>
