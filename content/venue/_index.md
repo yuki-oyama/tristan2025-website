@@ -27,6 +27,10 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
          <img src="shinryokan2.jpg" alt="" class="img-item">
      </div>
 </div>
+
+<div class="iframe-wrap">
+　<iframe src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" frameboader="0"></iframe>
+</div>
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 The introductory video is also available on [YouTube](https://youtu.be/TmkYzpFzFJ4?si=StM5SNE_MU0fTmVy).
@@ -108,5 +112,23 @@ Hotel Yugaf Inn Okinawa is a city resort facing Nago Bay, where guests can exper
   }
   .img-item {
      object-fit: cover;
+  }
+  
+  .iframe-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    overflow:auto; 
+    -webkit-overflow-scrolling:touch;
+    border:2px solid #ccc; 
+  }
+  .iframe-wrap iframe {
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      border:none;
+      display:block;
   }
 </style>
