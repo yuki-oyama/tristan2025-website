@@ -31,9 +31,9 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 <div class="iframe-wrap">
 　<iframe src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" frameboader="0"></iframe>
 </div>
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-
+<!-- 
 The introductory video is also available on [YouTube](https://youtu.be/TmkYzpFzFJ4?si=StM5SNE_MU0fTmVy).
+ -->
 
 
 ## Getting to the Venue
