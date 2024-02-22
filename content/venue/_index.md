@@ -29,6 +29,9 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 </div>
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
+The introductory video is also available on [YouTube](https://youtu.be/TmkYzpFzFJ4?si=StM5SNE_MU0fTmVy).
+
+
 ## Getting to the Venue
 To get to the venue, all participants can arrive at **Naha Airport**, the main and largest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the **two Airports in Tokyo** (Haneda and Narita), and many other major airports around Japan. 
 
@@ -44,7 +47,7 @@ More information on transportation, including the bus network, is available at t
 <ul>
 <li><img src="ferry.jpg" alt="" /></li>
 <li><img src="bus.jpg" alt="" /></li>
-</ul>-->
+</ul
 
 <div class="img__inner">
      <div class="img__card">
@@ -54,6 +57,7 @@ More information on transportation, including the bus network, is available at t
          <img src="bus.jpg" alt="" class="img-item">
      </div>
 </div>
+>-->
 
 ## Accommodation
 We have prepared prior reservation for two types of accommodation so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.
