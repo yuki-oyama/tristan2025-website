@@ -1,6 +1,6 @@
 ---
 date: "2022-10-24"
-title: Venue
+title: Conference Venue
 type: landing
 sections:
 - block: markdown
