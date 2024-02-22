@@ -18,7 +18,7 @@ Okinawa island, located in the southernmost region of Japan, offers a captivatin
 You can find an official travel guide to Okinawa at [VISIT OKINAWA JAPAN](https://visitokinawajapan.com/).
 
 
-## Venue
+## The Venue
 The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28), located in the central part of Okinawa island. It stands on Busena Point, one of the most scenic spots in Okinawa, surrounded by the beautiful emerald ocean and blue sky. "Bankoku Shinryo" meaning "Bridge between Nations," is named after a phrase carved on the large bell at Shuri Castle. Since the 14th century, the Ryukyu Kingdom strived to promote cultural exchange through trade with China and Southeast Asia (from the official website). We believe this is a perfect venue for the fantastic TRISTAN symposium to foster international networking and collaborations!
 
 <!--|||
@@ -30,10 +30,10 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
          <img src="shinryokan1.jpg" alt="" class="img-item">
      </div>
      <div class="img__card">
-         <iframe width="560" height="315" src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <img src="shinryokan2.jpg" alt="" class="img-item">
      </div>
 </div>
-<!-- <img src="shinryokan2.jpg" alt="" class="img-item"> -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/TmkYzpFzFJ4?si=HWEVwH5LzWbRpqYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 ## Getting to the Venue
 To get to the venue, all participants can arrive at **Naha Airport**, the main and largest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the **two Airports in Tokyo** (Haneda and Narita), and many other major airports around Japan. 
@@ -62,11 +62,15 @@ More information on transportation, including the bus network, is available at t
 </div>
 
 ## Accommodation
-We plan to prepare recommendations for various types of accommodation so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.
+We have prepared prior reservation for two types of accommodation so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.
+If you need the information more details, please e-mail us from the [contact page](/contact). 
+<br>
 
-If you need the information before the announcement, please e-mail us from the [contact page](/contact). 
-<br>
-<br>
+### 1. [The Busena Terrace](https://www.terrace.co.jp/en/)
+The hotel is adjacent to Bankoku Shinryokan,  our venue, and has eight different types of restaurants on the premises and a variety of facilities including a private beach, indoor and outdoor pools, gym, and sauna. Fine cuisine, round-the-clock butler service, sybaritic spa treatments, and an exciting range of marine and other outdoor activities are all part of an enjoyable your time. A dedicated reservation site is being prepared.
+
+### 2. [Hotel Yugaf Inn Okinawa](https://www.yugaf.com/en/)
+Hotel Yugaf Inn Okinawa is a city resort facing Nago Bay, where guests can experience the emerald green ocean and ubtropical climate. They provide a relaxing and peaceful stay in Yanbaru, where a day feels eternal. From the hotel you can reach Bankoku Shinryokan, our venue, in 15 minutes by car. We also provide a private bus every morning and night.  A dedicated reservation site is being prepared.
 
 
 ## Attractors in Okinawa (to name a few)
