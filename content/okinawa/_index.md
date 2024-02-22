@@ -36,7 +36,9 @@ Busena Beach offers pristine white sands, clear turquoise waters, and vibrant co
 During the conference, we will organize enjoyable social tours.
 The 'Croissant Island’ is just over two square kilometers, and mostly flat with swathes of forest and land cleared for cattle to graze. The island is hemmed by white sand beaches and encircled by coral reefs teeming with tropical fish and green sea turtles. We enjoy marine activities and BBQ! 
 
-<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" width="640" height="480" allow="autoplay" style="display:block;margin:0px auto"></iframe>
+<div class="iframe-wrap">
+　<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" frameboader="0"></iframe>
+</div>
 
 More information on excursion is coming soon!
 
@@ -128,6 +130,25 @@ Mangrove forests in Okinawa are not just ecological treasures; they are also cul
   }
   .img-item {
      object-fit: cover;
+  }
+  
+  
+  .iframe-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    overflow:auto; 
+    -webkit-overflow-scrolling:touch;
+    border:2px solid #ccc; 
+  }
+  .iframe-wrap iframe {
+      position:absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+      border:none;
+      display:block;
   }
 </style>
 
