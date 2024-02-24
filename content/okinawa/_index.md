@@ -34,19 +34,18 @@ Busena Beach offers pristine white sands, clear turquoise waters, and vibrant co
 
 ## Excursion
 During the conference, we will organize enjoyable social tours.
+
+### Minna island
 The 'Croissant Island’ is just over two square kilometers, and mostly flat with swathes of forest and land cleared for cattle to graze. The island is hemmed by white sand beaches and encircled by coral reefs teeming with tropical fish and green sea turtles. We enjoy marine activities and BBQ! 
 
 <div class="iframe-wrap">
 　<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" frameboader="0"></iframe>
 </div>
 
-More information on excursion is coming soon!
+### Okinawa Churaumi Aquarium and Ocean Expo Park
+The aquarium introduces you to the mystery of Okinawa’s marine creatures, starting with the naturally lit Coral Sea tank, which exhibits a large selection of coral reef. Next is the enormous, dynamic Kuroshio Sea tank, where you can observe the world’s biggest fish. The aquarium is currently breaking the record for the world's longest breeding of whale sharks, and is the first in the world to successfully have bred manta rays.
 
-
-<!--### Minna island-->
-<!--### Okinawa Churaumi Aquarium and Ocean Expo Park
-The aquarium introduces you to the mystery of Okinawa’s marine creatures, starting with the naturally lit Coral Sea tank, which exhibits a large selection of coral reef. Next is the enormous, dynamic Kuroshio Sea tank, where you can observe the world’s biggest fish as well as whale sharks and manta rays, which, in a world first, the aquarium has succeeded in breeding.-->
-
+![](aqua.jpg)
 
 ## Other attractors in Okinawa (to name a few)
 
