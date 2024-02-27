@@ -42,6 +42,8 @@ The 'Croissant Island’ is just over two square kilometers, and mostly flat wit
 　<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" frameboader="0"></iframe>
 </div>
 
+![](minna_pic.jpg)
+
 ### Okinawa Churaumi Aquarium and Ocean Expo Park
 The aquarium introduces you to the mystery of Okinawa’s marine creatures, starting with the naturally lit Coral Sea tank, which exhibits a large selection of coral reef. Next is the enormous, dynamic Kuroshio Sea tank, where you can observe the world’s biggest fish. The aquarium is currently breaking the record for the world's longest breeding of whale sharks, and is the first in the world to successfully have bred manta rays.
 
