@@ -15,6 +15,8 @@ type: landing
 <!-- Please see below for a list of topics. -->
 The submission site will be open on 1st of August, 2024.
 
+![](TRISTAN2025_flyer.jpg)
+
 
 ## Important Dates
 
