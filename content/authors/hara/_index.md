@@ -40,6 +40,7 @@ superuser: false
 title: Yusuke Hara
 user_groups:
 - Organizing Committee
+- Program Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

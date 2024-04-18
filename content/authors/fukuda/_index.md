@@ -42,6 +42,7 @@ superuser: false
 title: Daisuke Fukuda
 user_groups:
 - Organizing Committee
+- Program Committee
 ---
 
 <!-- Eiji Hato is a professor of ... -->

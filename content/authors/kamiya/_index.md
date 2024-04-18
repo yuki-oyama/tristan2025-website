@@ -42,6 +42,7 @@ superuser: false
 title: Daisuke Kamiya
 user_groups:
 - Organizing Committee
+- Program Committee
 #- Co-Chair
 ---
 

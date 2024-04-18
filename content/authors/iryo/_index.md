@@ -41,6 +41,7 @@ superuser: false
 title: Takamasa Iryo
 user_groups:
 - Organizing Committee
+- Program Committee
 #- Co-Chair
 ---
 

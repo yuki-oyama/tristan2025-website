@@ -41,6 +41,7 @@ superuser: false
 title: Teodor Gabriel Crainic
 user_groups:
 - Organizing Committee
+- Program Committee
 #- Co-Chair
 ---
 

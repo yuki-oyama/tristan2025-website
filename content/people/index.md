@@ -10,7 +10,7 @@ sections:
     #- Chair
     #- Co-Chair
     - Organizing Committee
-    #- Program Committee
+    - Program Committee
     #- Scientific Committee
   design:
     show_interests: no
