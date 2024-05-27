@@ -289,6 +289,11 @@
   <tr>
     <td><strong>Akimasa Fujiwara</strong><br><small>Hiroshima University, Japan</small></td>
     <td><strong>Roberto Wolfler</strong><br><small>Université Sorbonne Paris Nord, France</small></td>
+    <td><strong>Yuichi Mohri</strong><br><small>The Institute of Behavioral Sciences, Japan</small></td>
+  </tr>
+  <tr>
+    <td><strong>Takashi Ishida</strong><br><small>Highway Planning Inc., Japan</small></td>
+    <td><strong>Yasuhiro Nonaka</strong><br><small>Highway Planning Inc., Japan</small></td>
     <td></td>
   </tr>
 </table>
