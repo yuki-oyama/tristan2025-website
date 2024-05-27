@@ -1,1 +1,28 @@
 // Override this file to add your own SCSS styling.
+.scientific-committee-table {
+  width: 100%;
+  border-collapse: collapse;
+
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    vertical-align: top; /* テキストを上に揃える */
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tr:hover {
+    background-color: #ddd;
+  }
+
+  strong {
+    font-weight: bold;
+  }
+
+  small {
+    font-size: 0.8em;
+    color: #555;
+  }
+}
