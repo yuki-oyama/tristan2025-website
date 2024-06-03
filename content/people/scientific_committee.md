@@ -294,6 +294,6 @@
   <tr>
     <td><strong>Takashi Ishida</strong><br><small>Highway Planning Inc., Japan</small></td>
     <td><strong>Yasuhiro Nonaka</strong><br><small>Highway Planning Inc., Japan</small></td>
-    <td></td>
+    <td><strong>Latifa Oukhellou</strong><br><small>Université Gustave Eiffel, France</small></td>
   </tr>
 </table>
