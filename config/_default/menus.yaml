@@ -16,7 +16,7 @@ main:
   - name: Venue
     url: venue
     weight: 50
-    main:
+    children:
       - name: Location
       - url: venue/access
       - weight: 1
