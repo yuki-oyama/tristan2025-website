@@ -24,7 +24,6 @@ We offer three registration categories (Professional, Young Professional, and St
 | Professional | 136,000 JPY*2 | 126,000 JPY |
 | Young Professional*1 | 96,000 JPY | 86,000 JPY |
 | Student | 64,000 JPY | 54,000 JPY |
-|||
-*1: Age 35 or younger at the time of the TRISTAN conference (June 22, 2025). Must have valid government-issued photo ID displaying date of birth.
-*2: As of July 8, 2024, JPY136,000 is approximately equivalent to USD845 (JPY1 = USD0.0062).
+|> | > | *1: Age 35 or younger at the time of the TRISTAN conference (June 22, 2025). Must have valid government-issued photo ID displaying date of birth.|
+|> |> |*2: As of July 8, 2024, JPY136,000 is approximately equivalent to USD845 (JPY1 = USD0.0062).|
 |||
