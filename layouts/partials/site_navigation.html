@@ -1,0 +1,14 @@
+<ul class="nav">
+  {{ range .Site.Menus.main }}
+    <li class="nav-item{{ if .HasChildren }} dropdown{{ end }}">
+      <a class="nav-link{{ if .HasChildren }} dropdown-toggle{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+      {{ if .HasChildren }}
+        <ul class="dropdown-menu">
+          {{ range .Children }}
+            <li><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>
