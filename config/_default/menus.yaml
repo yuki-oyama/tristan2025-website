@@ -16,6 +16,10 @@ main:
   - name: Venue
     url: venue
     weight: 50
+    main:
+      - name: Location
+      - url: venue/access
+      - weight: 1
   - name: Okinawa
     url: okinawa
     weight: 60
