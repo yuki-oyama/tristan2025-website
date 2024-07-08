@@ -83,8 +83,8 @@ More information on the access to the venue is available at the [official websit
 ---
 
 ## <a name="accommodation">Accommodation</a>
-We have prepared prior reservation for two types of accommodation so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.
-If you need the information more details, please e-mail us from the [contact page](/contact). 
+We have prepared prior reservation for the following two types of accommodation: The Busena Terrace, adjacent to the conference venue; and Yugaf Inn Okinawa, located in the Nago city. You can also find other hotels with affordable prices in [the Nago city center](https://maps.app.goo.gl/dnLXC69CP3S8BePB6) (around 15 minutes by car), and we plan to **provide a private shuttle bus from the Nago city to the conference venue** every moning and night. Other attractive resort hotels are also available in the vicinity, but in those cases you will be required to drive your own car or take public transportation to the venue. If you need the information more details, please e-mail us from the [contact page](/contact). 
+<!--so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.-->
 <br>
 
 ### 1. [The Busena Terrace](https://www.terrace.co.jp/en/)
