@@ -99,6 +99,18 @@ Hotel Yugaf Inn Okinawa is a city resort facing Nago Bay, where guests can exper
 
 
 <style>
+  .custom-ul {
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-ul li {
+    list-style: none;
+  }
+
+  .custom-ul li:nth-child(2) {
+    margin: 0 10px;
+  }
   
   .img__inner {
 
