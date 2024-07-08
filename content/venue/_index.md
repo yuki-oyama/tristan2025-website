@@ -51,11 +51,9 @@ After arriving at Naha Airport, there are some transportation options to get aro
 
 <!--convenient, safe and on-time bus lines connecting to around the venue. You can also rent a car to get around the Okinawa Island. Available transportation options are as follows:-->
 
-<ul>
-  <li><strong>Bus</strong>: There are several convenient, safe and on-time bus lines connecting to around the venue. It takes around 2 - 2.5 hours and JPY 2,000 from Naha airport.</li>
-  <li><strong>Car rental</strong>: You can also rent a car to get around the Okinawa Island easily. It takes about 1.5 hours from Naha airport to the conference venue.</li>
-  <li><strong>Taxi</strong>: It costs JPY 15,000 - 20,000.</li>
-</ul>
+- **Bus**: There are several convenient, safe and on-time bus lines connecting to around the venue. It takes around 2 - 2.5 hours and JPY 2,000 from Naha airport.
+- **Car rental**: You can also rent a car to get around the Okinawa Island easily. It takes about 1.5 hours from Naha airport to the conference venue.
+- **Taxi**: It costs JPY 15,000 - 20,000.
 
 <!--More information on transportation, including the bus network, is available at the [official travel guide website](https://visitokinawajapan.com/plan-your-trip/getting-around-okinawa/).-->
 More information on the access to the venue is available at the [official website of Bankoku Shinryokan](https://www.shinryokan.com/detail.jsp?id=22317&menuid=6619&funcid=1).
@@ -101,18 +99,6 @@ Hotel Yugaf Inn Okinawa is a city resort facing Nago Bay, where guests can exper
 
 
 <style>
-  ul {
-    display: flex;
-    justify-content: center;
-  }
-
-  li {
-    list-style: none;
-  }
-
-  li:nth-child(2) {
-    margin: 0 10px;
-  }
   
   .img__inner {
 
