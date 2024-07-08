@@ -42,4 +42,4 @@ The submission site will be open on 1st of August, 2024.
 - Intermodal Transport, Synchromodality, and Physical Internet
 - City Logistics and Smart City
 
-![](aqua.jpg)
+![](aqua2.jpg)
