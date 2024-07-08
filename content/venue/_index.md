@@ -13,6 +13,13 @@ sections:
     show_social: true
 ---
 
+- [Bankoku Shinryokan](#venue)
+- [Access](#getting-to-the-venue)
+- [Accommodation](#accommodation)
+
+
+## <a name="venue">Bankoku Shinryokan</a>
+
 The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.com/menuIndex.jsp?id=21545&menuid=6407&funcid=28), located in the central part of Okinawa island. It stands on Busena Point, one of the most scenic spots in Okinawa, surrounded by the beautiful emerald ocean and blue sky. "Bankoku Shinryo" meaning "Bridge between Nations," is named after a phrase carved on the large bell at Shuri Castle. Since the 14th century, the Ryukyu Kingdom strived to promote cultural exchange through trade with China and Southeast Asia (from the official website). We believe this is a perfect venue for the fantastic TRISTAN symposium to foster international networking and collaborations!
 
 <!--|||
@@ -35,8 +42,9 @@ The symposium will be held at the [Bankoku Shinryokan](https://www.shinryokan.co
 The introductory video is also available on [YouTube](https://youtu.be/TmkYzpFzFJ4?si=StM5SNE_MU0fTmVy).
  -->
 
+---
 
-## Getting to the Venue
+## <a name="getting-to-the-venue">Getting to the Venue</a>
 To get to the venue, all participants can arrive at **Naha Airport**, the main and largest airport in Okinawa. Naha Airport has direct connections from major cities around Asia. Domestic flights also frequently operate to Naha from the **two Airports in Tokyo** (Haneda and Narita), and many other major airports around Japan. 
 
 After arriving at Naha Airport, there are convenient, safe and on-time bus lines connecting to around the venue. You can also rent a car to get around the Okinawa Island.
@@ -63,7 +71,9 @@ More information on transportation, including the bus network, is available at t
 </div>
 >-->
 
-## Accommodation
+---
+
+## <a name="accommodation">Accommodation</a>
 We have prepared prior reservation for two types of accommodation so that every participant, including professors, researchers, students, and practitioners, can find a suitable place to stay.
 If you need the information more details, please e-mail us from the [contact page](/contact). 
 <br>
