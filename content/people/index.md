@@ -26,18 +26,11 @@ sections:
     show_role: yes
     show_organizations: yes
     show_social: no
-- block: people
+- block: markdown
   content:
-    sort_ascending: yes
-    sort_by: Params.position
     title: <a name="program-committee">Program Committee</a>
-    user_groups:
-    - Program Committee
-  design:
-    show_interests: no
-    show_role: yes
-    show_organizations: yes
-    show_social: no
+    text: |
+      {{< include-markdown file="content/people/program_committee.md" >}}
 - block: markdown
   content:
     title: <a name="scientific-committee">Scientific Committee</a>
