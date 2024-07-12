@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: January 31, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.2b0f89e1d06dd9aefe660591a142e8b6.css" />
+  <link rel="stylesheet" href="/css/wowchemy.722c7d7dacf80b5df9d1aaf684eedfba.css" />
 
   
   
@@ -230,6 +230,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R52M04VGF7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-R52M04VGF7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -270,12 +309,12 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." />
+<meta name="description" content="The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://tristan2025test.netlify.app/author/karen-smilowitz/" />
-<link rel="canonical" href="https://tristan2025test.netlify.app/author/karen-smilowitz/" />
+<link rel="alternate" hreflang="en-us" href="https://tristan2025.org/author/karen-smilowitz/" />
+<link rel="canonical" href="https://tristan2025.org/author/karen-smilowitz/" />
 
 
 
@@ -307,14 +346,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://tristan2025test.netlify.app/author/karen-smilowitz/avatar_hub865c088409ed94d99b2ae1dfe272c6b_59560_270x270_fill_q75_lanczos_center.jpg" />
+<meta property="twitter:image" content="https://tristan2025.org/author/karen-smilowitz/avatar_hub865c088409ed94d99b2ae1dfe272c6b_59560_270x270_fill_q75_lanczos_center.jpg" />
 <meta property="og:site_name" content="TRISTAN 2025" />
-<meta property="og:url" content="https://tristan2025test.netlify.app/author/karen-smilowitz/" />
+<meta property="og:url" content="https://tristan2025.org/author/karen-smilowitz/" />
 <meta property="og:title" content="Karen Smilowitz | TRISTAN 2025" />
-<meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="https://tristan2025test.netlify.app/author/karen-smilowitz/avatar_hub865c088409ed94d99b2ae1dfe272c6b_59560_270x270_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)." /><meta property="og:image" content="https://tristan2025.org/author/karen-smilowitz/avatar_hub865c088409ed94d99b2ae1dfe272c6b_59560_270x270_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
 
   
 
@@ -522,7 +558,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/people"><span>Committee</span></a>
+            <a class="nav-link " href="/people"><span>Committees</span></a>
           </li>
 
           
@@ -581,6 +617,66 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/venue"><span>Venue</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/okinawa"><span>Okinawa</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/registration"><span>Registration</span></a>
           </li>
 
           
@@ -712,7 +808,7 @@
         
         <h3>
           
-          <span>Northweastern University</span>
+          <span>Northwestern University</span>
           
         </h3>
         
@@ -730,8 +826,8 @@
     
 
     <div class="article-style">
-      <p>Dr. Smilowitz studies modeling and solution approaches for logistics and transportation systems.  She has developed innovative modeling and solution techniques for these complex systems in both commercial and non-profit applications, working with transportation providers, logistics specialists and a range of non-profit organizations. She is currently leading the Northwestern Initiative on Humanitarian and Non-Profit Logistics.</p>
-<p>Dr. Smilowitz has worked on several projects in the area of operational improvement in community-based health care.  Community-based operations research is the application of decision models to social issues of a local nature. The goal of this field is to design policies and tactics that have the potential to improve individual life outcomes and neighborhood-level outcomes by addressing welfare, equity and administrative efficiency simultaneously.</p>
+      <p>Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial Engineering and Management Science at Northwestern University, with a joint appointment in the Operations group at the Kellogg School of Management.  Dr. Smilowitz is an expert in modeling and solution approaches for logistics and transportation systems in both commercial and nonprofit applications.  She has been instrumental in promoting the use of operations research within the humanitarian and nonproﬁt sectors through the Woodrow Wilson International Center for Scholars, the American Association for the Advancement of Science, and the National Academy of Engineering, as well as various media outlets.  Dr. Smilowitz is the Editor-in-Chief of Transportation Science and a Fellow of the INFORMS society.</p>
+<p>Dr. Smilowitz has worked on several projects in the area of operational improvement in community-based health care. Community-based operations research is the application of decision models to social issues of a local nature. The goal of this field is to design policies and tactics that have the potential to improve individual life outcomes and neighborhood-level outcomes by addressing welfare, equity and administrative efficiency simultaneously.</p>
 
     </div>
 
@@ -946,7 +1042,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.af9327db0521d4a01354bfc8b77a4324.js" type="module"></script>
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
 
 
 

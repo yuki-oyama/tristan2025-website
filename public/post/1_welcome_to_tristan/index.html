@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: January 31, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.2b0f89e1d06dd9aefe660591a142e8b6.css" />
+  <link rel="stylesheet" href="/css/wowchemy.722c7d7dacf80b5df9d1aaf684eedfba.css" />
 
   
   
@@ -230,6 +230,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R52M04VGF7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-R52M04VGF7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -270,12 +309,12 @@
 
   
 
-<meta name="description" content="We are honored to announce that the Twelfth Triennial Symposium on Transportation Analysis conference (TRISTAN XII) will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan (in-person only)." />
+<meta name="description" content="Welcome message from the local organizing committee." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://tristan2025test.netlify.app/post/1_welcome_to_tristan/" />
-<link rel="canonical" href="https://tristan2025test.netlify.app/post/1_welcome_to_tristan/" />
+<link rel="alternate" hreflang="en-us" href="https://tristan2025.org/post/1_welcome_to_tristan/" />
+<link rel="canonical" href="https://tristan2025.org/post/1_welcome_to_tristan/" />
 
 
 
@@ -305,14 +344,11 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://tristan2025test.netlify.app/post/1_welcome_to_tristan/featured.jpg" />
+<meta property="twitter:image" content="https://tristan2025.org/post/1_welcome_to_tristan/featured.jpg" />
 <meta property="og:site_name" content="TRISTAN 2025" />
-<meta property="og:url" content="https://tristan2025test.netlify.app/post/1_welcome_to_tristan/" />
+<meta property="og:url" content="https://tristan2025.org/post/1_welcome_to_tristan/" />
 <meta property="og:title" content="Welcome to TRISTAN 2025! | TRISTAN 2025" />
-<meta property="og:description" content="We are honored to announce that the Twelfth Triennial Symposium on Transportation Analysis conference (TRISTAN XII) will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan (in-person only)." /><meta property="og:image" content="https://tristan2025test.netlify.app/post/1_welcome_to_tristan/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Welcome message from the local organizing committee." /><meta property="og:image" content="https://tristan2025.org/post/1_welcome_to_tristan/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -347,12 +383,12 @@
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://tristan2025test.netlify.app/post/1_welcome_to_tristan/"
+    "@id": "https://tristan2025.org/post/1_welcome_to_tristan/"
   },
   "headline": "Welcome to TRISTAN 2025!",
   
   "image": [
-    "https://tristan2025test.netlify.app/post/1_welcome_to_tristan/featured.jpg"
+    "https://tristan2025.org/post/1_welcome_to_tristan/featured.jpg"
   ],
   
   "datePublished": "2023-07-14T00:00:00Z",
@@ -368,10 +404,10 @@
     "name": "TRISTAN 2025",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://tristan2025test.netlify.app/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_192x192_fit_lanczos_3.png"
+      "url": "https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_192x192_fit_lanczos_3.png"
     }
   },
-  "description": "We are honored to announce that the Twelfth Triennial Symposium on Transportation Analysis conference (TRISTAN XII) will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan (in-person only)."
+  "description": "Welcome message from the local organizing committee."
 }
 </script>
 
@@ -575,7 +611,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/people"><span>Committee</span></a>
+            <a class="nav-link " href="/people"><span>Committees</span></a>
           </li>
 
           
@@ -634,6 +670,66 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/venue"><span>Venue</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/okinawa"><span>Okinawa</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/registration"><span>Registration</span></a>
           </li>
 
           
@@ -817,10 +913,12 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>We are honored to announce that the Twelfth Triennial Symposium on Transportation Analysis conference (TRISTAN XII) will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan (in-person only).
-The symposium is organized by the University of Tokyo.</p>
-<p>The TRISTAN symposium is an opportunity to showcase recent research and applications in transportation analysis and transportation science. Earlier TRISTAN symposiums have established a tradition of a symposium of high scientific quality, with lots of interaction during and outside the technical sessions, a good sense of community, and enriching and enjoyable social tours.</p>
-<p>We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.</p>
+      <p>We are honored to host the12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)!</p>
+<p>The symposium will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan. It is organized by The University of Tokyo, in cooperation with University of the Ryukyus, and Tohoku University.</p>
+<p>The TRISTAN symposium is a fantastic opportunity to showcase state-of-the-art research on innovative models, methodologies, analysis, and applications in Transportation Science, mainly based on Operations Research.</p>
+<p>Aligning with the tradition of earlier TRISTAN symposiums, we aim to provide a platform for idea exchanges and discussions to foster scientific and social networking and international collaborations.
+Such opportunities will be given during and outside the technical sessions, including enjoyable social tours.</p>
+<p>We are expecting academics, researchers and practitioners from around the world. Please save the dates!</p>
 
     </div>
 
@@ -855,7 +953,7 @@ The symposium is organized by the University of Tokyo.</p>
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftristan2025test.netlify.app%2Fpost%2F1_welcome_to_tristan%2F&amp;text=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftristan2025.org%2Fpost%2F1_welcome_to_tristan%2F&amp;text=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -872,7 +970,7 @@ The symposium is organized by the University of Tokyo.</p>
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftristan2025test.netlify.app%2Fpost%2F1_welcome_to_tristan%2F&amp;t=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftristan2025.org%2Fpost%2F1_welcome_to_tristan%2F&amp;t=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -891,7 +989,7 @@ The symposium is organized by the University of Tokyo.</p>
         
       
       <li>
-        <a href="mailto:?subject=Welcome%20to%20TRISTAN%202025%21&amp;body=https%3A%2F%2Ftristan2025test.netlify.app%2Fpost%2F1_welcome_to_tristan%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Welcome%20to%20TRISTAN%202025%21&amp;body=https%3A%2F%2Ftristan2025.org%2Fpost%2F1_welcome_to_tristan%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -908,7 +1006,7 @@ The symposium is organized by the University of Tokyo.</p>
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftristan2025test.netlify.app%2Fpost%2F1_welcome_to_tristan%2F&amp;title=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftristan2025.org%2Fpost%2F1_welcome_to_tristan%2F&amp;title=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -925,7 +1023,7 @@ The symposium is organized by the University of Tokyo.</p>
       
       
       <li>
-        <a href="whatsapp://send?text=Welcome&#43;to&#43;TRISTAN&#43;2025%21%20https%3A%2F%2Ftristan2025test.netlify.app%2Fpost%2F1_welcome_to_tristan%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Welcome&#43;to&#43;TRISTAN&#43;2025%21%20https%3A%2F%2Ftristan2025.org%2Fpost%2F1_welcome_to_tristan%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -942,7 +1040,7 @@ The symposium is organized by the University of Tokyo.</p>
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ftristan2025test.netlify.app%2Fpost%2F1_welcome_to_tristan%2F&amp;title=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Ftristan2025.org%2Fpost%2F1_welcome_to_tristan%2F&amp;title=Welcome&#43;to&#43;TRISTAN&#43;2025%21" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1218,7 +1316,7 @@ The symposium is organized by the University of Tokyo.</p>
 </div>
 
 
-  <script src="/js/wowchemy-publication.af9327db0521d4a01354bfc8b77a4324.js" type="module"></script>
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
 
 
 

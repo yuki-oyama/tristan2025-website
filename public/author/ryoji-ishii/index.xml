@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryoji Ishii | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/author/ryoji-ishii/</link>
-      <atom:link href="https://tristan2025test.netlify.app/author/ryoji-ishii/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/author/ryoji-ishii/</link>
+      <atom:link href="https://tristan2025.org/author/ryoji-ishii/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryoji Ishii</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tristan2025test.netlify.app/author/ryoji-ishii/avatar_hu151a358ea6f5bcaced72d86d22b82ff6_25081_270x270_fill_q75_lanczos_center.JPG</url>
+      <url>https://tristan2025.org/author/ryoji-ishii/avatar_hu151a358ea6f5bcaced72d86d22b82ff6_25081_270x270_fill_q75_lanczos_center.JPG</url>
       <title>Ryoji Ishii</title>
-      <link>https://tristan2025test.netlify.app/author/ryoji-ishii/</link>
+      <link>https://tristan2025.org/author/ryoji-ishii/</link>
     </image>
     
   </channel>

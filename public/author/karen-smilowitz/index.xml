@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karen Smilowitz | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/author/karen-smilowitz/</link>
-      <atom:link href="https://tristan2025test.netlify.app/author/karen-smilowitz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/author/karen-smilowitz/</link>
+      <atom:link href="https://tristan2025.org/author/karen-smilowitz/index.xml" rel="self" type="application/rss+xml" />
     <description>Karen Smilowitz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tristan2025test.netlify.app/author/karen-smilowitz/avatar_hub865c088409ed94d99b2ae1dfe272c6b_59560_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://tristan2025.org/author/karen-smilowitz/avatar_hub865c088409ed94d99b2ae1dfe272c6b_59560_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Karen Smilowitz</title>
-      <link>https://tristan2025test.netlify.app/author/karen-smilowitz/</link>
+      <link>https://tristan2025.org/author/karen-smilowitz/</link>
     </image>
     
   </channel>

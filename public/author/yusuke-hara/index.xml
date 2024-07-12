@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yusuke Hara | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/author/yusuke-hara/</link>
-      <atom:link href="https://tristan2025test.netlify.app/author/yusuke-hara/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/author/yusuke-hara/</link>
+      <atom:link href="https://tristan2025.org/author/yusuke-hara/index.xml" rel="self" type="application/rss+xml" />
     <description>Yusuke Hara</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tristan2025test.netlify.app/author/yusuke-hara/avatar_hu58e4ee142adab24cb92285bd153f93e3_138136_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://tristan2025.org/author/yusuke-hara/avatar_hu58e4ee142adab24cb92285bd153f93e3_138136_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yusuke Hara</title>
-      <link>https://tristan2025test.netlify.app/author/yusuke-hara/</link>
+      <link>https://tristan2025.org/author/yusuke-hara/</link>
     </image>
     
   </channel>
