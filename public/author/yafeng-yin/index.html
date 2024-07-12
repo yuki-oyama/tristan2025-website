@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: January 31, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.2b0f89e1d06dd9aefe660591a142e8b6.css" />
+  <link rel="stylesheet" href="/css/wowchemy.722c7d7dacf80b5df9d1aaf684eedfba.css" />
 
   
   
@@ -230,6 +230,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R52M04VGF7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-R52M04VGF7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -270,12 +309,12 @@
 
   
 
-<meta name="description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." />
+<meta name="description" content="The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://tristan2025test.netlify.app/author/yafeng-yin/" />
-<link rel="canonical" href="https://tristan2025test.netlify.app/author/yafeng-yin/" />
+<link rel="alternate" hreflang="en-us" href="https://tristan2025.org/author/yafeng-yin/" />
+<link rel="canonical" href="https://tristan2025.org/author/yafeng-yin/" />
 
 
 
@@ -307,14 +346,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://tristan2025test.netlify.app/author/yafeng-yin/avatar_hu5438825b9b6d1014226d20d231e650c2_27068_270x270_fill_q75_lanczos_center.jpg" />
+<meta property="twitter:image" content="https://tristan2025.org/author/yafeng-yin/avatar_hu5438825b9b6d1014226d20d231e650c2_27068_270x270_fill_q75_lanczos_center.jpg" />
 <meta property="og:site_name" content="TRISTAN 2025" />
-<meta property="og:url" content="https://tristan2025test.netlify.app/author/yafeng-yin/" />
+<meta property="og:url" content="https://tristan2025.org/author/yafeng-yin/" />
 <meta property="og:title" content="Yafeng Yin | TRISTAN 2025" />
-<meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="https://tristan2025test.netlify.app/author/yafeng-yin/avatar_hu5438825b9b6d1014226d20d231e650c2_27068_270x270_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)." /><meta property="og:image" content="https://tristan2025.org/author/yafeng-yin/avatar_hu5438825b9b6d1014226d20d231e650c2_27068_270x270_fill_q75_lanczos_center.jpg" /><meta property="og:locale" content="en-us" />
 
   
 
@@ -522,7 +558,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/people"><span>Committee</span></a>
+            <a class="nav-link " href="/people"><span>Committees</span></a>
           </li>
 
           
@@ -581,6 +617,66 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/venue"><span>Venue</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/okinawa"><span>Okinawa</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/registration"><span>Registration</span></a>
           </li>
 
           
@@ -730,8 +826,7 @@
     
 
     <div class="article-style">
-      <!-- Eiji Hato is a professor of ...-->
-<p>Dr. Yafeng Yin is a Professor of Civil and Environmental Engineering and Professor of Industrial and Operations Engineering at University of Michigan, Ann Arbor. His research aims to analyze and enhance multimodal transportation systems towards efficiency, resilience and environmental sustainability. Currently he focuses on developing innovative mobility solutions and services by leveraging vehicle connectivity and automation. Dr. Yin has published nearly 150 refereed papers in leading academic journals. He also has extensive experience with editing academic journals. He was the Editor-in-Chief of Transportation Research Part C: Emerging Technologies between 2014 and 2020 and currently serves as Area Editor of Transportation Science and Associate Editor of Transportation Research Part B: Methodological, another two flagship journals in the transportation domain. He also serves on the International Advisory Committee of the International Symposium of Transportation and Traffic Theory (ISTTT) and the Steering Committee of the World Conference on Transport Research Society (WCTRS).</p>
+      <p>Dr. Yafeng Yin is Donald Cleveland Collegiate Professor of Engineering, and Professor and Donald Malloure Department Chair of Civil and Environmental Engineering, and Professor of Industrial and Operations Engineering at University of Michigan, Ann Arbor. His research aims to analyze and enhance multimodal transportation systems towards efficiency, resilience and environmental sustainability. Currently he focuses on developing innovative mobility solutions and services by leveraging vehicle connectivity and automation. Dr. Yin has published over 150 refereed papers in leading academic journals. He also has extensive experience with editing academic journals. He was the Editor-in-Chief of Transportation Research Part C: Emerging Technologies between 2014 and 2020 and currently serves as Area Editor of Transportation Science and Associate Editor of Transportation Research Part B: Methodological, another two flagship journals in the transportation domain. He also serves on the International Advisory Committee of the International Symposium of Transportation and Traffic Theory (ISTTT) and the Steering Committee of the World Conference on Transport Research Society (WCTRS).</p>
 
     </div>
 
@@ -946,7 +1041,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.af9327db0521d4a01354bfc8b77a4324.js" type="module"></script>
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
 
 
 

@@ -293,7 +293,7 @@
   </tr>
   <tr>
     <td><strong>Yasuhiro Nonaka</strong><br><small>Highway Planning Inc., Japan</small></td>
-    <td></td>
-    <td></td>
+    <td><strong>Mutsunori Yagiura</strong><br><small>Nagoya University, Japan</small></td>
+    <td><strong>Nur Diana Safitri</strong><br><small>Hiroshima University, Japan</small></td>
   </tr>
 </table>

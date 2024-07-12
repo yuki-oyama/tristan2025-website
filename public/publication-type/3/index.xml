@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/publication-type/3/</link>
-      <atom:link href="https://tristan2025test.netlify.app/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/publication-type/3/</link>
+      <atom:link href="https://tristan2025.org/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tristan2025test.netlify.app/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
       <title>3</title>
-      <link>https://tristan2025test.netlify.app/publication-type/3/</link>
+      <link>https://tristan2025.org/publication-type/3/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://tristan2025test.netlify.app/publication/preprint/</link>
+      <link>https://tristan2025.org/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/publication/preprint/</guid>
+      <guid>https://tristan2025.org/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

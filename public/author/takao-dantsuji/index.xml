@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takao Dantsuji | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/author/takao-dantsuji/</link>
-      <atom:link href="https://tristan2025test.netlify.app/author/takao-dantsuji/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/author/takao-dantsuji/</link>
+      <atom:link href="https://tristan2025.org/author/takao-dantsuji/index.xml" rel="self" type="application/rss+xml" />
     <description>Takao Dantsuji</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tristan2025test.netlify.app/author/takao-dantsuji/avatar_hua4152a4ec16679bef0c57cc8669dd83b_770207_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://tristan2025.org/author/takao-dantsuji/avatar_hua4152a4ec16679bef0c57cc8669dd83b_770207_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Takao Dantsuji</title>
-      <link>https://tristan2025test.netlify.app/author/takao-dantsuji/</link>
+      <link>https://tristan2025.org/author/takao-dantsuji/</link>
     </image>
     
   </channel>

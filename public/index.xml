@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/</link>
-      <atom:link href="https://tristan2025test.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/</link>
+      <atom:link href="https://tristan2025.org/index.xml" rel="self" type="application/rss+xml" />
     <description>TRISTAN 2025</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tristan2025test.netlify.app/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
       <title>TRISTAN 2025</title>
-      <link>https://tristan2025test.netlify.app/</link>
+      <link>https://tristan2025.org/</link>
     </image>
     
     <item>
       <title>Gala Dinner</title>
-      <link>https://tristan2025test.netlify.app/event/example/</link>
+      <link>https://tristan2025.org/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/event/example/</guid>
+      <guid>https://tristan2025.org/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,54 +29,64 @@
     
     <item>
       <title>Welcome to TRISTAN 2025!</title>
-      <link>https://tristan2025test.netlify.app/post/1_welcome_to_tristan/</link>
+      <link>https://tristan2025.org/post/1_welcome_to_tristan/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/post/1_welcome_to_tristan/</guid>
-      <description>&lt;p&gt;We are honored to announce that the Twelfth Triennial Symposium on Transportation Analysis conference (TRISTAN XII) will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan (in-person only).
-The symposium is organized by the University of Tokyo.&lt;/p&gt;
-&lt;p&gt;The TRISTAN symposium is an opportunity to showcase recent research and applications in transportation analysis and transportation science. Earlier TRISTAN symposiums have established a tradition of a symposium of high scientific quality, with lots of interaction during and outside the technical sessions, a good sense of community, and enriching and enjoyable social tours.&lt;/p&gt;
-&lt;p&gt;We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.&lt;/p&gt;
+      <guid>https://tristan2025.org/post/1_welcome_to_tristan/</guid>
+      <description>&lt;p&gt;We are honored to host the12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)!&lt;/p&gt;
+&lt;p&gt;The symposium will take place from June 22 to 27, 2025, at Bankoku Shinryokan in Okinawa, Japan. It is organized by The University of Tokyo, in cooperation with University of the Ryukyus, and Tohoku University.&lt;/p&gt;
+&lt;p&gt;The TRISTAN symposium is a fantastic opportunity to showcase state-of-the-art research on innovative models, methodologies, analysis, and applications in Transportation Science, mainly based on Operations Research.&lt;/p&gt;
+&lt;p&gt;Aligning with the tradition of earlier TRISTAN symposiums, we aim to provide a platform for idea exchanges and discussions to foster scientific and social networking and international collaborations.
+Such opportunities will be given during and outside the technical sessions, including enjoyable social tours.&lt;/p&gt;
+&lt;p&gt;We are expecting academics, researchers and practitioners from around the world. Please save the dates!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://tristan2025test.netlify.app/contact/</link>
+      <title>Conference Program</title>
+      <link>https://tristan2025.org/human/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/contact/</guid>
+      <guid>https://tristan2025.org/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tristan2025.org/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>https://tristan2025test.netlify.app/people/</link>
+      <link>https://tristan2025.org/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/people/</guid>
+      <guid>https://tristan2025.org/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://tristan2025test.netlify.app/tour/</link>
+      <link>https://tristan2025.org/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/tour/</guid>
+      <guid>https://tristan2025.org/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://tristan2025test.netlify.app/publication/preprint/</link>
+      <link>https://tristan2025.org/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/publication/preprint/</guid>
+      <guid>https://tristan2025.org/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://tristan2025test.netlify.app/publication/journal-article/</link>
+      <link>https://tristan2025.org/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/publication/journal-article/</guid>
+      <guid>https://tristan2025.org/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -88,9 +98,9 @@ The symposium is organized by the University of Tokyo.&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://tristan2025test.netlify.app/publication/conference-paper/</link>
+      <link>https://tristan2025.org/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/publication/conference-paper/</guid>
+      <guid>https://tristan2025.org/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,9 +112,9 @@ The symposium is organized by the University of Tokyo.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://tristan2025test.netlify.app/admin/config.yml</link>
+      <link>https://tristan2025.org/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tristan2025test.netlify.app/admin/config.yml</guid>
+      <guid>https://tristan2025.org/admin/config.yml</guid>
       <description></description>
     </item>
     
