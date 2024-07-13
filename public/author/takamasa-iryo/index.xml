@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takamasa Iryo | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/author/takamasa-iryo/</link>
-      <atom:link href="https://tristan2025test.netlify.app/author/takamasa-iryo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/author/takamasa-iryo/</link>
+      <atom:link href="https://tristan2025.org/author/takamasa-iryo/index.xml" rel="self" type="application/rss+xml" />
     <description>Takamasa Iryo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tristan2025test.netlify.app/author/takamasa-iryo/avatar_hu127d7356f5bbc1510c3e7a6d9677dfab_16524_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://tristan2025.org/author/takamasa-iryo/avatar_hu127d7356f5bbc1510c3e7a6d9677dfab_16524_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Takamasa Iryo</title>
-      <link>https://tristan2025test.netlify.app/author/takamasa-iryo/</link>
+      <link>https://tristan2025.org/author/takamasa-iryo/</link>
     </image>
     
   </channel>

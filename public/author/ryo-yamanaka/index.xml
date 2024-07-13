@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryo Yamanaka | TRISTAN 2025</title>
-    <link>https://tristan2025test.netlify.app/author/ryo-yamanaka/</link>
-      <atom:link href="https://tristan2025test.netlify.app/author/ryo-yamanaka/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tristan2025.org/author/ryo-yamanaka/</link>
+      <atom:link href="https://tristan2025.org/author/ryo-yamanaka/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryo Yamanaka</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://tristan2025test.netlify.app/author/ryo-yamanaka/avatar_hu3a957ad5f197241bbaf8b65a16cb8fb7_648681_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://tristan2025.org/author/ryo-yamanaka/avatar_hu3a957ad5f197241bbaf8b65a16cb8fb7_648681_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Ryo Yamanaka</title>
-      <link>https://tristan2025test.netlify.app/author/ryo-yamanaka/</link>
+      <link>https://tristan2025.org/author/ryo-yamanaka/</link>
     </image>
     
   </channel>

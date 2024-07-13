@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: January 31, 2024 --><html lang="en-us" >
+<!-- Last Published: May 27, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.2b0f89e1d06dd9aefe660591a142e8b6.css" />
+  <link rel="stylesheet" href="/css/wowchemy.722c7d7dacf80b5df9d1aaf684eedfba.css" />
 
   
   
@@ -230,6 +230,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R52M04VGF7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-R52M04VGF7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -274,8 +313,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://tristan2025test.netlify.app/contact/" />
-<link rel="canonical" href="https://tristan2025test.netlify.app/contact/" />
+<link rel="alternate" hreflang="en-us" href="https://tristan2025.org/contact/" />
+<link rel="canonical" href="https://tristan2025.org/contact/" />
 
 
 
@@ -306,14 +345,11 @@
 
 
 <meta property="twitter:card" content="summary" />
-
-  <meta property="twitter:site" content="@wowchemy" />
-  <meta property="twitter:creator" content="@wowchemy" />
-<meta property="twitter:image" content="https://tristan2025test.netlify.app/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png" />
+<meta property="twitter:image" content="https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png" />
 <meta property="og:site_name" content="TRISTAN 2025" />
-<meta property="og:url" content="https://tristan2025test.netlify.app/contact/" />
+<meta property="og:url" content="https://tristan2025.org/contact/" />
 <meta property="og:title" content="Contact | TRISTAN 2025" />
-<meta property="og:description" content="" /><meta property="og:image" content="https://tristan2025test.netlify.app/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="" /><meta property="og:image" content="https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -529,7 +565,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/people"><span>Committee</span></a>
+            <a class="nav-link " href="/people"><span>Committees</span></a>
           </li>
 
           
@@ -588,6 +624,66 @@
 
           <li class="nav-item">
             <a class="nav-link " href="/venue"><span>Venue</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/okinawa"><span>Okinawa</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/registration"><span>Registration</span></a>
           </li>
 
           
@@ -774,35 +870,6 @@
 
   
 
-    
-    
-      
-    
-
-    <div class="mb-3">
-      <form name="contact" method="POST" netlify netlify-honeypot="_gotcha"  >
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputName">Name</label>
-          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
-        </div>
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputEmail">Email</label>
-          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-        </div>
-        <div class="form-group">
-          <label class="sr-only" for="inputMessage">Message</label>
-          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-        </div>
-        
-        <div class="d-none">
-          <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
-        </div>
-        
-        <button type="submit" class="btn btn-primary px-3 py-2 w-100">Send</button>
-      </form>
-    </div>
-  
-
   <ul class="fa-ul">
 
     
@@ -815,6 +882,12 @@
     
 
     
+    
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address">7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656</span>
+      </li>
     
 
     
@@ -833,7 +906,7 @@
     <input id="map-provider" value="mapnik">
     <input id="map-lat" value="35.71432100520097">
     <input id="map-lng" value="139.76003826955326">
-    <input id="map-dir" value="">
+    <input id="map-dir" value="7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656">
     <input id="map-zoom" value="15">
     <input id="map-api-key" value="">
   </div>
@@ -932,7 +1005,7 @@
 
 
 <section id="section-markdown" class="home-section wg-markdown  fullscreen" style="padding: 20px 0 20px 0;" >
- <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://tristan2025test.netlify.app/media/oyama/cosa_hu4c25fa7365445ffe5d33f657d3624af6_1262119_1920x1920_fit_q75_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(1);">
+ <div class="home-section-bg  bg-image" style="background-image: url(&#39;https://tristan2025.org/media/oyama/cosa_hu4c25fa7365445ffe5d33f657d3624af6_1262119_1920x1920_fit_q75_h2_lanczos.webp&#39;);background-size: cover;background-position: center;filter: brightness(1);">
    
  </div>
   <div class="container">
@@ -1162,7 +1235,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.af9327db0521d4a01354bfc8b77a4324.js" type="module"></script>
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
 
 
 
