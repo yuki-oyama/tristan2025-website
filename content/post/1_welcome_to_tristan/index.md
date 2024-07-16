@@ -5,7 +5,7 @@ image:
 title: Welcome to TRISTAN 2025!
 categories: [] #"Announcement"
 tags: ["announcement", "greeting"]
-authors: ["admin"] #"hato", "kamiya", "iryo"
+authors: [] #"admin", #"hato", "kamiya", "iryo"
 summary: Welcome message from the local organizing committee.
 ---
 
