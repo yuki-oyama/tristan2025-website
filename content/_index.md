@@ -76,7 +76,7 @@ sections:
     title: Plenary Speakers
     user_groups:
       - Keynote speakers
-    text: More to come!
+    text: 
   design:
     show_interests: no
     show_role: no
