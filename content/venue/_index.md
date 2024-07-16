@@ -90,7 +90,6 @@ We have prepared prior reservation for the following two types of accommodation:
 ### 1. [The Busena Terrace](https://www.terrace.co.jp/en/)
 The hotel is adjacent to Bankoku Shinryokan,  our venue, and has eight different types of restaurants on the premises and a variety of facilities including a private beach, indoor and outdoor pools, gym, and sauna. Fine cuisine, round-the-clock butler service, sybaritic spa treatments, and an exciting range of marine and other outdoor activities are all part of an enjoyable your time. 
 
-A dedicated reservation site is being prepared.
 Special Reservation Website -- [EN](https://www.terrace.co.jp/reserve/SelectPlanDirect.php?PLAN_ID=4964&KEY=bRYXaPYBX6&MFLAG=S&lang=en)/[JP](https://www.terrace.co.jp/reserve/SelectPlanDirect.php?PLAN_ID=4964&KEY=bRYXaPYBX6&MFLAG=S&lang=jp) *From 50,000 yen per room per night.
 
 ![](hotels/busena_hotel.jpg)
