@@ -3,7 +3,7 @@ date: "2023-07-14"
 image:
   focal_point: top
 title: Welcome to TRISTAN 2025!
-categories: ["Announcement"]
+categories: [] #"Announcement"
 tags: ["announcement", "greeting"]
 authors: ["admin"] #"hato", "kamiya", "iryo"
 summary: Welcome message from the local organizing committee.
