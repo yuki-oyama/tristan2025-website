@@ -25,7 +25,7 @@ sections:
     columns: "2"
     background:
       image: 
-        filename: busena_high.jpg
+        filename: beach2.jpg
         darken: 0.5
         size: cover
         position: center
@@ -128,7 +128,7 @@ sections:
   design:
     background:
       image:
-        filename: oyama/ishigaki.jpg
+        filename: oyama/aqua.jpg
         filters:
           brightness: 1
         parallax: false
