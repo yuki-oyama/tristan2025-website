@@ -128,7 +128,7 @@ sections:
   design:
     background:
       image:
-        filename: oyama/aqua.jpg
+        filename: oyama/aqua.JPG
         filters:
           brightness: 1
         parallax: false
