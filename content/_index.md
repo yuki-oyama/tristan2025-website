@@ -93,7 +93,7 @@ sections:
       - October 15, 2024: Extended abstract submission deadline
       - January 15, 2025: Notification of acceptance
       - February 15, 2025: Submission of revised extended abstracts
-      - April 20, 2025: Early-bird registration deadline
+      - March 31, 2025: Early-bird registration deadline
     
     title:
        null

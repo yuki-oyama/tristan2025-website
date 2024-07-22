@@ -23,7 +23,7 @@ We offer three registration categories (Professional, Young Professional, and St
   <tr>
     <th>Category</th>
     <th>Price</th>
-    <th>Early Bird (by Apr 20)</th>
+    <th>Early Bird (by March 31, 2025)</th>
   </tr>
   <tr>
     <td>Professional</td>
