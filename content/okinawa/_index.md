@@ -39,7 +39,7 @@ During the conference, we will organize enjoyable social tours.
 The 'Croissant Island’ is just over two square kilometers, and mostly flat with swathes of forest and land cleared for cattle to graze. The island is hemmed by white sand beaches and encircled by coral reefs teeming with tropical fish and green sea turtles. We enjoy marine activities and BBQ! 
 
 <div class="iframe-wrap">
-　<iframe src="https://drive.google.com/file/d/1oV6xmMct9k7j8t8PWRTf5MwCiilmE7wm/preview" frameboader="0"></iframe>
+　<iframe src="https://drive.google.com/file/d/1dJyHtxULAC5EDuOO00s2yzvn5zwg4hv5/preview" frameboader="0"></iframe>
 </div>
 
 ![](minna_pic.jpg)
