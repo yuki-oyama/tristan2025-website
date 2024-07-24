@@ -12,8 +12,8 @@
     <td><strong>Yusuke Hara</strong><br><small>Tohoku University, Japan</small></td>
   </tr>
   <tr>
+    <td><strong>Yuki Oyama</strong><br><small>University of Tokyo, Japan</small></td>
+    <td><strong>Hajime Watanabe</strong><br><small>University of Tokyo, Japan</small></td>
     <td><strong>Risa Kobayashi</strong><br><small>University of Tokyo, Japan</small></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>

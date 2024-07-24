@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Yuki
 organizations:
-- name: Shibaura Institute of Technology
+- name: The University of Tokyo
 #  url: ""
 role: 
 position: 7
