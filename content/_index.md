@@ -15,11 +15,11 @@ sections:
       Earlier TRISTAN symposiums have established a tradition of a symposium of high scientific quality, with lots of interaction during and outside the technical sessions, a good sense of community, and enriching and enjoyable social tours.
       We are expecting over 300 academics, researchers and practitioners from around the world to convene to discuss mathematical models, methodologies and computational results, and to exchange ideas on advanced applications and technologies in transportation.-->
     
-    #cta:
-    #  url: call
-    #  label: Call for submissions
-    #  icon_pack: fas
-    #  icon: paper-plane
+    cta:
+      url: call
+      label: Call for submissions
+      icon_pack: fas
+      icon: paper-plane
       
   design:
     columns: "2"
