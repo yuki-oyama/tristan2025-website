@@ -7,7 +7,6 @@ df <- read_excel(file_path)
 # マークダウン形式に変換する関数
 generate_markdown <- function(data) {
   markdown <- "# \n\n"
-  markdown <- paste0(markdown, "<div class=\"committees-section\">\n")
   markdown <- paste0(markdown, "<table class=\"scientific-committee-table\">\n")
   
   for (i in 1:nrow(data)) {
@@ -32,7 +31,7 @@ generate_markdown <- function(data) {
     }
   }
   
-  markdown <- paste0(markdown, "  </tr>\n</table>\n</div>")
+  markdown <- paste0(markdown, "  </tr>\n</table>")
   return(markdown)
 }
 

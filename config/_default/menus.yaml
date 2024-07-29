@@ -10,7 +10,7 @@ main:
   - name: Committees
     url: people
     weight: 30
-  - name: Call
+  - name: Submission
     url: call
     weight: 40
   - name: Venue

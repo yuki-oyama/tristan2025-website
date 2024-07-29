@@ -1,0 +1,227 @@
+%% Extended Abstract template for Tristan 2025
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper,twoside,11pt]{article}
+
+%% Language %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[USenglish]{babel} % francais, polish, spanish, ...
+\usepackage[T1]{fontenc}
+
+
+%% Packages for Graphics & Figures %%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage[labelsep=endash, figurename=Figure, tablename=Table, textfont=it]{caption}
+\usepackage{subcaption}
+\usepackage{float}  
+\usepackage{hyperref, wasysym}
+\usepackage{multicol}
+
+
+%% Other Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fancyhdr}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry} 
+\usepackage[usenames,dvipsnames]{pstricks}
+\usepackage[round,comma,authoryear]{natbib}
+\usepackage{titling}
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% %% Options / Modifications
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{darkblue}{rgb}{0,0,0.5}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=darkblue,urlcolor=darkblue} 
+
+\makeatletter
+\let\ps@plain\ps@fancy
+\makeatother
+
+\begin{document}
+
+
+%% Title Page %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{\bf Extended abstract template for TRISTAN XII}
+\author{}
+\date{\today}
+
+\pretitle{\centering\Large}
+\posttitle{\par\vspace{1ex}}
+
+\preauthor{\centering}
+\postauthor{\par\vspace{1ex}
+
+\vspace{1ex}\it
+Extended abstract submitted for presentation at the 12\textsuperscript{th} Triennial Symposium on Transportation Analysis conference (TRISTAN XII)\\
+June 22-27, 2025, Okinawa, Japan\\
+\vspace{1ex}
+
+\textbf{Note: This submission is double-blinded. Do not include author names or affiliations.}
+
+}
+
+\maketitle
+\vspace{-1cm}
+\noindent\rule{\textwidth}{0.5pt}\vspace{0cm}
+Keywords: (up to five)\\
+
+
+% Header and footer for the first page
+\fancypagestyle{firststyle}{
+\lhead[]{}
+\rhead[]{}
+\lfoot[TRISTAN XII Symposium]{TRISTAN XII Symposium}
+\rfoot[Original abstract submittal]{Original abstract submittal}
+\cfoot[]{}
+}
+\thispagestyle{firststyle}
+
+% Header and footer for all other pages
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{15pt}
+\lhead{}
+\rhead[\thepage]{\thepage}
+\lfoot[TRISTAN XII Symposium]{TRISTAN XII Symposium}
+\rfoot[Original abstract submittal]{Original abstract submittal}
+\cfoot[]{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% CONTENTS - Extended abstract
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{ INTRODUCTION}
+
+The full extended abstract, in \textcolor{red}{\textbf{PDF format}}, should be submitted to the EasyChair online submission system through the TRISTAN call for paper via \url{https://easychair.org/cfp/TRISTAN2025} by \textbf{\textcolor{red}{October 15th, 2024}}. 
+
+Please note that the extended abstract should be in \textbf{English}. 
+\section{ EXTENDED ABSTRACT FORMAT}
+
+\subsection{Margin}
+Set the extended abstract size to A4 (210 mm wide by 290 mm deep) with 25 mm margins on all sides.
+
+\subsection{Title and section titles Fonts}
+
+The font size is Times New Roman typeface with an 11-point pitch. For extended abstract title, please set \textbf{Bold}. The rest of the extended abstract should be divided into sections and (optionally) subsections with sub-subsections.  Sections must be numbered, and their title must be typed in bold capitals (for example, \textbf{1. SECTIONS}).  Subsections must be numbered using two digits, and their titles must be typed in bold typeface (for example, \textbf{1.1 Subsections}).  Sub-subsections must be numbered using three digits, and their titles typed in bold typeface (for example, \textbf{1.1.1 Sub-subsections}).
+
+\subsection{Abstract Length Limit}
+
+The length limit is \textcolor{red}{4} pages maximum, including figures, tables, references, and appendices.
+
+\subsection{Paragraphing}
+
+\begin{enumerate}
+\item  Indent the new paragraph, except the first paragraph of sections, subsections, and sub-subsections.
+
+\item  Text should be left and right justified across the whole page width, providing a vertical margin on both sides.
+
+\item  One blank line must be left before each title of the sections and one blank line before each title of the subsections and sub-subsections, with the exception of new pages.
+
+\end{enumerate}
+
+\section{ STRUCTURE OF EXTENDED ABSTRACT}
+
+\subsection{Cover page}
+
+The cover page of the extended abstract must contain the following and in the order specified below:
+
+\begin{enumerate}
+\item  The Extended abstract Title, which is positioned in the center
+
+\item  Up to five keywords
+
+\end{enumerate}
+
+This submission is double-blinded. \textcolor{red}{DO NOT} include author names or affiliations.
+
+\subsection{The body of the extended abstract}
+These include the main body of the extended abstract. For the main body of the text, there are no specific requirements. You can organize it in a way that best suits your research. However, the following structure will be suitable in many cases:
+\begin{itemize}
+    \item Introduction
+    \item Methodology
+    \item Results (with subsections)
+    \item Discussion (without subsections)
+    \item References (limited to \textcolor{red}{10 references}, though not strictly enforced)
+    \item Acknowledgements (optional)
+    \item Conflict of interest (optional)
+\end{itemize}
+  
+\noindent Figure legends (these are limited to 350 words per figure)
+Tables (maximum size of one page)
+
+\section{ EQUATIONS, TABLES AND FIGURES}
+
+\subsection{Equations}
+
+All equations must be numbered and have to appear in the following format:
+
+\begin{equation}
+    a^2 + b^2 = c^2  \label{eq:1}  
+\end{equation}
+
+\subsection{Tables}
+Tables are to be centered. Tables must be numbered sequentially, with their title centered above the table. All tables must be quoted in the text (e.g., Table 1). Example:
+
+\begin{table}[H]
+\centering
+\caption{Sample of Table}
+\begin{tabular}{lcc} \hline 
+Indicators & $\pi$ & $\phi$ \\ \hline 
+A & 2 & 50\% \\  
+B & 3 & 10\% \\ 
+C & 2 & 30\% \\  
+D & 5 & 10\% \\ \hline 
+\end{tabular}
+\end{table}
+
+\subsection{Figures}
+All figures must be drawn using good-quality graphic software. Figures are to be centered, with the reference and caption to be centered below the figure. All Figures must be quoted in the text (e.g., Figure 1). Example:
+
+\begin{figure}[H]
+	\center
+	\includegraphics[width=0.45\textwidth]{TristanXII.png}
+	\caption{Sample of figure}
+\end{figure}
+
+
+
+\section{ REFERENCES}
+
+The Harvard System of referencing must be used (see, for example, \textit{Transportmetrica}).  In the body of the text, extended abstracts or documents are referred to by the author's surname with the year of publication in parenthesis \citep{beckmann1956studies}; if the quotation is itself in parenthesis, the year of publication is separated by a comma.  If the reference has more than two authors, only the surname of the first author followed by \textit{et al.} in italics will appear in the body of the text.
+
+At the end of the extended abstract, complete references must be given alphabetically by author's surname, including surname(s) and initials of author(s), separated by a comma, year of publication, the title of the paper, the title of the journal in italic typeface, the volume of the journal, and first and last pages.  In the case of books, the title of the book must be in italic typeface, with first letter capitals; the publisher and the city of publication must also be indicated. Examples:
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% BIBLIOGRAPHY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{small}
+\begin{sloppypar} 
+\bibliographystyle{authordate1} 
+
+\setlength{\bibsep}{0pt}
+
+\bibliography{References}
+
+\end{sloppypar}
+\end{small}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% APPENDICES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+\end{document}
+
+
+
+
