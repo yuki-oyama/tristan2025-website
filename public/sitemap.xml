@@ -11,34 +11,22 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/tag/announcement/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tristan2025.org/category/announcement/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025.org/authors/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025.org/categories/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025.org/tag/greeting/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025.org/author/organizing-committee/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <loc>https://tristan2025.org/post/2_preparation/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/tags/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/post/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/tag/greeting/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -98,6 +86,10 @@
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tristan2025.org/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tristan2025.org/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -133,6 +125,9 @@
     <loc>https://tristan2025.org/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tristan2025.org/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tristan2025.org/author/daisuke-fukuda/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -155,6 +150,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/author/kiyoshi-takami/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/author/michel-bierlaire/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/author/organizing-committee/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/author/risa-kobayashi/</loc>
