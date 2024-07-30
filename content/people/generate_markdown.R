@@ -41,3 +41,4 @@ markdown_content <- generate_markdown(df)
 # マークダウンファイルに書き込む
 output_file <- "content/people/scientific_committee.md"
 writeLines(markdown_content, output_file)
+

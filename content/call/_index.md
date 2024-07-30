@@ -22,29 +22,37 @@ However, each registered participant is allowed to present at most one paper dur
 All submissions must be electronically submitted through the EasyChair conference manuscript management system.
 https://easychair.org/cfp/TRISTAN2025
 
+{{< figure src="/media/submission_banner.png" link="https://easychair.org/cfp/TRISTAN2025" width="60%" alt="EasyChair URL" >}}
+
+
 <br>
 
 ## Abstract Guidelines
 
-Extended abstracts are to be written in English and should be no longer than <span style="color: red; ">4 pages</span> in length.
-To facilitate the review and selection by the scientific committee, extended abstracts should clearly state the research goals, analysis methods, results, and contributions of the study.
+<ul>
+<li>Extended abstracts are to be written in English.</li>
+<li>All extended abstracts must be original and not simultaneously submitted to another journal or conference.</li>
+<li>The abstracts should be no longer than <span style="color: red; ">4 pages in length.</span></li>
+<li>This submission is double-blinded. <span style="color: red; ">DO NOT include author names or affiliations.</span></li>
+<li>Submissions must be in <span style="color: red; ">PDF format.</span></li>
+<li>To facilitate the review and selection by the scientific committee, extended abstracts should clearly state the research goals, analysis methods, results, and contributions of the study.</li>
 
-Submissions should include the following details:
-
-* Title
-* Submission topic (as explained above)
-* Up to 5 keywords
-* Extended abstract
-* References
-
-NOTE: This submission is double-blinded. <span style="color: red; ">DO NOT</span> include author names or affiliations.
-
-Templates are provided to author papers in this format for both Microsoft Word and LaTeX:
-
-{{% staticref "uploads/TRISTAN2025_template.docx"%}}**Microsoft Word Template** {{% /staticref %}} to prepare your paper for submission.
-
-{{% staticref "uploads/TRISTAN2025_template.zip"%}}**LaTeX ZIP**{{% /staticref %}}, for online collaborative writing; authors can create an Overleaf project using this template.
-
+<li>Submissions should include the following details:
+<ul>
+  <li>Title</li>
+  <li>Up to 5 keywords</li>
+  <li>Extended abstract</li>
+  <li>References</li>
+</ul>
+</li>
+<li>Templates are provided to author papers in this format for both Microsoft Word and LaTeX.
+<span style="color: red; ">All submissions must use the provided templates:</span>
+<ul>
+    <li>{{% staticref "uploads/TRISTAN2025_template.docx" %}}<strong>Microsoft Word Template</strong>{{% /staticref %}} to prepare your paper for submission.</li>
+    <li>{{% staticref "uploads/TRISTAN2025_template.zip" %}}<strong>LaTeX ZIP</strong>{{% /staticref %}}, for online collaborative writing; authors can create an Overleaf project using this template.</li>
+</ul>
+</li>
+</ul>
 
 <br>
 
@@ -60,11 +68,14 @@ Templates are provided to author papers in this format for both Microsoft Word a
 | March 31, 2025 | Early-bird registration deadline | 
 |||
 
-<!---
-## Special Issue
+<br>
 
-The organizing and program committees are organizing multiple special issues for 2022 in association with TRISTAN XII with flagship journals in transportation and operations research. The information will be announced soon.
---->
+## Special Issue
+Currently, TRISTAN 2025 is planning special issues in journals such as Transportation Science and Transportation Research Part C following the international conference. 
+The specific topics are: 
+1. Humanitarian Logistics and Disaster Management, 
+2. Smart Mobility, 
+3. Urban Science and Travel Behavior Analysis.
 
 <br>
 
