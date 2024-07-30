@@ -296,4 +296,9 @@
     <td><strong>Mutsunori Yagiura</strong><br><small>Nagoya University, Japan</small></td>
     <td><strong>Nur Diana Safitri</strong><br><small>Hiroshima University, Japan</small></td>
   </tr>
+  <tr>
+    <td><strong>Ankit R. Patel</strong><br><small>University of Minho, Portugal</small></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
