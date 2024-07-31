@@ -125,5 +125,5 @@ Submissions are welcome across a broad range of fields related to transportation
   - Micromobility Modeling and Management
 
 
-![](TRISTAN2025_flyer_v2.jpg)
+![](TRISTAN2025_flyer_v3.jpg)
 <!-- ![](ishigaki.jpg) --->
