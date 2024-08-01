@@ -73,16 +73,16 @@ https://easychair.org/cfp/TRISTAN2025
 ## Special Issue
 Currently, TRISTAN 2025 is planning special issues in journals such as Transportation Science and Transportation Research Part C following the international conference. 
 The specific topics are: 
-1. Humanitarian Logistics and Disaster Management, 
-2. Smart Mobility, 
-3. Urban Science and Travel Behavior Analysis.
+1. Logistics Optimization and Humanitarian Transportation, 
+2. Smart Mobility and Network Analysis, 
+3. Travel Behavior Analysis, Urban Management and Science.
 
 <br>
 
 ## Scope and Topics
 Submissions are welcome across a broad range of fields related to transportation systems analysis and transportation science. The scope of the conference includes, but is not limited to:
 
-
+**Logistics Optimization and Humanitarian Transportation**
 - Logistics and Freight Transport
   - Urban logistics, operative models, and applications
   - Road and rail freight, Maritime transport and ports, Air freight and airports
@@ -93,21 +93,6 @@ Submissions are welcome across a broad range of fields related to transportation
   - Decision Analysis, Decision Support Systems
   - Heuristics and Metaheuristics
   - Game theoretical formulations
-- Traffic Flow Models, Network Assignment, and Transport Network Economics
-  - Dynamic transportation models (Micro and Macroscopic level)
-  - Network modeling, network equilibrium
-  - Vehicle routing
-  - Traffic Management and Coordinated Systems
-- Travel Demand/Behavior Modeling
-  - Advanced demand modeling, estimation and calibration techniques
-  - Human behavior under uncertainties
-  - Social network and interactions
-  - Population synthesis
-- Data Analytics, Learning, and Optimization in Transportation
-  - Human mobility and travel pattern analysis
-  - Anomaly detection in logistics/transportation systems
-  - Data-driven decision-making
-  - Advanced learning algorithms
 - Humanitarian Logistics and Disaster Management
   - Robust, stochastic, and dynamic programming
   - Pre- and post-disaster operations
@@ -118,11 +103,33 @@ Submissions are welcome across a broad range of fields related to transportation
   - Airport and air transport operations
   - Port and maritime operations
   - Intermodal Transport, Synchromodality, and Physical Internet
+  
+
+**Smart Mobility and Network Analysis**
 - Smart Mobility
   - Automated vehicles and Platooning
   - Network estimation and control using V2X communication
   - Green, Advanced and Automated Public Transport Systems
   - Micromobility Modeling and Management
+- Traffic Flow Models, Network Assignment, and Transport Network Economics
+  - Dynamic transportation models (Micro and Macroscopic level)
+  - Network modeling, network equilibrium
+  - Vehicle routing
+  - Traffic Management and Coordinated Systems
+  
+
+**Travel Behavior Analysis, Urban Management and Science**
+- Travel Demand/Behavior Modeling
+  - Advanced demand modeling, estimation and calibration techniques
+  - Human behavior under uncertainties
+  - Social network and interactions
+  - Population synthesis
+- Data Analytics, Learning, and Optimization in Transportation
+  - Human mobility and travel pattern analysis
+  - Anomaly detection in logistics/transportation systems
+  - Data-driven decision-making
+  - Advanced learning algorithms
+  
 
 
 ![](TRISTAN2025_flyer_v3.jpg)
