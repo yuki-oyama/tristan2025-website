@@ -15,7 +15,7 @@ type: landing
 <!-- Please see below for a list of topics. -->
 Registration details will be announced at a later date.
 
-We offer three registration categories (Professional, Young Professional, and Student). The registration fee for professionals are in line with previous conferences, and that for students is less expensive (please find the past editions in [TRISTAN general webpage](https://tristanconference.org/past-editions)). The following registration fees include attendance at all sessions, tea breaks, lunches, welcome drinks, social tour, and the conference Gala dinner. 
+We offer three registration categories (Regular, Young Researcher, and Student). The registration fee for professionals are in line with previous conferences, and that for students is less expensive (please find the past editions in [TRISTAN general webpage](https://tristanconference.org/past-editions)). The following registration fees include attendance at all sessions, tea breaks, lunches, welcome drinks, social tour, and the conference Gala dinner. 
 
 We also plan to provide extra tickets for one-day registration, welcome party, gala dinner and social tour for accompany persons.
 
