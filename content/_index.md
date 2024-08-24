@@ -101,6 +101,28 @@ sections:
   design:
     columns: "2"
 
+- block: markdown
+  content:
+    #image:
+    #  filename: logoB_tate.png
+    text: |
+      ## **Notes**
+      
+      The TRISTAN2025 conference in Okinawa will be linked to **[The 16th International Conference on Advanced Systems in Public Transport (CASPT2025)](https://caspt.org), held on July 1-4 2025 in Kyoto, Japan.** 
+      While each conference will be independently organized, we invite participants to consider attending both events to explore cutting-edge transportation research while enjoying the journey from the beautiful islands of Okinawa to the historic and cultural city of Kyoto.
+      Experience Japan’s diverse landscapes, rich history, and vibrant culture.
+      For more information about CASPT, please visit the website [https://caspt.org](https://caspt.org).
+      
+      We look forward to seeing you in Okinawa and Kyoto!
+    
+    title:
+       null
+  
+  design:
+    columns: "1"
+
+
+
 #- block: collection
 #  content:
 #    count: 5
