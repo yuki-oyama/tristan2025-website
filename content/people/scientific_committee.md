@@ -298,7 +298,7 @@
   </tr>
   <tr>
     <td><strong>Ankit R. Patel</strong><br><small>University of Minho, Portugal</small></td>
-    <td></td>
+    <td><strong>Cristián E. Cortés</strong><br><small>Universidad de Chile, Chile</small></td>
     <td></td>
   </tr>
 </table>
