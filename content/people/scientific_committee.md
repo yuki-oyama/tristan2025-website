@@ -299,6 +299,11 @@
   <tr>
     <td><strong>Ankit R. Patel</strong><br><small>University of Minho, Portugal</small></td>
     <td><strong>Cristián E. Cortés</strong><br><small>Universidad de Chile, Chile</small></td>
+    <td><strong>Kenan Zhang</strong><br><small>Ecole Polytechnique Federale de Lausanne, Switzerland</small></td>
+  </tr>
+  <tr>
+    <td><strong>Rui Yao</strong><br><small>Ecole Polytechnique Federale de Lausanne, Switzerland</small></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
