@@ -31,7 +31,7 @@ https://easychair.org/cfp/TRISTAN2025
 
 <ul>
 <li>Extended abstracts are to be written in English.</li>
-<li>All extended abstracts must be original and not simultaneously submitted to another journal or conference.</li>
+<li>All extended abstracts must be original and not simultaneously submitted to another conference.</li>
 <li>The abstracts should be no longer than <span style="color: red; ">4 pages in length.</span></li>
 <li>This submission is double-blinded. <span style="color: red; ">DO NOT include author names or affiliations.</span></li>
 <li>Submissions must be in <span style="color: red; ">PDF format.</span></li>
