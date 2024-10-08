@@ -62,7 +62,8 @@ https://easychair.org/cfp/TRISTAN2025
 | Date | Event |
 | ------------------| ------------------------------ |
 | August 1, 2024 | Submissions site open | 
-| October 15, 2024 | Extended abstract submission deadline (maximum 4 pages) |
+| ~~October 15, 2024~~ | ~~Extended abstract submission deadline~~ |
+| <span style="color: red; ">**October 31, 2024, 23:59 AOE(Anywhere on Earth)**</span> | <span style="color: red; ">**Extended abstract submission deadline**</span> |
 | January 15, 2025 | Notification of acceptance | 
 | February 15, 2025 | Submission of revised extended abstracts |
 | March 31, 2025 | Early-bird registration deadline | 
