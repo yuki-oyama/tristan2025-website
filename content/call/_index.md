@@ -26,8 +26,8 @@ https://easychair.org/cfp/TRISTAN2025
 
 <br>
 
-**NOTE!: The EasyChair server will be down for maintenance for approximately 14 hours between 30.10.2024, 7:00 PM and 31.10.2024, 9:00 AM (GMT).**
-**We apologize for any inconvenience this may cause.**
+<span style="color: red; ">**NOTE!: The EasyChair server will be down for maintenance for approximately 14 hours between 30.10.2024, 7:00 PM and 31.10.2024, 9:00 AM (GMT).**
+**We apologize for any inconvenience this may cause.**</span>
 
 
 <br>
