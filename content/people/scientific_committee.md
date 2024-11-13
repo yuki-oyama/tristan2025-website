@@ -174,7 +174,7 @@
   <tr>
     <td><strong>Mahdi Zargayouna</strong><br><small>Université Gustave Eiffel, France</small></td>
     <td><strong>Tolga Bektas</strong><br><small>University of Liverpool, UK</small></td>
-    <td><strong>Guillaume Joubert</strong><br><small>Heudiasyc, France</small></td>
+    <td><strong>Guillaume Joubert</strong><br><small>IMT Atlantique, France</small></td>
   </tr>
   <tr>
     <td><strong>Thomas Bapaume</strong><br><small>Université Gustave Eiffel, France</small></td>
