@@ -273,7 +273,7 @@
   </tr>
   <tr>
     <td><strong>Rob Zuidwijk</strong><br><small>Erasmus University, Netherlands</small></td>
-    <td><strong>Niels Agatz</strong><br><small>Delft University of Technology, Netherlands</small></td>
+    <td><strong>Niels Agatz</strong><br><small>Rotterdam School of Management, Netherlands</small></td>
     <td><strong>Hani Mahmassani</strong><br><small>Northwestern University, USA</small></td>
   </tr>
   <tr>
