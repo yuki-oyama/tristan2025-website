@@ -303,7 +303,52 @@
   </tr>
   <tr>
     <td><strong>Rui Yao</strong><br><small>Ecole Polytechnique Federale de Lausanne, Switzerland</small></td>
-    <td></td>
+    <td><strong>Lei Zhao</strong><br><small>Tsinghua University, China</small></td>
+    <td><strong>Angelica Del Rocio Lozano Cuevas</strong><br><small>Universidad Nacional Autónoma de México, Mexico</small></td>
+  </tr>
+  <tr>
+    <td><strong>Panagiotis Repoussis</strong><br><small>Athens University of Economics and Business, Greece</small></td>
+    <td><strong>Alexandre Jacquillat</strong><br><small>Massachusetts Institute of Technology, USA</small></td>
+    <td><strong>Anne Goodchild</strong><br><small>University of Washington, USA</small></td>
+  </tr>
+  <tr>
+    <td><strong>Ann Melissa Campbell</strong><br><small>University of Iowa, USA</small></td>
+    <td><strong>Stefan Minner</strong><br><small>Technical University of Munich, Germany</small></td>
+    <td><strong>Mihaela Popa</strong><br><small>University Politehnica of Bucharest, Romania</small></td>
+  </tr>
+  <tr>
+    <td><strong>Ruibin Bai</strong><br><small>University of Nottingham Ningbo, China</small></td>
+    <td><strong>Richard Wong</strong><br><small>, </small></td>
+    <td><strong>Anant Balakrishnan</strong><br><small>University of Texas, USA</small></td>
+  </tr>
+  <tr>
+    <td><strong>Antonio Mauttone</strong><br><small>Universidad de la República, Uruguay</small></td>
+    <td><strong>Claudio Sterle</strong><br><small>University of Naples, Italy</small></td>
+    <td><strong>Margaretha Gansterer</strong><br><small>University of Vienna, Austria</small></td>
+  </tr>
+  <tr>
+    <td><strong>Karl F. Doerner</strong><br><small>University of Vienna, Austria</small></td>
+    <td><strong>Leandro Callegari Coelho</strong><br><small>Laval University, Canada</small></td>
+    <td><strong>Nadia Lahrichi</strong><br><small>Polytechnique Montréal, Canada</small></td>
+  </tr>
+  <tr>
+    <td><strong>Kjetil Fagerholt</strong><br><small>Norwegian University of Science and Technology, Norway</small></td>
+    <td><strong>Jorge Mendoza Gimenez</strong><br><small>HEC Montréal, Canada</small></td>
+    <td><strong>Fausto Errico</strong><br><small>CIRRELT and École de technologie supérieure de Montréal, Canada</small></td>
+  </tr>
+  <tr>
+    <td><strong>Guido Perboli</strong><br><small>Politecnico di Torino, Italy and CIRRELT, Canada, </small></td>
+    <td><strong>Federico Malucelli</strong><br><small>Politecnico di Milano, Italy</small></td>
+    <td><strong>Massimo Di Francesco</strong><br><small>Università di Cagliari, Italy</small></td>
+  </tr>
+  <tr>
+    <td><strong>Manuel Iori</strong><br><small>University of Modena and Reggio Emilia, Italy</small></td>
+    <td><strong>Antonio Frangioni</strong><br><small>Università di Pisa, Italy</small></td>
+    <td><strong>Maria Elena Bruni</strong><br><small>University of Calabria, Italy</small></td>
+  </tr>
+  <tr>
+    <td><strong>Gianfranco Guastaroba</strong><br><small>University of Brescia, Italy</small></td>
+    <td><strong>Bilge Atasoy</strong><br><small>Delft University of Technology, Netherlands</small></td>
     <td></td>
   </tr>
 </table>
