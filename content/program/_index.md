@@ -14,49 +14,38 @@ sections:
 ---
 
 <!-- Please see below for a list of topics. -->
+
+## Preliminary Timetable
+![](images/program.png)
+
+
+<br><br>
 ## Plenary Speakers
 
-### Yafeng Yin
+### Dr. Karen Smilowitz
+**Professor at Northwestern University, USA**
 
-<<<<<<< HEAD
-![](images/yafeng.jpg)
-Yafeng Yin BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO 
+<img src="images/karen.jpg" width="35%">
 
-### Karen Smilowitz
+Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial Engineering and Management Science at Northwestern University, with a joint appointment in the Operations group at the Kellogg School of Management. Dr. Smilowitz is an expert in modeling and solution approaches for logistics and transportation systems in both commercial and nonprofit applications. She has been instrumental in promoting the use of operations research within the humanitarian and nonproﬁt sectors through the Woodrow Wilson International Center for Scholars, the American Association for the Advancement of Science, and the National Academy of Engineering, as well as various media outlets. Dr. Smilowitz is the Editor-in-Chief of Transportation Science and a Fellow of the INFORMS society.
 
-![](images/karen.jpg)
-Karen Smilowitz BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO BIO 
-=======
-![](YafengYin.jpg)
-Dr. Yafeng Yin is a Professor of Civil and Environmental Engineering and Professor of Industrial and Operations Engineering at University of Michigan, Ann Arbor. His research aims to analyze and enhance multimodal transportation systems towards efficiency, resilience and environmental sustainability. Currently he focuses on developing innovative mobility solutions and services by leveraging vehicle connectivity and automation. Dr. Yin has published nearly 150 refereed papers in leading academic journals. He also has extensive experience with editing academic journals. He was the Editor-in-Chief of Transportation Research Part C: Emerging Technologies between 2014 and 2020 and currently serves as Area Editor of Transportation Science and Associate Editor of Transportation Research Part B: Methodological, another two flagship journals in the transportation domain. He also serves on the International Advisory Committee of the International Symposium of Transportation and Traffic Theory (ISTTT) and the Steering Committee of the World Conference on Transport Research Society (WCTRS). 
-
-role: Professor
-organizations:
-- name: University of Michigan
-education:
-  courses:
-  - course: PhD, Civil Engineering
-    institution: University of Tokyo
-    year: 2002
-
-### Karen Smilowitz
-
-![](KarenSmilowitz.jpg)
-Dr. Smilowitz studies modeling and solution approaches for logistics and transportation systems.  She has developed innovative modeling and solution techniques for these complex systems in both commercial and non-profit applications, working with transportation providers, logistics specialists and a range of non-profit organizations.  She is currently leading the Northwestern Initiative on Humanitarian and Non-Profit Logistics.
-
-Dr. Smilowitz has worked on several projects in the area of operational improvement in community-based health care.  Community-based operations research is the application of decision models to social issues of a local nature. The goal of this field is to design policies and tactics that have the potential to improve individual life outcomes and neighborhood-level outcomes by addressing welfare, equity and administrative efficiency simultaneously. 
-
-role: Professor
-organizations:
-- name: Northweastern University
-education:
-  courses:
-  - course: Ph.D. Civil and Environmental Engineering
-    institution: University of California, Berkeley
-    year: 2001
->>>>>>> fa16e84b1cbf62516e3c9d94de1223220a0d3ae8
+Dr. Smilowitz has worked on several projects in the area of operational improvement in community-based health care. Community-based operations research is the application of decision models to social issues of a local nature. The goal of this field is to design policies and tactics that have the potential to improve individual life outcomes and neighborhood-level outcomes by addressing welfare, equity and administrative efficiency simultaneously.
 
 
+### Dr. Michel Bierlaire
+**Professor at École Polytechnique Fédérale de Lausanne, Switzerland**
+
+<img src="images/michel.jpg" width="35%">
+
+Michel Bierlaire holds a PhD in Mathematical Sciences from the University of Namur, Belgium. From 1995 to 1998, he served as a research associate and project manager at the Intelligent Transportation Systems Program at the Massachusetts Institute of Technology (MIT, Cambridge, Ma). Following this, he joined the Operations Research group ROSO within the Institute of Mathematics at EPFL as junior faculty, a position he held from 1998 to 2006. In 2006, he was appointed Associate Professor in the School of Architecture, Civil and Environmental Engineering at EPFL, where he now directs the Transport and Mobility Laboratory. In 2012, he was appointed full professor in the same school.
+
+Dr. Bierlaire’s expertise lies in the design, development, and application of models and algorithms for transportation system analysis, design, and management. His work includes significant contributions to demand modeling, such as discrete choice models and the estimation of origin-destination matrices, as well as operations research topics like scheduling and assignment, and dynamic traffic management systems.
+
+He is the founder of hEART, the European Association for Research in Transportation. Additionally, he served as the founding Editor-in-Chief of the EURO Journal on Transportation and Logistics from 2011 to 2019 and has been an Associate Editor of Operations Research since 2012.
 
 
+### Dr. Yafeng Yin
+**Professor at University of Michigan, USA**
 
+<img src="images/yafeng.jpg" width="35%">
+Dr. Yafeng Yin is Donald Cleveland Collegiate Professor of Engineering, and Professor and Donald Malloure Department Chair of Civil and Environmental Engineering, and Professor of Industrial and Operations Engineering at University of Michigan, Ann Arbor. His research aims to analyze and enhance multimodal transportation systems towards efficiency, resilience and environmental sustainability. Currently he focuses on developing innovative mobility solutions and services by leveraging vehicle connectivity and automation. Dr. Yin has published over 150 refereed papers in leading academic journals. He also has extensive experience with editing academic journals. He was the Editor-in-Chief of Transportation Research Part C: Emerging Technologies between 2014 and 2020 and currently serves as Area Editor of Transportation Science and Associate Editor of Transportation Research Part B: Methodological, another two flagship journals in the transportation domain. He also serves on the International Advisory Committee of the International Symposium of Transportation and Traffic Theory (ISTTT) and the Steering Committee of the World Conference on Transport Research Society (WCTRS).

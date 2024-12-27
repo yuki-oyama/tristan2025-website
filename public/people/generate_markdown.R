@@ -19,7 +19,13 @@ generate_markdown <- function(data) {
     
     name <- data[i, "Name"]
     affiliation <- data[i, "Affiliation"]
+    if (is.na(affiliation)) {
+      affiliation <- ""
+    }
     country <- data[i, "Country"]
+    if (is.na(country)) {
+      country <- ""
+    }
     markdown <- paste0(markdown, "    <td><strong>", name, "</strong><br><small>", affiliation,", ",country, "</small></td>\n")
   }
   
