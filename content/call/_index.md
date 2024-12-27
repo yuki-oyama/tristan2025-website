@@ -3,12 +3,12 @@ date: "2022-10-24"
 sections:
 - block: markdown
   content:
-    title: Call for Submissions
+    title: Abstract Submissions
   design:
     show_interests: false
     show_role: true
     show_social: true
-title: Call for Submissions
+title: Abstract Submissions
 type: landing
 ---
 
@@ -21,14 +21,16 @@ However, each registered participant is allowed to present at most one paper dur
 
 All submissions must be electronically submitted through the EasyChair conference manuscript management system.
 https://easychair.org/cfp/TRISTAN2025
-
+<!--
 {{< figure src="/media/submission_banner.png" link="https://easychair.org/cfp/TRISTAN2025" width="60%" alt="EasyChair URL" >}}
 
 <br>
 
 <span style="color: red; ">**NOTE!: The EasyChair server will be down for maintenance for approximately 14 hours between 30.10.2024, 7:00 PM and 31.10.2024, 9:00 AM (GMT).**
 **We apologize for any inconvenience this may cause.**</span>
+-->
 
+<span style="color: orange; font-size: 1.5em; ">Submissions are now closed.</span>
 
 <br>
 
@@ -68,7 +70,7 @@ https://easychair.org/cfp/TRISTAN2025
 | ------------------| ------------------------------ |
 | August 1, 2024 | Submissions site open | 
 | ~~October 15, 2024~~ | ~~Extended abstract submission deadline~~ |
-| <span style="color: red; ">**October 31, 2024, 23:59 AOE(Anywhere on Earth)**</span> | <span style="color: red; ">**Extended abstract submission deadline**</span> |
+| October 31, 2024, 23:59 AOE(Anywhere on Earth) | Extended abstract submission deadline |
 | January 15, 2025 | Notification of acceptance | 
 | February 15, 2025 | Submission of revised extended abstracts |
 | March 31, 2025 | Early-bird registration deadline | 
