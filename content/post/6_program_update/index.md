@@ -17,7 +17,7 @@ This change allows us to maximize the number of presentation slots and include a
    We hope you can join us for an engaging start to the conference and meaningful networking opportunities.
 
 ### Weekday Sessions
-   From Monday to Friday, there will be **three or four parallel sessions running from morning to evening**, featuring a wide variety of engaging presentations.
+   From Monday to Friday, there will be **three parallel sessions running from morning to evening**, featuring a wide variety of presentations.
    We are also planning some social activities!
 
 ### Arrive Early Recommendation
