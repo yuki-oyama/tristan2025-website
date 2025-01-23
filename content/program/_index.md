@@ -16,11 +16,25 @@ sections:
 <!-- Please see below for a list of topics. -->
 
 ## Preliminary Timetable
+
+### Special Program on Sunday Afternoon
+   We will host <span style="color: red;">**three Keynote sessions on Sunday afternoon**</span> in succession, followed by a **Welcome Party**. 
+   We hope you can join us for an engaging start to the conference and meaningful networking opportunities.
+
+### Weekday Sessions
+   From Monday to Friday, there will be **three parallel sessions running from morning to evening**, featuring a wide variety of presentations.
+   We are also planning some social activities!
+
+### Arrive Early Recommendation
+   Given the updated start on Sunday, we highly recommend <span style="color: red;">**booking your travel to arrive in Okinawa by Saturday**</span>. 
+   We encourage you to adjust your plans to fully participate in all Sunday activities.
+
+
 ![](images/program.png)
 
 
 <br><br>
-## Plenary Speakers
+## Keynote Speakers
 
 ### Dr. Karen Smilowitz
 **Professor at Northwestern University, USA**
