@@ -17,6 +17,8 @@ type: landing
 Please register from the following link:<br>
 <a href="https://tristan2025.palettetree.jp/form/tristan2025" target="_blank">https://tristan2025.palettetree.jp/form/tristan2025</a></p>
 
+{{< figure src="/media/registration_banner.png" link="https://tristan2025.palettetree.jp/form/tristan2025" width="60%" alt="Registration site URL" >}}
+
 We offer three registration categories (Regular, Young Researcher, and Student). 
 The following registration fees include attendance at all sessions, tea breaks, lunches, welcome drinks, social tour, and the conference Gala dinner. 
 <!---

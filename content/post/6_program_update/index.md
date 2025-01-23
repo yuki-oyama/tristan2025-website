@@ -6,14 +6,14 @@ title: Program update! Sessions now begin on Sunday
 categories: [] #"Announcement"
 tags: ["announcement"]
 authors: [] #"admin", #"hato", "kamiya", "iryo"
-summary: The conference now starts Sunday with plenary sessions and a welcome party; plan to arrive by Saturday.
+summary: The conference now starts Sunday with keynote sessions and a welcome party; plan to arrive by Saturday.
 ---
 
 To accommodate the overwhelming number of submissions we received (thank you so much!), we have adjusted the schedule to <span style="color: red;">**start sessions on Sunday**</span>. 
 This change allows us to maximize the number of presentation slots and include as many valuable contributions as possible.
 
 ### Special Program on Sunday Afternoon
-   On Sunday afternoon, we will host three **Plenary sessions** in succession, followed by a **Welcome Party**. 
+   On Sunday afternoon, we will host **three Keynote sessions** in succession, followed by a **Welcome Party**. 
    We hope you can join us for an engaging start to the conference and meaningful networking opportunities.
 
 ### Weekday Sessions
