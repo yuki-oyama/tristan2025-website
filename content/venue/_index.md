@@ -250,7 +250,7 @@ Special Reservation Website -- [EN](https://www.terrace.co.jp/reserve/SelectPlan
 ### 2. [Hotel Yugaf Inn Okinawa](https://www.yugaf.com/en/)
 Hotel Yugaf Inn Okinawa is a city resort facing Nago Bay, where guests can experience the emerald green ocean and subtropical climate. They provide a relaxing and peaceful stay in Yanbaru, where a day feels eternal. From the hotel you can reach Bankoku Shinryokan, our venue, in 15 minutes by car. We also provide a private bus every morning and night.
 
-Under preparation for Special Reservation Website *Around 10,000 yen per person per night
+Special Reservation Website -- [EN](https://asp.hotel-story.ne.jp/ver3d/plan.asp?p=A7LEE&c1=6H211&c2=001) *Around 10,000 yen per person per night
 
 ![](hotels/yugaf.jpg)
 
