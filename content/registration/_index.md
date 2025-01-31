@@ -69,6 +69,8 @@ The registration fee for professionals are in line with previous conferences, an
 ## Extra tickets
 The registration fee for accompanying persons is 40,000 JPY per person, which includes the welcome reception, social tour, and Gala dinner (lunches are not included).
 
+You also have an option for one-day registration with 48,000 JPY, which includes the participation to all the sessions of the day and lunch for Monday, Tuesday, Thursday, and Friday; or the opening session, three keynotes, and welcome party for Sunday. 
+
 
 ## Cancellation Policy
 Refund of the registration fee for participants / accompanying persons will only be possible by 16 May 2025, which may entail some commission.
