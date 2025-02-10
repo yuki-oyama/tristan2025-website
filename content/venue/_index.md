@@ -198,7 +198,13 @@ The following map summarizes the locations and expected travel times between Nah
 </div>
 </details>
 
+## <a name="rental-car">:oncoming_automobile: Parking and Traffic Rules for Rental Car Users</a>
+The venue provides **130 parking spaces** for visitors. 
+If you plan to visit by rental car, please note that you must follow Japanese traffic regulations.
 
+- **Drunk driving is strictly prohibited** in Japan. Even a small amount of alcohol consumption can result in severe penalties.
+- Please follow all traffic signs, speed limits, and road rules while driving.
+- Drive on the **left side** of the road.
 
 <!---After arriving at Naha Airport, there are some transportation options to get around the venue:--->
 
