@@ -29,23 +29,21 @@
           autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
         </div>
         <div class="col-auto">
-          {{ $sessions := $.Scratch.GetSortedMapValues "sessions" }}
-          {{ if gt (len $sessions) 0 }}
+          {{ with $.Scratch.GetSortedMapValues "sessions" }}
             <select class="pub-filters form-control form-control-sm" data-filter-group="session">
               <option value="*">Session</option>
-              {{ range $session := sort $sessions }}
-                <option value=".session-{{ anchorize $session }}">{{ $session }}</option>
+              {{ range sort . }}
+                <option value=".session-{{ anchorize . }}">{{ . }}</option>
               {{ end }}
             </select>
           {{ end }}
         </div>
         <div class="col-auto">
-          {{ $days := $.Scratch.GetSortedMapValues "days" }}
-          {{ if gt (len $days) 0 }}
+          {{ with $.Scratch.GetSortedMapValues "days" }}
             <select class="pub-filters form-control form-control-sm" data-filter-group="day">
               <option value="*">Day</option>
-              {{ range $day := sort $days }}
-                <option value=".day-{{ anchorize $day }}">{{ $day }}</option>
+              {{ range sort . }}
+                <option value=".day-{{ anchorize . }}">{{ . }}</option>
               {{ end }}
             </select>
           {{ end }}
