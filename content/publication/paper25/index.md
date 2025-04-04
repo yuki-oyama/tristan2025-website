@@ -6,7 +6,7 @@ authors:
   - Joshua Z. G. Hiew
   - Janny M. Y. Leung
   - David S. W. Lai
-date: "2025-06-22T00:00:00Z"
+date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Resilience"
 day: "Friday"

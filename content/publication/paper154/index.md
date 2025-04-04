@@ -2,7 +2,7 @@
 authors:
   - Yifei Sun
   - Vikrant Vaze
-date: "2025-06-22T00:00:00Z"
+date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Integrating Fixed-Route and On-Demand Transit"
 day: "Tuesday"

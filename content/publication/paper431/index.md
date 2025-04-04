@@ -3,7 +3,7 @@ authors:
   - Ozan C
   - ogan
   - Manxi Wu
-date: "2025-06-22T00:00:00Z"
+date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Game Theory 1"
 day: "Tuesday"

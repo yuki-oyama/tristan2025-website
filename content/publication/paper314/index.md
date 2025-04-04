@@ -4,7 +4,7 @@ authors:
   - Milind Daw
   - e
   - Ganesh Janakiraman
-date: "2025-06-22T00:00:00Z"
+date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Last-Mile Delivery 2"
 day: "Thursday"

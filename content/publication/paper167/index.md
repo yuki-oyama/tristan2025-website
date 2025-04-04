@@ -5,7 +5,7 @@ authors:
   - Monica Menendez
   - Zhibin Chen
   - Minghui Zhong
-date: "2025-06-22T00:00:00Z"
+date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Data-Driven Analysis 2"
 day: "Friday"

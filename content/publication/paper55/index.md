@@ -4,7 +4,7 @@ authors:
   - Esther Jose
   - Rajan Batta
   - Miguel Lejeune
-date: "2025-06-22T00:00:00Z"
+date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Humanitarian Logistics"
 day: "Monday"
