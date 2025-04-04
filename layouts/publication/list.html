@@ -1,0 +1,73 @@
+{{- define "main" -}}
+
+{{/* Enable Isotope filter */}}
+{{ $.Page.Store.Set "has_isotope" true }}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-10 mx-auto">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+      {{/* Collect session and day values */}}
+      {{ range .Pages }}
+        {{ with .Params.session }}
+          {{ $.Scratch.SetInMap "sessions" . . }}
+        {{ end }}
+        {{ with .Params.day }}
+          {{ $.Scratch.SetInMap "days" . . }}
+        {{ end }}
+      {{ end }}
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search form-control form-control-sm" placeholder="Search..." autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="session">
+            <option value="*">Session</option>
+            {{ range $session := sort ($.Scratch.GetSortedMapValues "sessions") }}
+            <option value=".session-{{ anchorize $session }}">{{ $session }}</option>
+            {{ end }}
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="day">
+            <option value="*">Day</option>
+            {{ range $day := sort ($.Scratch.GetSortedMapValues "days") }}
+            <option value=".day-{{ anchorize $day }}">{{ $day }}</option>
+            {{ end }}
+          </select>
+        </div>
+      </div>
+      
+      {{/* Sort by Day then Session (both as strings) */}}
+      {{ $sorted := sort .Pages "Params.slot_no" "Params.session" }}
+
+      <div id="container-publications">
+        {{ range $index, $item := $sorted }}
+        <div class="grid-sizer col-lg-12 isotope-item session-{{ anchorize .Params.session }} day-{{ anchorize .Params.day }}">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                {{ if .Params.url_pdf }}<a href="{{ .Params.url_pdf }}" target="_blank">{{ .Title }}</a>{{ else }}{{ .Title   }}{{ end }}
+              </p>
+              <p class="mb-1">{{ delimit .Params.authors ", " }}</p>
+              {{ if .Params.session }}<p class="mb-1">Session: {{ .Params.session }}</p>{{ end }}
+              {{ if .Params.slot }}<p class="mb-1">Slot: {{ .Params.slot }}</p>{{ end }}
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{{- end -}}
