@@ -50,13 +50,11 @@
         </div>
       </div>
 
-      {{/* Use all publication pages with slot_no, site-wide */}}
-      {{ $publications := where site.RegularPages "Section" "publication" }}
-      {{ $filtered := where $publications "Params.slot_no" "!=" nil }}
-      {{ $sorted := sort $filtered "Params.slot_no" "Params.session" }}
+      {{/* Just show all publication pages without sorting */}}
+      {{ $filtered := where site.RegularPages "Section" "publication" }}
 
       <div id="container-publications">
-        {{ range $index, $item := $sorted }}
+        {{ range $index, $item := $filtered }}
         <div class="grid-sizer col-lg-12 isotope-item session-{{ anchorize $item.Params.session }} day-{{ anchorize $item.Params.day }}">
           <div class="mb-4 pb-3 border-bottom">
             <div class="publication-item">
