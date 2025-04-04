@@ -13,8 +13,8 @@
       <div class="article-style">{{ . }}</div>
       {{ end }}
 
-      {{/* Collect session and day values */}}
-      {{ range .Pages }}
+      {{/* Collect session and day values from site-wide pages */}}
+      {{ range where site.RegularPages "Section" "publication" }}
         {{ with .Params.session }}
           {{ $.Scratch.SetInMap "sessions" . . }}
         {{ end }}
@@ -50,8 +50,9 @@
         </div>
       </div>
 
-      {{/* Sort by Slot number then Session */}}
-      {{ $sorted := sort .Pages "Params.slot_no" "Params.session" }}
+      {{/* Use all publication pages with slot_no, site-wide */}}
+      {{ $filtered := where site.RegularPages "Section" "publication" | where "Params.slot_no" "!=" nil }}
+      {{ $sorted := sort $filtered "Params.slot_no" "Params.session" }}
 
       <div id="container-publications">
         {{ range $index, $item := $sorted }}
