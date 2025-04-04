@@ -51,7 +51,8 @@
       </div>
 
       {{/* Use all publication pages with slot_no, site-wide */}}
-      {{ $filtered := where site.RegularPages "Section" "publication" | where "Params.slot_no" "!=" nil }}
+      {{ $publications := where site.RegularPages "Section" "publication" }}
+      {{ $filtered := where $publications "Params.slot_no" "!=" nil }}
       {{ $sorted := sort $filtered "Params.slot_no" "Params.session" }}
 
       <div id="container-publications">
