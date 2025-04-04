@@ -145,6 +145,19 @@ sections:
 
 - block: markdown
   content:
+    title: Sponsors
+    text: |
+      <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
+        <img src="/media/logo_rf.jpg" alt="Sponsor 1" style="max-height: 80px;">
+        <img src="/media/logo_IBS.png" alt="Sponsor 2" style="max-height: 80px;">
+        <img src="/media/logo_sys.png" alt="Sponsor 3" style="max-height: 80px;">
+      </div>
+  design:
+    columns: "1"
+
+
+- block: markdown
+  content:
     subtitle: ""
     text: null
     title: null
