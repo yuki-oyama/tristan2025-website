@@ -29,37 +29,43 @@
           autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
         </div>
         <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="session">
-            <option value="*">Session</option>
-            {{ range $session := sort ($.Scratch.GetSortedMapValues "sessions") }}
-              <option value=".session-{{ anchorize $session }}">{{ $session }}</option>
-            {{ end }}
-          </select>
+          {{ $sessions := $.Scratch.GetSortedMapValues "sessions" }}
+          {{ if gt (len $sessions) 0 }}
+            <select class="pub-filters form-control form-control-sm" data-filter-group="session">
+              <option value="*">Session</option>
+              {{ range $session := sort $sessions }}
+                <option value=".session-{{ anchorize $session }}">{{ $session }}</option>
+              {{ end }}
+            </select>
+          {{ end }}
         </div>
         <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="day">
-            <option value="*">Day</option>
-            {{ range $day := sort ($.Scratch.GetSortedMapValues "days") }}
-              <option value=".day-{{ anchorize $day }}">{{ $day }}</option>
-            {{ end }}
-          </select>
+          {{ $days := $.Scratch.GetSortedMapValues "days" }}
+          {{ if gt (len $days) 0 }}
+            <select class="pub-filters form-control form-control-sm" data-filter-group="day">
+              <option value="*">Day</option>
+              {{ range $day := sort $days }}
+                <option value=".day-{{ anchorize $day }}">{{ $day }}</option>
+              {{ end }}
+            </select>
+          {{ end }}
         </div>
       </div>
-      
-      {{/* Sort by Day then Session (both as strings) */}}
+
+      {{/* Sort by Slot number then Session */}}
       {{ $sorted := sort .Pages "Params.slot_no" "Params.session" }}
 
       <div id="container-publications">
         {{ range $index, $item := $sorted }}
-        <div class="grid-sizer col-lg-12 isotope-item session-{{ anchorize .Params.session }} day-{{ anchorize .Params.day }}">
+        <div class="grid-sizer col-lg-12 isotope-item session-{{ anchorize $item.Params.session }} day-{{ anchorize $item.Params.day }}">
           <div class="mb-4 pb-3 border-bottom">
             <div class="publication-item">
               <p class="font-weight-bold mb-1">
-                {{ if .Params.url_pdf }}<a href="{{ .Params.url_pdf }}" target="_blank">{{ .Title }}</a>{{ else }}{{ .Title   }}{{ end }}
+                {{ if $item.Params.url_pdf }}<a href="{{ $item.Params.url_pdf }}" target="_blank">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}
               </p>
-              <p class="mb-1">{{ delimit .Params.authors ", " }}</p>
-              {{ if .Params.session }}<p class="mb-1">Session: {{ .Params.session }}</p>{{ end }}
-              {{ if .Params.slot }}<p class="mb-1">Slot: {{ .Params.slot }}</p>{{ end }}
+              <p class="mb-1">{{ delimit $item.Params.authors ", " }}</p>
+              {{ if $item.Params.session }}<p class="mb-1">Session: {{ $item.Params.session }}</p>{{ end }}
+              {{ if $item.Params.slot }}<p class="mb-1">Slot: {{ $item.Params.slot }}</p>{{ end }}
             </div>
           </div>
         </div>
