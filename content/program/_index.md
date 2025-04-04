@@ -15,7 +15,15 @@ sections:
 
 <!-- Please see below for a list of topics. -->
 
-## Preliminary Timetable
+- [Final Program](#final-program)
+- [Keynote Speakers](#keynote-speakers)
+
+# <span style="color: orange;"><a name="final-program">Final Program</a></span>
+---
+
+The TRISTAN XII program is available here:
+<br>
+[TRISTAN2025_final_program.pdf](TRISTAN2025_final_program.pdf) (0.2MB)
 
 ### Special Program on Sunday Afternoon
    We will host <span style="color: red;">**three Keynote sessions on Sunday afternoon**</span> in succession, followed by a **Welcome Party**. 
@@ -34,7 +42,8 @@ sections:
 
 
 <br><br>
-## Keynote Speakers
+# <span style="color: orange;"><a name="keynote-speakers">Keynote Speakers</a></span>
+---
 
 ### Dr. Karen Smilowitz
 **Professor at Northwestern University, USA**
