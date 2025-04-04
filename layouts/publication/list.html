@@ -1,77 +1,15 @@
-{{- define "main" -}}
+{{ define "main" }}
 
-{{/* Enable Isotope filter */}}
-{{ $.Page.Store.Set "has_isotope" true }}
+<h1>Test: Publication Titles</h1>
 
-{{ partial "page_header.html" . }}
+{{ $pages := where site.RegularPages "Section" "publication" }}
 
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-10 mx-auto">
+<p>Total: {{ len $pages }}</p>
 
-      {{ with .Content }}
-      <div class="article-style">{{ . }}</div>
-      {{ end }}
+<ul>
+  {{ range $pages }}
+    <li>{{ .Title }}</li>
+  {{ end }}
+</ul>
 
-      {{/* Collect session and day values */}}
-      {{ range .Pages }}
-        {{ with .Params.session }}
-          {{ $.Scratch.SetInMap "sessions" . . }}
-        {{ end }}
-        {{ with .Params.day }}
-          {{ $.Scratch.SetInMap "days" . . }}
-        {{ end }}
-      {{ end }}
-
-      <div class="form-row mb-4">
-        <div class="col-auto">
-          <input type="search" class="filter-search form-control form-control-sm" placeholder="Search..." autocapitalize="off"
-          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
-        </div>
-        <div class="col-auto">
-          {{ with $.Scratch.GetSortedMapValues "sessions" }}
-            <select class="pub-filters form-control form-control-sm" data-filter-group="session">
-              <option value="*">Session</option>
-              {{ range sort . }}
-                <option value=".session-{{ anchorize . }}">{{ . }}</option>
-              {{ end }}
-            </select>
-          {{ end }}
-        </div>
-        <div class="col-auto">
-          {{ with $.Scratch.GetSortedMapValues "days" }}
-            <select class="pub-filters form-control form-control-sm" data-filter-group="day">
-              <option value="*">Day</option>
-              {{ range sort . }}
-                <option value=".day-{{ anchorize . }}">{{ . }}</option>
-              {{ end }}
-            </select>
-          {{ end }}
-        </div>
-      </div>
-
-      {{/* Sort by Slot number then Session */}}
-      {{ $sorted := sort .Pages "Params.slot_no" "Params.session" }}
-
-      <div id="container-publications">
-        {{ range $index, $item := $sorted }}
-        <div class="grid-sizer col-lg-12 isotope-item session-{{ anchorize $item.Params.session }} day-{{ anchorize $item.Params.day }}">
-          <div class="mb-4 pb-3 border-bottom">
-            <div class="publication-item">
-              <p class="font-weight-bold mb-1">
-                {{ if $item.Params.url_pdf }}<a href="{{ $item.Params.url_pdf }}" target="_blank">{{ $item.Title }}</a>{{ else }}{{ $item.Title }}{{ end }}
-              </p>
-              <p class="mb-1">{{ delimit $item.Params.authors ", " }}</p>
-              {{ if $item.Params.session }}<p class="mb-1">Session: {{ $item.Params.session }}</p>{{ end }}
-              {{ if $item.Params.slot }}<p class="mb-1">Slot: {{ $item.Params.slot }}</p>{{ end }}
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-
-    </div>
-  </div>
-</div>
-
-{{- end -}}
+{{ end }}
