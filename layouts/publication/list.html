@@ -32,7 +32,7 @@
           <select class="pub-filters form-control form-control-sm" data-filter-group="session">
             <option value="*">Session</option>
             {{ range $session := sort ($.Scratch.GetSortedMapValues "sessions") }}
-            <option value=".session-{{ anchorize $session }}">{{ $session }}</option>
+              <option value=".session-{{ anchorize $session }}">{{ $session }}</option>
             {{ end }}
           </select>
         </div>
@@ -40,7 +40,7 @@
           <select class="pub-filters form-control form-control-sm" data-filter-group="day">
             <option value="*">Day</option>
             {{ range $day := sort ($.Scratch.GetSortedMapValues "days") }}
-            <option value=".day-{{ anchorize $day }}">{{ $day }}</option>
+              <option value=".day-{{ anchorize $day }}">{{ $day }}</option>
             {{ end }}
           </select>
         </div>
