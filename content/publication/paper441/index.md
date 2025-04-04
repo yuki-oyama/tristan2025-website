@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "2"
 slot: "10:30-12:00, Monday June 23"
 title: "Group-and-Match vs. Route-then-Insert - Order Dispatching in Vehicle-Based Dual Services (VeDuS)"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_441.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_441.pdf
 ---

@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "15"
 slot: "13:30-15:00, Friday June 27"
 title: "Integration of Hub Capacity Acquisition Decisions in the Scheduled Service Network Design Problem"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_202.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_202.pdf
 ---

@@ -15,5 +15,5 @@ day: "Tuesday"
 slot_no: "7"
 slot: "13:30-15:30, Tuesday June 24"
 title: "Modeling and Optimising Infrastructure Upgrade Deployment in Railway Networks Operating Cyclic Timetables"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_351.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_351.pdf
 ---

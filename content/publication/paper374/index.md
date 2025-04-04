@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "14"
 slot: "10:30-12:00, Friday June 27"
 title: "Resilience of Railway Stations: Impacts of Strategic Infrastructure Modifications"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_374.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_374.pdf
 ---

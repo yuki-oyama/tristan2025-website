@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "3"
 slot: "13:30-15:30, Monday June 23"
 title: "Improving Dual Bounds for the Unsplittable Multicommodity Capacitated Network Design Problem"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_388.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_388.pdf
 ---

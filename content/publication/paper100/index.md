@@ -16,5 +16,5 @@ day: "Thursday"
 slot_no: "11"
 slot: "13:30-15:30, Thursday June 26"
 title: "Multimodal Transportation Pricing Alliance Design: Large-Scale Optimization for Rapid Gains"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_100.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_100.pdf
 ---

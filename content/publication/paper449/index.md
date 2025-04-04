@@ -17,5 +17,5 @@ day: "Thursday"
 slot_no: "10"
 slot: "10:30-12:00, Thursday June 26"
 title: "Uncovering Unmet Demand in Bike-sharing Systems Based on Bayesian Gaussian Decomposition of Time-varying OD Tensor"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_449.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_449.pdf
 ---

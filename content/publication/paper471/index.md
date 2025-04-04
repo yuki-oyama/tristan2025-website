@@ -13,5 +13,5 @@ day: "Friday"
 slot_no: "14"
 slot: "10:30-12:00, Friday June 27"
 title: "Optimized Itinerary Planning for Tourist Attractions"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_471.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_471.pdf
 ---

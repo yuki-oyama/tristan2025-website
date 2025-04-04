@@ -16,5 +16,5 @@ day: "Tuesday"
 slot_no: "5"
 slot: "8:30-10:00, Tuesday June 24"
 title: "Sustainable last-mile logistics with parcel lockers and autonomous delivery robots"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_204.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_204.pdf
 ---

@@ -16,5 +16,5 @@ day: "Friday"
 slot_no: "15"
 slot: "13:30-15:00, Friday June 27"
 title: "A new MILP formulation and a Branch-and-cut Algorithm for the TSP with Release Dates and Drone Resupply"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_279.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_279.pdf
 ---

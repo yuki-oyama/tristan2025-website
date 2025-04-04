@@ -14,5 +14,5 @@ day: "Tuesday"
 slot_no: "5"
 slot: "8:30-10:00, Tuesday June 24"
 title: "A Study on the Tour and Consumption Behavior at Station Areas in Considering the Green Coverage"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_456.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_456.pdf
 ---

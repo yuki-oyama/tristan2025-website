@@ -15,5 +15,5 @@ day: "Thursday"
 slot_no: "11"
 slot: "13:30-15:30, Thursday June 26"
 title: "Fair Courier Assignment and Dynamic Food Pricing via Multi-Agent Reinforcement Learning with Communication"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_111.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_111.pdf
 ---

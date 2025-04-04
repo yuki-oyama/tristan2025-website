@@ -16,5 +16,5 @@ day: "Friday"
 slot_no: "13"
 slot: "8:30-10:00, Friday June 27"
 title: "Are travelers more satisfied with more options offered? A choice set paradox"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_256.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_256.pdf
 ---

@@ -16,5 +16,5 @@ day: "Friday"
 slot_no: "15"
 slot: "13:30-15:00, Friday June 27"
 title: "A data fusion framework for the estimation of dynamic multimodal OD flows within urban areas"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_326.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_326.pdf
 ---

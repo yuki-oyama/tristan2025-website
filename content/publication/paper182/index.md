@@ -15,5 +15,5 @@ day: "Thursday"
 slot_no: "11"
 slot: "13:30-15:30, Thursday June 26"
 title: "Coordinated vehicle dispatching and charging scheduling for an electric ride-hailing fleet under charging congestion and dynamic prices"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_182.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_182.pdf
 ---

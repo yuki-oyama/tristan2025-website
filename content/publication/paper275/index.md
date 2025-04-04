@@ -15,5 +15,5 @@ day: "Tuesday"
 slot_no: "8"
 slot: "16:00-18:00, Tuesday June 24"
 title: "An Integrated Framework for Network-Wide Assessment and Improvement of Supply Chain Resilience"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_275.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_275.pdf
 ---

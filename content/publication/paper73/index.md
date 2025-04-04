@@ -16,5 +16,5 @@ day: "Thursday"
 slot_no: "10"
 slot: "10:30-12:00, Thursday June 26"
 title: "Collaborative generative adversarial networks for fusing household travel survey and smart card data to generate heterogeneous activity schedules"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_73.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_73.pdf
 ---

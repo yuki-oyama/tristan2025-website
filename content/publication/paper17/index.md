@@ -16,5 +16,5 @@ day: "Monday"
 slot_no: "3"
 slot: "13:30-15:30, Monday June 23"
 title: "Hub location and service network design under uncertainty"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_17.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_17.pdf
 ---

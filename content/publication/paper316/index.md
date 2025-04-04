@@ -15,5 +15,5 @@ day: "Thursday"
 slot_no: "9"
 slot: "8:30-10:00, Thursday June 26"
 title: "Refrigerated Container Loading Problem (R-CLP) Models for Managing Arrangement of Smart Containers"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_316.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_316.pdf
 ---

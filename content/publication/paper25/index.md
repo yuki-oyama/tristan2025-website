@@ -18,5 +18,5 @@ day: "Friday"
 slot_no: "14"
 slot: "10:30-12:00, Friday June 27"
 title: "Decision support system for real-time rescheduling"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_25.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_25.pdf
 ---

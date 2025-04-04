@@ -14,5 +14,5 @@ day: "Thursday"
 slot_no: "10"
 slot: "10:30-12:00, Thursday June 26"
 title: "A scalable three-sided electric Mobility-as-a-Service assignment game model with charging activity"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_124.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_124.pdf
 ---

@@ -16,5 +16,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "Machine Learning Surrogates for Optimizing Transportation Policies with Agent-Based Models"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_464.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_464.pdf
 ---

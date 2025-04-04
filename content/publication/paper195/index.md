@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "14"
 slot: "10:30-12:00, Friday June 27"
 title: "Development of network generation model with the properties of real road networks by machine learning"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_195.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_195.pdf
 ---

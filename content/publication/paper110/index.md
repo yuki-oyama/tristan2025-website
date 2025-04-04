@@ -14,5 +14,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "A GRASP-based solution for real-time train route selection in disturbed railway traffic"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_110.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_110.pdf
 ---

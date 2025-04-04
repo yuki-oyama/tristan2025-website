@@ -14,5 +14,5 @@ day: "Friday"
 slot_no: "13"
 slot: "8:30-10:00, Friday June 27"
 title: "Two-echelon city logistics by integrating road and water transport: Amsterdam case study"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_483.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_483.pdf
 ---

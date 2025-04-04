@@ -16,5 +16,5 @@ day: "Monday"
 slot_no: "1"
 slot: "8:30-10:00, Monday June 23"
 title: "Lane Management Strategies to Enhance Traffic Performance in Mixed Traffic Environments with Platoons of Connected Autonomous Vehicles"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_253.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_253.pdf
 ---

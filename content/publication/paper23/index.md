@@ -16,5 +16,5 @@ day: "Tuesday"
 slot_no: "5"
 slot: "8:30-10:00, Tuesday June 24"
 title: "Leveraging public transit for efficient last-mile delivery through crowdshipping"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_23.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_23.pdf
 ---

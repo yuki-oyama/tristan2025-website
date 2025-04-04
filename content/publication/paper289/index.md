@@ -14,5 +14,5 @@ day: "Thursday"
 slot_no: "10"
 slot: "10:30-12:00, Thursday June 26"
 title: "The intraday competition in a duopoly ride-hailing market"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_289.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_289.pdf
 ---

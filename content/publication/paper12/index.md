@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "2"
 slot: "10:30-12:00, Monday June 23"
 title: "Preference learning for efficient bundle selection in horizontal transport collaborations"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_12.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_12.pdf
 ---

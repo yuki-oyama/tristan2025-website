@@ -16,5 +16,5 @@ day: "Tuesday"
 slot_no: "7"
 slot: "13:30-15:30, Tuesday June 24"
 title: "An adaptive large neighbourhood search with MILP and heuristic repair operators for bus timetabling"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_245.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_245.pdf
 ---

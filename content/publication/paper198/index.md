@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "13"
 slot: "8:30-10:00, Friday June 27"
 title: "A General Optimization Framework for Dynamic Two-Stage Order Fulfillment Problems"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_198.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_198.pdf
 ---

@@ -13,5 +13,5 @@ day: "Monday"
 slot_no: "3"
 slot: "13:30-15:30, Monday June 23"
 title: "Multi-layer Network Design for Consolidation-based Transportation Planning"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_13.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_13.pdf
 ---

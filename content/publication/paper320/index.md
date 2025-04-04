@@ -14,5 +14,5 @@ day: "Friday"
 slot_no: "16"
 slot: "15:30-17:00, Friday June 27"
 title: "Privacy-Preserving Contextual Personalized Dynamic Pricing for Ride-Hailing Platforms"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_320.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_320.pdf
 ---

@@ -15,5 +15,5 @@ day: "Thursday"
 slot_no: "12"
 slot: "16:00-18:00, Thursday June 26"
 title: "Adaptive routing and scheduling of network-wide rail transit services with flexible train composition"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_97.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_97.pdf
 ---

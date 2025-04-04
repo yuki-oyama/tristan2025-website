@@ -14,5 +14,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "Pricing carsharing services under decision-dependent demand uncertainty: A two-stage stochastic programming approach"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_385.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_385.pdf
 ---

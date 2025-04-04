@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "14"
 slot: "10:30-12:00, Friday June 27"
 title: "Dynamic OD Matrix Estimation using Data-Driven Modelling under Data-Scarcity: an application of Sparse Variational Gaussian Process"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_76.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_76.pdf
 ---

@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "3"
 slot: "13:30-15:30, Monday June 23"
 title: "Learning destroy operators for vehicle routing problems with deep neural networks"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_143.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_143.pdf
 ---

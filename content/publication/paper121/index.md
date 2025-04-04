@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "16"
 slot: "15:30-17:00, Friday June 27"
 title: "Assessing the Resilience of Rebalancing Strategies for Ride-hailing Services in Multi-modal Transportation System"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_121.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_121.pdf
 ---

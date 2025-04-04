@@ -15,5 +15,5 @@ day: "Thursday"
 slot_no: "12"
 slot: "16:00-18:00, Thursday June 26"
 title: "Prompt and Reliable Medical Evacuation with Air Ambulances"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_61.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_61.pdf
 ---

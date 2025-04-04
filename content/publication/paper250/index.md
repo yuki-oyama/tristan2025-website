@@ -14,5 +14,5 @@ day: "Thursday"
 slot_no: "12"
 slot: "16:00-18:00, Thursday June 26"
 title: "Time-Dependent Vehicle Routing Problem in Subway-Assisted Delivery Systems"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_250.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_250.pdf
 ---

@@ -17,5 +17,5 @@ day: "Thursday"
 slot_no: "12"
 slot: "16:00-18:00, Thursday June 26"
 title: "Optimization of railway resource planning process in a multi-level scale"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_317.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_317.pdf
 ---

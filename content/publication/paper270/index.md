@@ -16,5 +16,5 @@ day: "Friday"
 slot_no: "14"
 slot: "10:30-12:00, Friday June 27"
 title: "Line planning under crowding: A row-and-column generation approach"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_270.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_270.pdf
 ---

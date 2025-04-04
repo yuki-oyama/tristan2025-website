@@ -17,5 +17,5 @@ day: "Tuesday"
 slot_no: "7"
 slot: "13:30-15:30, Tuesday June 24"
 title: "Passenger Based Intermodal Connection Optimization of the Italian Passenger Railway Network"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_489.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_489.pdf
 ---

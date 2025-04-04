@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "A Logic-Based Benders Decomposition Approach for Cyclic Microscopic Timetabling"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_337.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_337.pdf
 ---

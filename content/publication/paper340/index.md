@@ -15,5 +15,5 @@ day: "Thursday"
 slot_no: "11"
 slot: "13:30-15:30, Thursday June 26"
 title: "Atomic Proximal Policy Optimization for Electric Robo-Taxi Dispatch and Charger Allocation"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_340.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_340.pdf
 ---

@@ -16,5 +16,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "Stochastic Optimization under Supply Uncertainty for Multimodal Trip Planning Based on Demand Prediction"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_292.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_292.pdf
 ---

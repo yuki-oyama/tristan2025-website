@@ -14,5 +14,5 @@ day: "Friday"
 slot_no: "15"
 slot: "13:30-15:00, Friday June 27"
 title: "Optimization of Drone and Truck Operations for Socially Optimal Disaster Relief Distribution"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_406.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_406.pdf
 ---

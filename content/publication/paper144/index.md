@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "Iterative Two-Stage Stochastic Programming Approach for Real-Time Rolling Stock Rescheduling Under Uncertainty"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_144.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_144.pdf
 ---

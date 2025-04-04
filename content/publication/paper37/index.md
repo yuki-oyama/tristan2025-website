@@ -14,5 +14,5 @@ day: "Monday"
 slot_no: "1"
 slot: "8:30-10:00, Monday June 23"
 title: "A Unified Approach to Evaluation and Routing in Public Transport Systems"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_37.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_37.pdf
 ---

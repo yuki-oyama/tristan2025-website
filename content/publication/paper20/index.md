@@ -16,5 +16,5 @@ day: "Monday"
 slot_no: "1"
 slot: "8:30-10:00, Monday June 23"
 title: "Optimizing customized bus routing and maximum seat occupancy rate under the influence of epidemic outbreaks"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_20.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_20.pdf
 ---

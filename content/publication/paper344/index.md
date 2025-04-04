@@ -16,5 +16,5 @@ day: "Tuesday"
 slot_no: "6"
 slot: "10:30-12:00, Tuesday June 24"
 title: "Learning to Segment for Capacitated Vehicle Routing Problems"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_344.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_344.pdf
 ---

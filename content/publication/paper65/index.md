@@ -15,5 +15,5 @@ day: "Friday"
 slot_no: "13"
 slot: "8:30-10:00, Friday June 27"
 title: "The Dynamic Park-and-loop Routing Problem"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_65.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_65.pdf
 ---

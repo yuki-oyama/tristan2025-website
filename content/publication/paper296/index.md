@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "2"
 slot: "10:30-12:00, Monday June 23"
 title: "Strategic coopetition for autonomous mobility on-demand systems under demand uncertainty: When competitors become friends?"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_296.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_296.pdf
 ---

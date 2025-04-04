@@ -15,5 +15,5 @@ day: "Tuesday"
 slot_no: "5"
 slot: "8:30-10:00, Tuesday June 24"
 title: "Spot fare inspection in urban buses transportation system: strategy and unpredictability under Stackelberg game approach"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_91.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_91.pdf
 ---

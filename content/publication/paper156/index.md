@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "3"
 slot: "13:30-15:30, Monday June 23"
 title: "Designing Relay-Hub Networks for Consolidation Planning Under Demand Uncertainty"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_156.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_156.pdf
 ---

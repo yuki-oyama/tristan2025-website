@@ -14,5 +14,5 @@ day: "Thursday"
 slot_no: "11"
 slot: "13:30-15:30, Thursday June 26"
 title: "Analysis and mitigation of discriminatory behaviour in fleet management algorithms"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_445.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_445.pdf
 ---

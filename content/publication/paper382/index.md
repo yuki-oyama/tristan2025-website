@@ -15,5 +15,5 @@ day: "Monday"
 slot_no: "4"
 slot: "16:00-18:00, Monday June 23"
 title: "ONLINE STOCHASTIC OPTIMIZATION FOR REAL-TIME TRANSFER SYNCHRONIZATION IN PUBLIC TRANSIT NETWORKS"
-url_pdf: /publication/proceedings/TRISTAN2025_ExtendedAbstract_382.pdf
+url_pdf: /proceedings/TRISTAN2025_ExtendedAbstract_382.pdf
 ---
