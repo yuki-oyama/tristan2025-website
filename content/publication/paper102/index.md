@@ -6,7 +6,7 @@ authors:
   - Pornpimon Boriwan
   - Thanathorn Phoka
 date: "2025-06-22T00:00:00Z"
-doi: ""
+type: "publication"
 #publication_types:
 #  - "1"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
