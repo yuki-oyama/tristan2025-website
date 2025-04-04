@@ -74,15 +74,4 @@
   </div>
 </div>
 
-<div style="background:#f8f9fa; padding:1rem; font-size:0.9rem;">
-  <p><strong>DEBUG: site.RegularPages (filtered to publication)</strong></p>
-  {{ $pubs := where site.RegularPages "Section" "publication" }}
-  <p>Total: {{ len $pubs }}</p>
-  <ul>
-    {{ range $pubs }}
-      <li>{{ .File.Path }} — {{ .Title }}</li>
-    {{ end }}
-  </ul>
-</div>
-
 {{- end -}}
