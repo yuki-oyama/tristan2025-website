@@ -1,14 +1,14 @@
 {{ define "main" }}
 
-<h1>Test: Publication Titles</h1>
-
-{{ $pages := where site.RegularPages "Section" "publication" }}
-
-<p>Total: {{ len $pages }}</p>
+<h1>DEBUG: site.RegularPages (Full)</h1>
 
 <ul>
-  {{ range $pages }}
-    <li>{{ .Title }}</li>
+  {{ range site.RegularPages }}
+    <li>
+      <strong>{{ .Title }}</strong><br>
+      Section: {{ .Section }}<br>
+      Path: {{ .File.Path }}
+    </li>
   {{ end }}
 </ul>
 
