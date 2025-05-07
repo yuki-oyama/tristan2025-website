@@ -45,10 +45,12 @@ The TRISTAN XII program is available here:
 # <span style="color: orange;"><a name="keynote-speakers">Keynote Speakers</a></span>
 ---
 
-## Dr. Karen Smilowitz
+## "Transportation Research for Social Impact in a Changing World: advances in humanitarian logistics and disaster response" by Dr. Karen Smilowitz
 **Professor at Northwestern University, USA**
 
 <img src="images/karen.jpg" width="35%">
+
+This talk includes a discussion of recent trends we have seen at Transportation Science and the changes we have made at the journal to broaden its scope, which is particularly relevant to the theme of transportation research for social impact in a changing world.
 
 <!--
 Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial Engineering and Management Science at Northwestern University, with a joint appointment in the Operations group at the Kellogg School of Management. 
