@@ -1,8 +1,9 @@
 ---
 authors:
   - Minghao Chen
+  - Zhiyuan Shi
   - Ang Li
-  - Max Li
+  - Max Z. Li
 date: "2025-04-01"
 publication: The 12th Triennial Symposium on Transportation Analysis conference
 session: "Last-Mile Delivery 2"
