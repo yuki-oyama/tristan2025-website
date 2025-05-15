@@ -67,7 +67,7 @@ The goal of this field is to design policies and tactics that have the potential
 
 ## "Combinatorial choices" by Dr. Michel Bierlaire
 **Professor at École Polytechnique Fédérale de Lausanne, Switzerland** <br>
-*Joint work with Frédéric Meunier and Prunelle Vogler*
+*Joint work with Frédéric Meunier, Léa Ricard and Prunelle Vogler*
 
 
 <img src="images/michel.jpg" width="35%">
