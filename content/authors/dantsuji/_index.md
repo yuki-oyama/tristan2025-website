@@ -21,7 +21,7 @@ interests:
 #- Information Retrieval
 last_name: Dantsuji
 organizations:
-- name: Kanazawa University
+- name: Waseda University
 #  url: ""
 role: 
 position: 13

@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><strong>Daisuke Kamiya</strong><br><small>University of the Ryukyus, Japan</small></td>
-    <td><strong>Takamasa Iryo</strong><br><small>Tohoku University, Japan</small></td>
+    <td><strong>Takamasa Iryo</strong><br><small>University of Tokyo, Japan</small></td>
     <td><strong>Yusuke Hara</strong><br><small>Tohoku University, Japan</small></td>
   </tr>
   <tr>

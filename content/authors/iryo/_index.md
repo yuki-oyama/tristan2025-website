@@ -22,7 +22,7 @@ interests:
 last_name: Iryo
 role: Co-Chair
 organizations:
-- name: Tohoku University
+- name: University of Tokyo
 position: 4
 social:
 #- icon: envelope

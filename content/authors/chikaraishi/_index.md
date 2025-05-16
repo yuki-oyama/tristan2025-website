@@ -13,18 +13,18 @@ education:
   #  institution: Massachusetts Institute of Technology
   #  year: 2008
 email: ""
-first_name: Hiroe
+first_name: Makoto
 highlight_name: false
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
-last_name: Ando
+last_name: Chikaraishi
 organizations:
-- name: Nagoya University
+- name: Hiroshima University
 #  url: ""
-role:
-position: 12
+role: 
+position: 6
 social:
 #- icon: envelope
 #  icon_pack: fas
@@ -39,10 +39,9 @@ social:
 #  icon_pack: fab
 #  link: https://github.com/gcushen
 superuser: false
-title: Hiroe Ando
+title: Makoto Chikaraishi
 user_groups:
 - Organizing Committee
 ---
-
 <!-- Eiji Hato is a professor of ... -->
 
