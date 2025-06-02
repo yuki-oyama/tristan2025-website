@@ -16,7 +16,7 @@ main:
   - name: Program
     url: program
     weight: 40
-  - name: Venue
+  - name: Access
     url: venue
     weight: 60
     #children:
