@@ -10,7 +10,8 @@ summary: Transportation details, including parking, shuttle bus from Nago City, 
 ---
 
 As the number of participants is quite high and shuttle bus capacity is limited,
-please read the following transportation information carefully.
+please read the following transportation information carefully and complete the shuttle usage survey by **June 11**.
+Shuttle usage survey: https://forms.gle/nu3QTr2ENS7PMt5c6
 
 ## Rental car use
 The venue offers 130 parking spaces for visitors.
