@@ -6,7 +6,7 @@ sections:
     #image:
     #  filename: welcome.jpg
     text: |
-      **The 12th Triennial Symposium on Transportation Analysis conference**  
+      **The 12th Triennial Symposium on Transportation Analysis**  
       **June 22-27, 2025, Okinawa, Japan**  
       <br>
       
@@ -152,6 +152,10 @@ sections:
         <img src="/media/logo_rf.jpg" alt="Sponsor 1" style="max-height: 80px;">
         <img src="/media/logo_IBS.png" alt="Sponsor 2" style="max-height: 80px;">
         <img src="/media/logo_sys.png" alt="Sponsor 3" style="max-height: 80px;">
+        <img src="/media/logo_chuo.png" alt="Sponsor 4" style="max-height: 80px;">
+        <img src="/media/logo_src.png" alt="Sponsor 5" style="max-height: 80px;">
+        <img src="/media/logo_doro.png" alt="Sponsor 6" style="max-height: 80px;">
+        <img src="/media/logo_ocvb.png" alt="Sponsor 7" style="max-height: 80px;">
       </div>
   design:
     columns: "1"
