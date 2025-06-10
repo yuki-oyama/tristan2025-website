@@ -2,7 +2,7 @@
 <section class="events-list container py-5">
   <h1 class="mb-4">{{ i18n "Events" }}</h1>
   <div class="row">
-    {{ range .Pages.ByDate.Reverse }}
+    {{ range .Pages.ByDate }}
     <div class="col-md-6 col-lg-4 mb-4">
       <div class="card h-100">
         {{/* 🔍 grab the featured.* image in the bundle */}}
