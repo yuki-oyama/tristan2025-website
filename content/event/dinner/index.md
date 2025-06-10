@@ -14,9 +14,9 @@ event: Gala Dinner
 #event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**The Moon Beach Museum Resort**](https://www.moonbeach.co.jp/)'
+  caption: 'Image credit: [**Onna Village**](https://www.vill.onna.okinawa.jp/)'
   focal_point: Right
-location: "[The Moon Beach Museum Resort](https://www.moonbeach.co.jp/en/restaurant/)"
+location: "[The Moon Beach Museum Resort](https://www.moonbeach.co.jp/en/)"
 projects: null
 publishDate: "2017-01-01T00:00:00Z"
 slides: null
