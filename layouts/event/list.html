@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="events-list container py-5">
+  <h1 class="mb-4">{{ i18n "Events" }}</h1>
+  <div class="row">
+    {{ range .Pages.ByDate.Reverse }}
+    <div class="col-md-6 col-lg-4 mb-4">
+      <div class="card h-100">
+        {{/* 🔍 grab the featured.* image in the bundle */}}
+        {{ with .Resources.GetMatch "featured*" }}
+          <img src="{{ .RelPermalink }}" class="card-img-top" alt="{{ $.Title }}">
+        {{ end }}
+        <div class="card-body">
+          <time class="text-muted small" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "Jan 2 (Mon)" }}
+          </time>
+          <h5 class="card-title mt-2">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h5>
+          {{ if .Params.summary }}
+            <p class="card-text">{{ .Params.summary }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

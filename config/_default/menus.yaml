@@ -29,9 +29,9 @@ main:
   - name: Registration
     url: registration
     weight: 80
-  #- name: Events
-  #  url: event
-  #  weight: 50
+  - name: Events
+    url: event
+    weight: 65
   - name: Proceedings
     url: proceedings
     weight: 60
