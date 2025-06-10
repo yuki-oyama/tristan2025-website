@@ -25,5 +25,35 @@ tags: []
 title: Gala Dinner
 ---
 
-Information comes here:
+The Gala Dinner will be held at **The Moon Beach Museum Resort**, which is located 30 minutes distance from the conference venue by car.
+
+### 🚌 Transportation from the Venue
+
+A shuttle bus will be arranged from the conference venue to the Gala Dinner venue.  
+After the final session ends, please follow staff instructions for boarding. Staff members will guide you to the bus.
+
+### 👥 Transportation for Accompanying Guests
+
+If your accompanying guest(s) have purchased a ticket for the Gala Dinner,  
+a separate bus will run from **Nago City Center**, stopping at the **TRISTAN venue**, and continuing on to **The Moon Beach Museum Resort**.
+
+Please inform your guests that they may board the TRISTAN-organized bus either from the TRISTAN venue or from Nago City Center.
+
+More details: [Access to Gala Dinner Venue](https://tristan2025.org/venue/#access-gala)
+
+### 🚗 Rental Car Option
+
+Participants may also choose to drive directly to **The Moon Beach Museum Resort** by rental car.
+
+Please note that a parking permit is required to park at the Gala Dinner venue. If you need one, please inform the staff during the conference.
+
+---
+
+### 🍽️ Dinner Format and Dietary Information
+
+Due to the large number of attendees, the Gala Dinner will be held in a **buffet style**.  
+Menu items will be clearly labeled to indicate allergens, halal options, and other dietary notes.  
+Please check the signage in front of each dish for details.
+
+---
 
