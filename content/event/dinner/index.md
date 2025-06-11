@@ -45,7 +45,9 @@ More details: [Access to Gala Dinner Venue](https://tristan2025.org/venue/#acces
 
 Participants may also choose to drive directly to **The Moon Beach Museum Resort** by rental car.
 
-Please note that a parking permit is required to park at the Gala Dinner venue. If you need one, please inform the staff during the conference.
+- The Google map location is here: [The Moon Beach Museum Resort](https://maps.app.goo.gl/RGRPWEni3UUDVgjP8)
+- <span style="color: red;">**Drunk driving is strictly prohibited in Japan.**</span>
+- Please note that a parking permit is required to park at the Gala Dinner venue. If you need one, please inform the staff during the conference.
 
 ---
 

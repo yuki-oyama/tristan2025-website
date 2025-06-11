@@ -48,9 +48,7 @@ Next, we’ll enjoy lunch and free time on **Minna Island**.
 
 - This is a full-day tour including lunch, drinks, and all transfers.
 - Bring your own **sunscreen** and **beach towels**
-- Please take full responsibility for your own activities on the island
 - <span style="color: red;">**CASH is the only payment method at Minna Island.**</span> 
   If you plan to purchase alcohol or participate in marine activities, please be sure to bring cash and coins.
 - Due to the boat schedule, **late arrivals will not be able to join the tour midway.**
-
-
+- Please note that the organizers cannot assume responsibility for any accidents or injuries that may occur during individual or free-time activities. We recommend arranging your own insurance coverage.

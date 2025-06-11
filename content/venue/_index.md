@@ -42,6 +42,7 @@ The following map summarizes the locations and expected travel times between Nah
 <!---![](access/access.jpg)--->
 <img src="access/access.jpg" width="70%">
 
+
 ## <a name="access-arrival">From Naha Airport to the venue / Nago city center</a>
 ### Naha Airport &rarr; Venue
 - :bus: **Bus** (JPY 1,600 - 2,500)
@@ -97,7 +98,7 @@ The following map summarizes the locations and expected travel times between Nah
   - Taxi stand at Naha Airport ([map](https://www.naha-airport.co.jp/en/access/taxi/))
 
 
-
+---
 ## <a name="access-sunday">Sunday: from Nago to the venue (Before Keynote and Welcome party)</a>
 
 - :bus: **Private shuttle bus**
@@ -108,6 +109,7 @@ The following map summarizes the locations and expected travel times between Nah
     - Hotel Yugaf Inn Okinawa (17:30) → Venue (18:30, before Welcome Party) [Mainly for accompanying guests]
     - Venue → Hotel Yugaf Inn Okinawa (after Welcome Party)
   - When staff are no longer present, the bus has already departed. Please also check the spreadsheet for real-time updates and a detailed timetable: 
+    
     👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
 - :bus: [Airport Limousine Bus (Area DE)](https://okinawabus.com/en/ls/)
   - Nago Bus Terminal &harr; The Busena Terrace Beach Resort and 10 minutes walk to the venue ([timetable](https://okinawabus.com/en/ls/ls_timetable_fares/))
@@ -122,7 +124,7 @@ The following map summarizes the locations and expected travel times between Nah
   - To reserve taxis,  download the DiDi ([App Store](https://apps.apple.com/app/id1362398401); [Google Play](https://play.google.com/store/apps/details?id=com.didiglobal.passenger&hl=en)) or GO ([App Store](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709); [Google Play](https://play.google.com/store/apps/details?id=com.dena.automotive.taxibell&hl=en)) apps.
   - You can also call the [Daiichi Kotsu Multilingual Interpretation Center](https://daiichikoutsu.jp/taxi/interpreter/english/) at +81-92-687-8008 for reservations.
 
-
+---
 ## <a name="access-session-days">Session days (Monday, Tuesday, Thursday, Friday)</a>
 - :bus: **Private shuttle bus**
   - We will provide a private shuttle between Nago city center ande the venue on every morning and evening of the session days.
@@ -131,6 +133,7 @@ The following map summarizes the locations and expected travel times between Nah
     - Morning: Hotel Yugaf Inn Okinawa (7:15) → Venue (8:15)
     - Evening: Venue (18:15) → Hotel Yugaf Inn Okinawa (19:15) *except Thursday evening
   - When staff are no longer present, the bus has already departed. Please also check the spreadsheet for real-time updates and a detailed timetable: 
+    
     👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
 - :bus: [Airport Limousine Bus (Area DE)](https://okinawabus.com/en/ls/)
   - Nago Bus Terminal &harr; The Busena Terrace Beach Resort and 10 minutes walk to the venue ([timetable](https://okinawabus.com/en/ls/ls_timetable_fares/))
@@ -145,7 +148,7 @@ The following map summarizes the locations and expected travel times between Nah
   - To reserve taxis,  download the DiDi ([App Store](https://apps.apple.com/app/id1362398401); [Google Play](https://play.google.com/store/apps/details?id=com.didiglobal.passenger&hl=en)) or GO ([App Store](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709); [Google Play](https://play.google.com/store/apps/details?id=com.dena.automotive.taxibell&hl=en)) apps.
   - You can also call the [Daiichi Kotsu Multilingual Interpretation Center](https://daiichikoutsu.jp/taxi/interpreter/english/) at +81-92-687-8008 for reservations.
 
-
+---
 ## <a name="access-social-tour"> Wednesday: Social tour</a>
 - Six buses will be arranged to transport participants to the tour destinations.
 - The buses will stop at the same bus stops as on the session days, **except for the venue and Yugaf Inn. The locations of those two are different from the session days.**
@@ -157,14 +160,16 @@ The following map summarizes the locations and expected travel times between Nah
   - The Busena Terrace (9:10) → Churaumi Aquarium (10:15)
   - Best Western Okinawa Kouki Beach (8:50) → Churaumi Aquarium (10:15)
 - Please check the spreadsheet for real-time updates and a detailed timetable: 
+  
   👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
-
-
+---
+---
 ## <a name="access-gala"> Thursday evening: Gala dinner</a>
 - We will provide a private shuttle between **Nago city center to Bankoku Shinryokan (conference venue) for accompanying guests** before Gala dinner.
   - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Nago Shokuan mae bus stop, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
   - Schedule: Hotel Yugaf Inn Okinawa (17:15) → Venue (18:15)
   - When staff are no longer present, the bus has already departed. Please also check the spreadsheet for real-time updates and a detailed timetable: 
+    
     👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
 
 - We will also provide **shuttle buses to/from the Gala dinner venue (The Moon Beach Museum Resort).**
@@ -173,10 +178,10 @@ The following map summarizes the locations and expected travel times between Nah
   
 - **Participants using rental cars may drive directly to the Gala Dinner venue.**
   - The Google map location is here: [The Moon Beach Museum Resort](https://maps.app.goo.gl/RGRPWEni3UUDVgjP8)
-  - Drunk driving is strictly prohibited in Japan.
+  - <span style="color: red;">**Drunk driving is strictly prohibited in Japan.**</span>
   - Please note that a parking permit is required to park at the Gala Dinner venue. If you need one, please inform the staff during the conference.
 
-
+---
 ## <a name="access-departure"> Saturday, June 28: From Nago to Naha Airport</a>
 - :bus: **Bus** (JPY 1,600 - 2,500)
   - :bus: [Airport Limousine Bus (Area DE)](https://okinawabus.com/en/ls/)
@@ -227,7 +232,7 @@ The following map summarizes the locations and expected travel times between Nah
   - You can also call the [Daiichi Kotsu Multilingual Interpretation Center](https://daiichikoutsu.jp/taxi/interpreter/english/) at +81-92-687-8008 for reservations.
 --->
 
-
+---
 ## <a name="rental-car">:oncoming_automobile: Parking and Traffic Rules for Rental Car Users</a>
 The venue provides **130 parking spaces** for visitors. 
 Please inform gatekeepers that you are attending the TRISTAN conference.
