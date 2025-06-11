@@ -45,6 +45,22 @@ The following map summarizes the locations and expected travel times between Nah
 
 ## <a name="access-arrival">From Naha Airport to the venue / Nago city center</a>
 ### Naha Airport &rarr; Venue
+|Naha A.P. domestic terminal| Naha A.P. Int'l terminal|Arrival  | Notes                     |
+|---------------------------|-------------------------|-------------------------|---------------------------|
+| 9:00                      | 9:01                    | 11:06 (Kariyushi Beach Mae)  |OAS Resort liners (RSL #5) |
+| 11:00                     | 11:01                   | 13:06 (Kariyushi Beach Mae)  |OAS Resort liners (RSL #9) |
+| 11:30                     | 11:32                   | 13:08 (Busena Terrace)  |Airport Limousine Bus (DE) |
+| 12:30                     | 12:31                   | 14:36 (Kariyushi Beach Mae)  |OAS Resort liners (RSL #13) |
+| 12:45                     | -                       | 14:00 (Bankoku shinryokan, venue)  |Official TRISTAN shuttle (**only Sunday**)|
+| 13:50                     | 13:52                   | 15:58 (Busena Terrace)  |Airport Limousine Bus (CD) |
+| 14:40                     | 14:41                   | 16:48 (Kariyushi Beach Mae)  |OAS Resort liners (RSL #17) |
+| 15:00                     | 15:02                   | 17:03 (Busena Terrace)  |Airport Limousine Bus (CD) |
+| 15:30                     | 15:31                   | 17:38 (Kariyushi Beach Mae)  |OAS Resort liners (RSL #19) |
+| 16:10                     | 16:12                   | 18:13 (Busena Terrace)  |Airport Limousine Bus (CD) |
+| 17:00                     | 17:01                   | 19:07 (Kariyushi Beach Mae)  |OAS Resort liners (RSL #21) |
+| 18:10                     | 18:12                   | 20:13 (Busena Terrace)  |Airport Limousine Bus (CD) |
+
+
 - :bus: **Bus** (JPY 1,600 - 2,500)
   - :bus: [Airport Limousine Bus (Area CD, D, DE)](https://okinawabus.com/en/ls/)
     - Book/take a bus from Naha Airport Terminal to "Orion Hotel Motobu Resort & Spa" or "Kanehide Kise Beach Palace".
@@ -53,7 +69,7 @@ The following map summarizes the locations and expected travel times between Nah
     - The bus departs from the bus stop 12 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
     - [How to ride on a limousine bus](https://okinawabus.com/en/ls/ls_ridemethod/)
   - :bus: [OAS Resort liners (RSL・RSL Rapid #5, 9, 13, 17, 19, 21)](https://www.okinawa-shuttle.co.jp/en/) 
-    - Naha A.P. International Terminal - Kariyushi Beach Mae and 20 minutes walk to the venue ([timetable](https://www.okinawa-shuttle.co.jp/en/timetable/))
+    - Naha A.P. International/domestic Terminal - Kariyushi Beach Mae and 20 minutes walk to the venue ([timetable](https://www.okinawa-shuttle.co.jp/en/timetable/))
     - Book tickets [online](https://willer-travel.com/en/bus_search/okinawa/all/okinawa/churaumi/ym_202506/day_22/operation_791/?stockNumberMale=0&stockNumberFemale=0&kkf=1&simpleRouteCode=2488001&rid=3&lang=en) or at [Naha Airport International terminal Tourist Information Center](https://www.okinawa-shuttle.co.jp/en/howtobuy/) (open 9:00 - 18:00). You can also buy tickets at the bus stop.
     - Payment can be made by cash or credit card.
     - The bus departs from the bus stop 1 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
@@ -69,29 +85,43 @@ The following map summarizes the locations and expected travel times between Nah
     <img src="access/meeting_point_sunday.png" width="80%">
 
 ### Naha Airport &rarr; Nago City Center
+<!---
+|Naha A.P. domestic terminal| Naha A.P. Int'l terminal|Arrival  | Notes                     |
+|---------------------------|-------------------------|-------------------------|---------------------------|
+| 9:00                      | 9:01                    | 11:26 (Nago-shiyakusyo Mae)  |OAS Resort liners (RSL #5) |
+| 10:20                     | 10:21                   | 11:44 (Nago-shiyakusyo Mae)  |OAS Resort liners (Rapid #7) |
+| 11:00                     | 11:01                   | 13:26 (Nago-shiyakusyo Mae)  |OAS Resort liners (RSL #9) |
+| 11:30                     | 11:31                   | 12:54 (Nago-shiyakusyo Mae)  |OAS Resort liners (Rapid #11) |
+| 11:30                     | 11:32                   | 13:39 (Nago bus terminal)  |Airport Limousine Bus (DE) |
+| 12:30                     | 12:31                   | 14:56 (Nago-shiyakusyo Mae)  |OAS Resort liners (RSL #13) |
+| 13:45                     | 13:46                   | 15:09 (Nago-shiyakusyo Mae)  |OAS Resort liners (Rapid #15) |
+| 14:40                     | 14:41                   | 17:05 (Nago-shiyakusyo Mae)  |OAS Resort liners (RSL #17) |
+| 15:30                     | 15:31                   | 17:55 (Nago-shiyakusyo Mae)  |OAS Resort liners (RSL #19) |
+| 17:00                     | 17:01                   | 19:27 (Nago-shiyakusyo Mae)  |OAS Resort liners (RSL #21) |
+--->
 - :bus: **Bus** (JPY 1,600 - 2,500)
-  - :bus: [Airport Limousine Bus (Area DE)](https://okinawabus.com/en/ls/)
-    - Book/take a bus from Naha Airport Terminal to "Orion Hotel Motobu Resort & Spa".
-    - Alight the bus at the bus stop "Nago Bus Terminal" 
-    - Book tickets [online](https://japanbusonline.com/en/Detail/14700010001/0/9472018001/9472018002/20250621) or at the [airport domestic terminal](https://okinawabus.com/en/ls/ls_carstop/) (open 11:00 - 18:00) - A reservation is required to board the bus.
-    - The bus departs from stop 12 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
-    - [How to ride on a limousine bus](https://okinawabus.com/en/ls/ls_ridemethod/)
   - :bus: [OAS Resort liners (RSL・RSL Rapid)](https://www.okinawa-shuttle.co.jp/en/) 
-    - Naha A.P. International Terminal - Nago-shiyakusho mae (Nago City Office) ([timetable](https://www.okinawa-shuttle.co.jp/en/timetable/))
+    - Naha A.P. International/domestic Terminal - Nago-shiyakusho mae (Nago City Office) ([timetable](https://www.okinawa-shuttle.co.jp/en/timetable/))
     - Book tickets [online](https://willer-travel.com/en/bus_search/okinawa/all/okinawa/churaumi/ym_202506/day_21/operation_791/?stockNumberMale=0&stockNumberFemale=0&kkf=1&simpleRouteCode=2488001&rid=3&lang=en) or at [Naha Airport International terminal Tourist Information Center](https://www.okinawa-shuttle.co.jp/en/howtobuy/) (open 9:00 - 18:00). You can also buy tickets at the bus stop.
     - Payment can be made by cash or credit card.
     - The bus departs from the bus stop 1 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
-  - :bus: [Bus Route 111](https://okinawabus.com/en/rb/rb_routelist/)
+  - :bus: [Bus Route 111, 117, 120](https://okinawabus.com/en/rb/rb_routelist/)
     - Naha Airport Domestic Terminal - Naha Airport International Terminal - Nago-shiyakusho mae (Nago City Office), Nago Bus Terminal
     - For payment by credit card, touch the card reader with your IC card or smartphone when getting on and off the bus.
     - For payment by cash, you can pay the fare after the ride. Take a boarding ticket when you get on the bus and make the payment before getting off the bus. Please check the [boarding guide](https://okinawabus.com/en/rb/rb_userguide/rb_ridemethod/) carefully.
     - The bus departs from the bus stop 2 at the domestic terminal and the bus stop 2 at the international terminal  ([map](https://www.naha-airport.co.jp/en/access/bus/)).
     <img src="bus/111.jpg" width="50%">
   - :bus: [Yanbaru Express Bus (YKB888)](https://yanbaru-expressbus.com/)
-    - Naha Airport Int'l Terminal - Nago-shiyakusho mae (Nago City Office), Nago bus terminal mae, Hokubukaikan, Hotel Resonex Nago
+    - Naha Airport Int'l/domestic Terminal - Nago-shiyakusho mae (Nago City Office), Nago bus terminal mae, Hokubukaikan, Hotel Resonex Nago
     - You can pay the fare to the driver when getting on the bus.
     - Payment can be made by cash or credit card.
     - The bus departs from the bus stop 2 at the domestic terminal and the bus stop 2 at the international terminal  ([map](https://www.naha-airport.co.jp/en/access/bus/)).
+  - :bus: [Airport Limousine Bus (Area DE)](https://okinawabus.com/en/ls/)
+    - Book/take a bus from Naha Airport Terminal to "Orion Hotel Motobu Resort & Spa".
+    - Alight the bus at the bus stop "Nago Bus Terminal" 
+    - Book tickets [online](https://japanbusonline.com/en/Detail/14700010001/0/9472018001/9472018002/20250621) or at the [airport domestic terminal](https://okinawabus.com/en/ls/ls_carstop/) (open 11:00 - 18:00) - A reservation is required to board the bus.
+    - The bus departs from stop 12 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
+    - [How to ride on a limousine bus](https://okinawabus.com/en/ls/ls_ridemethod/)
 - :taxi: **Taxi** (JPY 15,000 - 20,000)
   - To reserve taxis,  download the DiDi ([App Store](https://apps.apple.com/app/id1362398401); [Google Play](https://play.google.com/store/apps/details?id=com.didiglobal.passenger&hl=en)) or GO ([App Store](https://apps.apple.com/us/app/go-taxi-app-for-japan/id1254341709); [Google Play](https://play.google.com/store/apps/details?id=com.dena.automotive.taxibell&hl=en)) apps.
   - You can also call the [Daiichi Kotsu Multilingual Interpretation Center](https://daiichikoutsu.jp/taxi/interpreter/english/) at +81-92-687-8008 for reservations.
@@ -162,7 +192,7 @@ The following map summarizes the locations and expected travel times between Nah
 - Please check the spreadsheet for real-time updates and a detailed timetable: 
   
   👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
----
+
 ---
 ## <a name="access-gala"> Thursday evening: Gala dinner</a>
 - We will provide a private shuttle between **Nago city center to Bankoku Shinryokan (conference venue) for accompanying guests** before Gala dinner.
