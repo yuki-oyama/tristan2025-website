@@ -149,15 +149,15 @@ sections:
     title: Sponsors
     text: |
       <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
-        <img src="/media/logo/logo_rf.jpg" alt="Sponsor 1" style="max-height: 80px;">
-        <img src="/media/logo/logo_IBS.png" alt="Sponsor 2" style="max-height: 80px;">
-        <img src="/media/logo/logo_sys.png" alt="Sponsor 3" style="max-height: 70px;">
-        <img src="/media/logo/logo_chuo.png" alt="Sponsor 4" style="max-height: 70px;">
-        <img src="/media/logo/logo_ocvb.png" alt="Sponsor 5" style="max-height: 80px;"> 
-        <img src="/media/logo/logo_apts.png" alt="Sponsor 6" style="max-height: 80px;">
-        <img src="/media/logo/logo_docon.png" alt="Sponsor 7" style="max-height: 80px;">
-        <img src="/media/logo/logo_src.png" alt="Sponsor 8" style="max-height: 70px;">
-        <img src="/media/logo/logo_doro.png" alt="Sponsor 9" style="max-height: 80px;">
+        <img src="/media/logo/logo_apts.png" alt="Association for Planning and Transportation Studies" style="max-height: 80px;">
+        <img src="/media/logo/logo_chuo.png" alt="Chuo Kensetsu Consultant" style="max-height: 80px;">
+        <img src="/media/logo/logo_docon.png" alt="Docon" style="max-height: 80px;">
+        <img src="/media/logo/logo_doro.png" alt="Highway Planning" style="max-height: 80px;">
+        <img src="/media/logo/logo_sys.png" alt="Institute of Systems Science Research" style="max-height: 80px;">
+        <img src="/media/logo/logo_ocvb.png" alt="OCVB" style="max-height: 80px;">
+        <img src="/media/logo/logo_rf.jpg" alt="Regional Futures Research Center" style="max-height: 80px;">
+        <img src="/media/logo/logo_src.png" alt="Survey Research Center" style="max-height: 80px;">
+        <img src="/media/logo/logo_IBS.png" alt="The Institute of Behavioral Science" style="max-height: 80px;">
       </div>
   design:
     columns: "1"
