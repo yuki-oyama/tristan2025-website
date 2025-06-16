@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Levinson | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/david-levinson/</link>
+      <atom:link href="https://tristan2025.org/author/david-levinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Levinson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>David Levinson</title>
+      <link>https://tristan2025.org/author/david-levinson/</link>
+    </image>
+    
+    <item>
+      <title>Aggregated Knowledge Learning for Dynamic Vehicle-Task Assignment in Emergency Medical Services</title>
+      <link>https://tristan2025.org/proceedings/paper278/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper278/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous vehicle control on lane-free roads: A level-k game approach</title>
+      <link>https://tristan2025.org/proceedings/paper19/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication-free Distributed Model Predictive Control for Autonomous Vehicles at Lane-free and Signal-free Intersections</title>
+      <link>https://tristan2025.org/proceedings/paper274/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper274/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

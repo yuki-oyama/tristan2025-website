@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rolf van Lieshout | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/rolf-van-lieshout/</link>
+      <atom:link href="https://tristan2025.org/author/rolf-van-lieshout/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rolf van Lieshout</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Rolf van Lieshout</title>
+      <link>https://tristan2025.org/author/rolf-van-lieshout/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Approach to Evaluation and Routing in Public Transport Systems</title>
+      <link>https://tristan2025.org/proceedings/paper37/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line planning under crowding: A row-and-column generation approach</title>
+      <link>https://tristan2025.org/proceedings/paper270/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper270/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

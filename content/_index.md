@@ -149,7 +149,6 @@ sections:
     title: Sponsors
     text: |
       <div style="display: flex; justify-content: center; align-items: center; gap: 2rem; flex-wrap: wrap;">
-        <img src="/media/logo/logo_apts.png" alt="Association for Planning and Transportation Studies" style="max-height: 80px;">
         <img src="/media/logo/logo_chuo.png" alt="Chuo Kensetsu Consultant" style="max-height: 80px;">
         <img src="/media/logo/logo_docon.png" alt="Docon" style="max-height: 80px;">
         <img src="/media/logo/logo_doro.png" alt="Highway Planning" style="max-height: 80px;">
@@ -158,6 +157,17 @@ sections:
         <img src="/media/logo/logo_rf.jpg" alt="Regional Futures Research Center" style="max-height: 80px;">
         <img src="/media/logo/logo_src.png" alt="Survey Research Center" style="max-height: 80px;">
         <img src="/media/logo/logo_IBS.png" alt="The Institute of Behavioral Science" style="max-height: 80px;">
+      </div>
+  design:
+    columns: "1"
+
+- block: markdown
+  content:
+    title: Cooperating Organization
+    text: |
+      <div style="text-align: center;">
+        We gratefully acknowledge the cooperation of the following organization in supporting TRISTAN 2025:<br>
+        - Association for Planning and Transportation Studies (一般社団法人 計画・交通研究会)
       </div>
   design:
     columns: "1"

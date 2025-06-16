@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Hui Zhu | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/jia-hui-zhu/</link>
+      <atom:link href="https://tristan2025.org/author/jia-hui-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Hui Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Jia Hui Zhu</title>
+      <link>https://tristan2025.org/author/jia-hui-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Iterative Two-Stage Stochastic Programming Approach for Real-Time Rolling Stock Rescheduling Under Uncertainty</title>
+      <link>https://tristan2025.org/proceedings/paper144/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper144/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

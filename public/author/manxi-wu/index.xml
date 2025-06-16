@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manxi Wu | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/manxi-wu/</link>
+      <atom:link href="https://tristan2025.org/author/manxi-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manxi Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Manxi Wu</title>
+      <link>https://tristan2025.org/author/manxi-wu/</link>
+    </image>
+    
+    <item>
+      <title>Atomic Proximal Policy Optimization for Electric Robo-Taxi Dispatch and Charger Allocation</title>
+      <link>https://tristan2025.org/proceedings/paper340/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper340/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing High-Occupancy Toll Lanes: A Game-Theoretic Analysis</title>
+      <link>https://tristan2025.org/proceedings/paper123/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper123/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information design for spatial resource allocation</title>
+      <link>https://tristan2025.org/proceedings/paper431/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper431/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

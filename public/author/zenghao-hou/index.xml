@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zenghao Hou | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/zenghao-hou/</link>
+      <atom:link href="https://tristan2025.org/author/zenghao-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zenghao Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Zenghao Hou</title>
+      <link>https://tristan2025.org/author/zenghao-hou/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal stochastic user equilibrium of a tradable credit scheme considering vehicle capacity and passenger waiting time</title>
+      <link>https://tristan2025.org/proceedings/paper117/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper117/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

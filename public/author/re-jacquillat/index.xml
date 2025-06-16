@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>re Jacquillat | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/re-jacquillat/</link>
+      <atom:link href="https://tristan2025.org/author/re-jacquillat/index.xml" rel="self" type="application/rss+xml" />
+    <description>re Jacquillat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>re Jacquillat</title>
+      <link>https://tristan2025.org/author/re-jacquillat/</link>
+    </image>
+    
+    <item>
+      <title>Deviated Fixed-route Microtransit: Design and Operations</title>
+      <link>https://tristan2025.org/proceedings/paper474/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper474/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mictrotransit design: fixed-line transit, on-demand mobility, or both?</title>
+      <link>https://tristan2025.org/proceedings/paper283/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing ride-hailing with a mix of on-demand and pre-booked customers under distributional shift</title>
+      <link>https://tristan2025.org/proceedings/paper160/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper160/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

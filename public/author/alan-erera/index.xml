@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Erera | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/alan-erera/</link>
+      <atom:link href="https://tristan2025.org/author/alan-erera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan Erera</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Alan Erera</title>
+      <link>https://tristan2025.org/author/alan-erera/</link>
+    </image>
+    
+    <item>
+      <title>Improving Dual Bounds for the Unsplittable Multicommodity Capacitated Network Design Problem</title>
+      <link>https://tristan2025.org/proceedings/paper388/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper388/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive Partitioning and Batching for Massive-Scale Network Design with Service Time Guarantees</title>
+      <link>https://tristan2025.org/proceedings/paper15/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Outbound Load Planning with Volume Splitting for Parcel Carriers</title>
+      <link>https://tristan2025.org/proceedings/paper410/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper410/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

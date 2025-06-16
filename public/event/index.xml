@@ -1,29 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Events | TRISTAN 2025</title>
+    <title>Events | TRISTAN 2025</title>
     <link>https://tristan2025.org/event/</link>
       <atom:link href="https://tristan2025.org/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Jun 2025 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
-      <title>Recent &amp; Upcoming Events</title>
+      <title>Events</title>
       <link>https://tristan2025.org/event/</link>
     </image>
     
     <item>
       <title>Gala Dinner</title>
-      <link>https://tristan2025.org/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://tristan2025.org/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <link>https://tristan2025.org/event/dinner/</link>
+      <pubDate>Thu, 26 Jun 2025 19:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/event/dinner/</guid>
+      <description>&lt;p&gt;The Gala Dinner will be held at &lt;strong&gt;The Moon Beach Museum Resort&lt;/strong&gt;, which is located 30 minutes distance from the conference venue by car.&lt;/p&gt;
+&lt;h3 id=&#34;-transportation-from-the-venue&#34;&gt;🚌 Transportation from the Venue&lt;/h3&gt;
+&lt;p&gt;A shuttle bus will be arranged from the conference venue to the Gala Dinner venue.&lt;br&gt;
+After the final session ends, please follow staff instructions for boarding. Staff members will guide you to the bus.&lt;/p&gt;
+&lt;h3 id=&#34;-transportation-for-accompanying-guests&#34;&gt;👥 Transportation for Accompanying Guests&lt;/h3&gt;
+&lt;p&gt;If your accompanying guest(s) have purchased a ticket for the Gala Dinner,&lt;br&gt;
+a separate bus will run from &lt;strong&gt;Nago City Center&lt;/strong&gt;, stopping at the &lt;strong&gt;TRISTAN venue&lt;/strong&gt;, and continuing on to &lt;strong&gt;The Moon Beach Museum Resort&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Please inform your guests that they may board the TRISTAN-organized bus either from the TRISTAN venue or from Nago City Center.&lt;/p&gt;
+&lt;p&gt;More details: &lt;a href=&#34;https://tristan2025.org/venue/#access-gala&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access to Gala Dinner Venue&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-rental-car-option&#34;&gt;🚗 Rental Car Option&lt;/h3&gt;
+&lt;p&gt;Participants may also choose to drive directly to &lt;strong&gt;The Moon Beach Museum Resort&lt;/strong&gt; by rental car.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The Google map location is here: &lt;a href=&#34;https://maps.app.goo.gl/RGRPWEni3UUDVgjP8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Moon Beach Museum Resort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;Drunk driving is strictly prohibited in Japan.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Please note that a parking permit is required to park at the Gala Dinner venue. If you need one, please inform the staff during the conference.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-dinner-format-and-dietary-information&#34;&gt;🍽️ Dinner Format and Dietary Information&lt;/h3&gt;
+&lt;p&gt;Due to the large number of attendees, the Gala Dinner will be held in a &lt;strong&gt;buffet style&lt;/strong&gt;.&lt;br&gt;
+Menu items will be clearly labeled to indicate allergens, halal options, and other dietary notes.&lt;br&gt;
+Please check the signage in front of each dish for details.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Tour</title>
+      <link>https://tristan2025.org/event/tour/</link>
+      <pubDate>Wed, 25 Jun 2025 09:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/event/tour/</guid>
+      <description>&lt;h2 id=&#34;-schedule&#34;&gt;🕘 Schedule&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;08:45&lt;/strong&gt; — Meet at the &lt;strong&gt;venue&lt;/strong&gt; or your &lt;strong&gt;nearest designated bus stop&lt;/strong&gt;.
+&lt;br&gt;
+Bus stops are the same as on session days, &lt;strong&gt;except&lt;/strong&gt; for the &lt;strong&gt;venue&lt;/strong&gt; and &lt;strong&gt;Yugaf Inn&lt;/strong&gt;, which have &lt;strong&gt;different pickup locations&lt;/strong&gt;.
+Details are available on the &lt;a href=&#34;https://tristan2025.org/venue/#access-social-tour&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Then, we’ll visit the &lt;strong&gt;Okinawa Churaumi Aquarium&lt;/strong&gt; before heading to Toguchi Port.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:15 / 13:00&lt;/strong&gt; — Departure from &lt;strong&gt;Toguchi Port&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Next, we’ll enjoy lunch and free time on &lt;strong&gt;Minna Island&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;16:30 / 17:15&lt;/strong&gt; — Departure from &lt;strong&gt;Minna Island Port&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;18:00 – 18:30&lt;/strong&gt; — Return to the &lt;strong&gt;venue or bus stops&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-important-notes&#34;&gt;📌 Important Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a full-day tour including lunch, drinks, and all transfers.&lt;/li&gt;
+&lt;li&gt;Bring your own &lt;strong&gt;sunscreen&lt;/strong&gt; and &lt;strong&gt;beach towels&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;CASH is the only payment method at Minna Island.&lt;/strong&gt;&lt;/span&gt;
+If you plan to purchase alcohol or participate in marine activities, please be sure to bring cash and coins.&lt;/li&gt;
+&lt;li&gt;Due to the boat schedule, &lt;strong&gt;late arrivals will not be able to join the tour midway.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Please note that the organizers cannot assume responsibility for any accidents or injuries that may occur during individual or free-time activities. We recommend arranging your own insurance coverage.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

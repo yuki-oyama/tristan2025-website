@@ -133,7 +133,7 @@ The following map summarizes the locations and expected travel times between Nah
 
 - :bus: **Private shuttle bus**
   - We will provide a private shuttle from Nago city center to the conference venue.
-  - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Nago Shokuan mae bus stop, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
+  - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Green Rich hotel, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
   - Schedule:
     - Hotel Yugaf Inn Okinawa (13:00) → Venue (14:00, before Keynote)
     - Hotel Yugaf Inn Okinawa (17:30) → Venue (18:30, before Welcome Party) [Mainly for accompanying guests]
@@ -158,7 +158,7 @@ The following map summarizes the locations and expected travel times between Nah
 ## <a name="access-session-days">Session days (Monday, Tuesday, Thursday, Friday)</a>
 - :bus: **Private shuttle bus**
   - We will provide a private shuttle between Nago city center ande the venue on every morning and evening of the session days.
-  - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Nago Shokuan mae bus stop, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
+  - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Green Rich hotel, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
   - Schedule:
     - Morning: Hotel Yugaf Inn Okinawa (7:15) → Venue (8:15)
     - Evening: Venue (18:15) → Hotel Yugaf Inn Okinawa (19:15) *except Thursday evening
@@ -183,11 +183,11 @@ The following map summarizes the locations and expected travel times between Nah
 - Six buses will be arranged to transport participants to the tour destinations.
 - The buses will stop at the same bus stops as on the session days, **except for the venue and Yugaf Inn. The locations of those two are different from the session days.**
   Be sure to double-check your stop in [the bus map](access/bus_map.pdf).
-- Bus stops: 1. The Busena Terrace, 2. Best Western Okinawa Kouki Beach Hotel, 3. Hotel Route Inn Nago, 4. Nago Shokuan mae bus stop, 5. Nago City Hall, 6. Hotel Yugaf Inn Okinawa, 
+- Bus stops: 1. Bankoku Shinryokan (Venue), 2. Best Western Okinawa Kouki Beach Hotel, 3. Hotel Route Inn Nago, 4. Green Rich hotel, 5. Nago City Hall, 6. Hotel Yugaf Inn Okinawa, 
 - As the tour includes a boat ride with a fixed departure time, **late arrivals will not be able to join the tour partway through.**
   We kindly ask all participants to gather at their nearest designated bus stop on time to avoid missing the tour.
 - Schedule
-  - The Busena Terrace (9:10) → Churaumi Aquarium (10:15)
+  - Bankoku Shinryokan (Venue) (9:10) → Churaumi Aquarium (10:15)
   - Best Western Okinawa Kouki Beach (8:50) → Churaumi Aquarium (10:15)
 - Please check the spreadsheet for real-time updates and a detailed timetable: 
   
@@ -196,7 +196,7 @@ The following map summarizes the locations and expected travel times between Nah
 ---
 ## <a name="access-gala"> Thursday evening: Gala dinner</a>
 - We will provide a private shuttle between **Nago city center to Bankoku Shinryokan (conference venue) for accompanying guests** before Gala dinner.
-  - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Nago Shokuan mae bus stop, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
+  - Bus stops (see [the bus map](access/bus_map.pdf) for exact locations): 1. Hotel Yugaf Inn Okinawa, 2. Nago City Hall, 3. Green Rich hotel, 4. Hotel Route Inn Nago, 5. Best Western Okinawa Kouki Beach Hotel, 6. Bankoku Shinryokan
   - Schedule: Hotel Yugaf Inn Okinawa (17:15) → Venue (18:15)
   - When staff are no longer present, the bus has already departed. Please also check the spreadsheet for real-time updates and a detailed timetable: 
     
@@ -241,7 +241,7 @@ The following map summarizes the locations and expected travel times between Nah
   - Schedule:
     - Hotel Yugaf Inn Okinawa (10:00)
     - Nago City Hall (10:10)
-    - Nago shokuan mae bus stop (10:20)
+    - Green Rich hotel (10:20)
     - Hotel Route Inn Nago (10:30)
     - Best Western Okinawa Kouki Beach Hotel (10:50)
     - Arrival at Naha Airport (12:00)

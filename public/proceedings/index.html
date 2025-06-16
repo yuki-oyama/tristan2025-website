@@ -1,0 +1,4245 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: June 16, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.64dc3b5d9cd727f5ef8397d0802cc21d.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R52M04VGF7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-R52M04VGF7', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Eiji Hato" />
+
+
+
+
+
+  
+
+<meta name="description" content="The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://tristan2025.org/proceedings/" />
+<link rel="canonical" href="https://tristan2025.org/proceedings/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu9ca566fe749d7ee003930f908805f86a_114993_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9ca566fe749d7ee003930f908805f86a_114993_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:image" content="https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png" />
+<meta property="og:site_name" content="TRISTAN 2025" />
+<meta property="og:url" content="https://tristan2025.org/proceedings/" />
+<meta property="og:title" content="Proceedings | TRISTAN 2025" />
+<meta property="og:description" content="The 12th Triennial Symposium on Transportation Analysis conference (TRISTAN XII)." /><meta property="og:image" content="https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta property="og:updated_time" content="2025-04-01T00:00:00&#43;00:00" />
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    <link rel="alternate" href="/proceedings/index.xml" type="application/rss+xml" title="TRISTAN 2025" />
+  
+
+  
+
+
+  
+  <title>Proceedings | TRISTAN 2025</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="92a50dede0f893dc69287f93aedc7715" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.fe8634e7d00f14d07fb33caf14cc8e55.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_0x70_resize_lanczos_3.png" alt="TRISTAN 2025"
+            
+            ></a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_0x70_resize_lanczos_3.png" alt="TRISTAN 2025"
+          
+          ></a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>Committees</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/program"><span>Program</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/call"><span>Submission</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/venue"><span>Access</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/proceedings"><span>Proceedings</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Events</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/okinawa"><span>Okinawa</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/registration"><span>Registration</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Proceedings</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-10 mx-auto">
+
+      
+
+      
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+        
+          
+        
+        
+          
+        
+      
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search form-control form-control-sm" placeholder="Search..." autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          
+            <select class="pub-filters form-control form-control-sm" data-filter-group="session">
+              <option value="*">Session</option>
+              
+                <option value=".session-column-generation-1">Column Generation 1</option>
+              
+                <option value=".session-column-generation-2">Column Generation 2</option>
+              
+                <option value=".session-consolidation-based-freight-services">Consolidation-Based Freight Services</option>
+              
+                <option value=".session-data-driven-analysis-1">Data-Driven Analysis 1</option>
+              
+                <option value=".session-data-driven-analysis-2">Data-Driven Analysis 2</option>
+              
+                <option value=".session-disaster-management">Disaster Management</option>
+              
+                <option value=".session-discrete-choice-model-1">Discrete Choice Model 1</option>
+              
+                <option value=".session-discrete-choice-model-2">Discrete Choice Model 2</option>
+              
+                <option value=".session-distributed-control-and-decentralized-allocation">Distributed Control and Decentralized Allocation</option>
+              
+                <option value=".session-drone-and-air-mobility-control-1">Drone and Air Mobility Control 1</option>
+              
+                <option value=".session-drone-and-air-mobility-control-2">Drone and Air Mobility Control 2</option>
+              
+                <option value=".session-dynamic-fleet-management">Dynamic Fleet Management</option>
+              
+                <option value=".session-equity-based-transportation-management">Equity-Based Transportation Management</option>
+              
+                <option value=".session-game-theory-1">Game Theory 1</option>
+              
+                <option value=".session-game-theory-2">Game Theory 2</option>
+              
+                <option value=".session-graph-neural-network">Graph Neural Network</option>
+              
+                <option value=".session-humanitarian-logistics">Humanitarian Logistics</option>
+              
+                <option value=".session-integrated-freight-and-passenger-transport">Integrated Freight and Passenger Transport </option>
+              
+                <option value=".session-integrating-fixed-route-and-on-demand-transit">Integrating Fixed-Route and On-Demand Transit</option>
+              
+                <option value=".session-last-mile-delivery-1">Last-Mile Delivery 1</option>
+              
+                <option value=".session-last-mile-delivery-2">Last-Mile Delivery 2</option>
+              
+                <option value=".session-logistics-optimization-1">Logistics optimization 1</option>
+              
+                <option value=".session-logistics-optimization-2">Logistics Optimization 2</option>
+              
+                <option value=".session-mechanism-design">Mechanism Design</option>
+              
+                <option value=".session-network-design-1">Network Design 1</option>
+              
+                <option value=".session-network-design-2">Network Design 2</option>
+              
+                <option value=".session-od-estimation">OD Estimation</option>
+              
+                <option value=".session-on-demand-mobility-1">On-Demand Mobility 1</option>
+              
+                <option value=".session-on-demand-mobility-2">On-Demand Mobility 2</option>
+              
+                <option value=".session-reinforcement-learning">Reinforcement Learning</option>
+              
+                <option value=".session-reinforcement-learning-based-vrp">Reinforcement Learning based VRP</option>
+              
+                <option value=".session-resilience">Resilience</option>
+              
+                <option value=".session-robust-optimization">Robust Optimization</option>
+              
+                <option value=".session-shared-and-autonomous-vehicles">Shared and Autonomous Vehicles</option>
+              
+                <option value=".session-stochastic-programming">Stochastic Programming</option>
+              
+                <option value=".session-survey-and-sensing">Survey and Sensing</option>
+              
+                <option value=".session-sustainable-transport-planning">Sustainable Transport Planning</option>
+              
+                <option value=".session-timetabling-1">Timetabling 1</option>
+              
+                <option value=".session-timetabling-2">Timetabling 2</option>
+              
+                <option value=".session-timetabling-3">Timetabling 3</option>
+              
+                <option value=".session-traffic-and-transit-assignment-1">Traffic and Transit Assignment 1</option>
+              
+                <option value=".session-traffic-and-transit-assignment-2">Traffic and Transit Assignment 2</option>
+              
+                <option value=".session-travel-behavior-analysis">Travel Behavior Analysis</option>
+              
+                <option value=".session-two-sided-markets">Two-Sided Markets</option>
+              
+                <option value=".session-urban-planning-and-science">Urban Planning and Science</option>
+              
+                <option value=".session-vehicle-routing-problem-1">Vehicle Routing Problem 1</option>
+              
+                <option value=".session-vehicle-routing-problem-2">Vehicle Routing Problem 2</option>
+              
+                <option value=".session-vehicle-routing-problem-3">Vehicle Routing Problem 3</option>
+              
+            </select>
+          
+        </div>
+        <div class="col-auto">
+          
+            <select class="pub-filters form-control form-control-sm" data-filter-group="day">
+              <option value="*">Day</option>
+              
+                <option value=".day-friday">Friday</option>
+              
+                <option value=".day-monday">Monday</option>
+              
+                <option value=".day-thursday">Thursday</option>
+              
+                <option value=".day-tuesday">Tuesday</option>
+              
+            </select>
+          
+        </div>
+      </div>
+
+      
+      
+
+      <div id="container-publications">
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-travel-behavior-analysis day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_452.pdf" target="_blank">A spatiotemporal knowledge graph-based method for identifying individual activity locations from mobile phone data</a>
+              </p>
+              <p class="mb-1">Jian Li, Tian Gan, Weifeng Li, Yuhang Liu</p>
+              <p class="mb-1">Session: Travel Behavior Analysis</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-travel-behavior-analysis day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_37.pdf" target="_blank">A Unified Approach to Evaluation and Routing in Public Transport Systems</a>
+              </p>
+              <p class="mb-1">Rolf van Lieshout, Kevin Dalmeijer</p>
+              <p class="mb-1">Session: Travel Behavior Analysis</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-shared-and-autonomous-vehicles day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_72.pdf" target="_blank">Continuous-time optimal control for trajectory planning of autonomous vehicles under joint probabilistic constraints</a>
+              </p>
+              <p class="mb-1">Abdel Lisser, Ange Valli</p>
+              <p class="mb-1">Session: Shared and Autonomous Vehicles</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-shared-and-autonomous-vehicles day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_162.pdf" target="_blank">Dynamic management of shared autonomous electric vehicles and charging bays considering battery swapping queue delays</a>
+              </p>
+              <p class="mb-1">Mengjie Li, Haoning Xi, Chi Xie</p>
+              <p class="mb-1">Session: Shared and Autonomous Vehicles</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-travel-behavior-analysis day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_231.pdf" target="_blank">Grasp the Amount and Service Level  of Directionally Predominant Traffic Using Hourly Population Distribution of Docomo’s Mobile Spatial Statistics Data</a>
+              </p>
+              <p class="mb-1">Makoto Okumura, Yuri Sawamura, Hiromichi Yamaguchi</p>
+              <p class="mb-1">Session: Travel Behavior Analysis</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-shared-and-autonomous-vehicles day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_253.pdf" target="_blank">Lane Management Strategies to Enhance Traffic Performance in Mixed Traffic Environments with Platoons of Connected Autonomous Vehicles</a>
+              </p>
+              <p class="mb-1">Seshadri Naik Moode, Francesc Soriguera, Margarita Martínez-Díaz, Marcel Sala</p>
+              <p class="mb-1">Session: Shared and Autonomous Vehicles</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-humanitarian-logistics day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_412.pdf" target="_blank">Multi-stage distributionally robust optimization for pre- and post-disaster humanitarian logistics with information constraints</a>
+              </p>
+              <p class="mb-1">Riki Kawase</p>
+              <p class="mb-1">Session: Humanitarian Logistics</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-humanitarian-logistics day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_20.pdf" target="_blank">Optimizing customized bus routing and maximum seat occupancy rate under the influence of epidemic outbreaks</a>
+              </p>
+              <p class="mb-1">Yiqi Cai, S Sun, Shuxian Hao, Haohan Xiao</p>
+              <p class="mb-1">Session: Humanitarian Logistics</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-humanitarian-logistics day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_55.pdf" target="_blank">UAV Search and Routing Planning In a Disaster Area</a>
+              </p>
+              <p class="mb-1">Nastaran Ozaldad, Esther Jose, Rajan Batta, Miguel Lejeune</p>
+              <p class="mb-1">Session: Humanitarian Logistics</p>
+              <p class="mb-1">Slot: 8:30-10:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-discrete-choice-model-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_211.pdf" target="_blank">An exponentiated random utility model (ERUM): Properties and application to bounded travel choice</a>
+              </p>
+              <p class="mb-1">Yu Gu, Anthony Chen</p>
+              <p class="mb-1">Session: Discrete Choice Model 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-mechanism-design day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_457.pdf" target="_blank">Crowdshipping platform as an intermediary: Auction-based mechanism design for order allocation and payment schemes</a>
+              </p>
+              <p class="mb-1">Qingyang Li, Fangni Zhang</p>
+              <p class="mb-1">Session: Mechanism Design</p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-integrated-freight-and-passenger-transport day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_212.pdf" target="_blank">Dynamic capacity allocation for cargo-hitching in urban public transportation systems</a>
+              </p>
+              <p class="mb-1">Paul Bischoff, Benedikt Lienkamp, Tarun Rambha, Maximilian Schiffer</p>
+              <p class="mb-1">Session: Integrated Freight and Passenger Transport </p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-integrated-freight-and-passenger-transport day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_441.pdf" target="_blank">Group-and-Match vs. Route-then-Insert - Order Dispatching in Vehicle-Based Dual Services (VeDuS)</a>
+              </p>
+              <p class="mb-1">Yue Lin, Hai Yang, Hai Wang</p>
+              <p class="mb-1">Session: Integrated Freight and Passenger Transport </p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-discrete-choice-model-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_27.pdf" target="_blank">Perturbed utility Markovian choice model: choice probability generation function and estimation</a>
+              </p>
+              <p class="mb-1">Rui Yao, Kenan Zhang</p>
+              <p class="mb-1">Session: Discrete Choice Model 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-mechanism-design day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_12.pdf" target="_blank">Preference learning for efficient bundle selection in horizontal transport collaborations</a>
+              </p>
+              <p class="mb-1">Steffen Elting, Jan Fabian Ehmke, Margaretha Gansterer</p>
+              <p class="mb-1">Session: Mechanism Design</p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-discrete-choice-model-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_199.pdf" target="_blank">The theoretical role of the pure transfer penalty when determining whether to split a public transport line</a>
+              </p>
+              <p class="mb-1">Valentina Gómez, Andrés Fielbaum, Sergio Jara-Díaz</p>
+              <p class="mb-1">Session: Discrete Choice Model 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning-based-vrp day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_247.pdf" target="_blank">A Foundation Model for Vehicle Routing Problems</a>
+              </p>
+              <p class="mb-1">Federico Berto, Chuanbo Hua, Nayeli Gast Zepeda, André Hottung, Niels Wouda, Leon Lan, Junyoung Park, Kevin Tierney, Jinkyoo Park</p>
+              <p class="mb-1">Session: Reinforcement Learning based VRP</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_29.pdf" target="_blank">An Enhanced Dynamic Discretization Discovery Algorithm for Continuous-Time Service Network Design Problem</a>
+              </p>
+              <p class="mb-1">Shengnan Shu, Zhou Xu, Roberto Baldacci</p>
+              <p class="mb-1">Session: Network Design 1</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-consolidation-based-freight-services day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_156.pdf" target="_blank">Designing Relay-Hub Networks for Consolidation Planning Under Demand Uncertainty</a>
+              </p>
+              <p class="mb-1">Onkar Kulkarni, Mathieu Dahan, Benoit Montreuil</p>
+              <p class="mb-1">Session: Consolidation-Based Freight Services</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-consolidation-based-freight-services day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_17.pdf" target="_blank">Hub location and service network design under uncertainty</a>
+              </p>
+              <p class="mb-1">Gita Taherkhani, Hao Li, Mike Hewitt, Sibel Alumur Alev</p>
+              <p class="mb-1">Session: Consolidation-Based Freight Services</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_388.pdf" target="_blank">Improving Dual Bounds for the Unsplittable Multicommodity Capacitated Network Design Problem</a>
+              </p>
+              <p class="mb-1">Lacy Greening, Santanu Dey, Alan Erera</p>
+              <p class="mb-1">Session: Network Design 1</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning-based-vrp day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_143.pdf" target="_blank">Learning destroy operators for vehicle routing problems with deep neural networks</a>
+              </p>
+              <p class="mb-1">André Hottung, Paula Wong-Chung, Kevin Tierney</p>
+              <p class="mb-1">Session: Reinforcement Learning based VRP</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning-based-vrp day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_254.pdf" target="_blank">Learning Profile-Aware Vehicle Routing Problems with Collaborative Attention</a>
+              </p>
+              <p class="mb-1">Chuanbo Hua, Federico Berto, Jiwoo Son, Seunghyun Kang, Changhyun Kwon, Jinkyoo Park</p>
+              <p class="mb-1">Session: Reinforcement Learning based VRP</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-consolidation-based-freight-services day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_13.pdf" target="_blank">Multi-layer Network Design for Consolidation-based Transportation Planning</a>
+              </p>
+              <p class="mb-1">Teodor Gabriel Crainic</p>
+              <p class="mb-1">Session: Consolidation-Based Freight Services</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning-based-vrp day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_38.pdf" target="_blank">Non-myopic Matching and Rebalancing in Large-Scale On-Demand Ride-Pooling Systems Using Simulation-Informed Reinforcement Learning</a>
+              </p>
+              <p class="mb-1">Farnoosh Namdarpour, Joseph Chow</p>
+              <p class="mb-1">Session: Reinforcement Learning based VRP</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_15.pdf" target="_blank">Recursive Partitioning and Batching for Massive-Scale Network Design with Service Time Guarantees</a>
+              </p>
+              <p class="mb-1">Myungeun Eom, Alan Erera, Alej, ro Toriello</p>
+              <p class="mb-1">Session: Network Design 1</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-consolidation-based-freight-services day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_148.pdf" target="_blank">The Scheduled Service Network Design Problem with Bin Packing and Heterogenous Fleets</a>
+              </p>
+              <p class="mb-1">Mike Hewitt, Simon Belieres, François Clautiaux</p>
+              <p class="mb-1">Session: Consolidation-Based Freight Services</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_404.pdf" target="_blank">Vulnerability of Collaborative Transport Networks</a>
+              </p>
+              <p class="mb-1">Rob Zuidwijk, Camill Harter, Otto Koppius</p>
+              <p class="mb-1">Session: Network Design 1</p>
+              <p class="mb-1">Slot: 13:30-15:30, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_110.pdf" target="_blank">A GRASP-based solution for real-time train route selection in disturbed railway traffic</a>
+              </p>
+              <p class="mb-1">Bianca Pascariu, Paola Pellegrini</p>
+              <p class="mb-1">Session: Timetabling 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_337.pdf" target="_blank">A Logic-Based Benders Decomposition Approach for Cyclic Microscopic Timetabling</a>
+              </p>
+              <p class="mb-1">Florian Fuchs, Bernardo Martin-Iradi, Francesco Corman</p>
+              <p class="mb-1">Session: Timetabling 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-graph-neural-network day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_278.pdf" target="_blank">Aggregated Knowledge Learning for Dynamic Vehicle-Task Assignment in Emergency Medical Services</a>
+              </p>
+              <p class="mb-1">Changle Song, Emily Moylan, David Levinson</p>
+              <p class="mb-1">Session: Graph Neural Network</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-graph-neural-network day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_181.pdf" target="_blank">Discovering and Quantifying Extreme Failure Scenarios through Graph Learning for Road Transportation Systems</a>
+              </p>
+              <p class="mb-1">Mingxue Guo, Tingting Zhao, Jianxi Gao, Xin Meng, Ziyou Gao</p>
+              <p class="mb-1">Session: Graph Neural Network</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_144.pdf" target="_blank">Iterative Two-Stage Stochastic Programming Approach for Real-Time Rolling Stock Rescheduling Under Uncertainty</a>
+              </p>
+              <p class="mb-1">Jia Hui Zhu, Dennis Huisman, Twan Dollevoet</p>
+              <p class="mb-1">Session: Timetabling 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-graph-neural-network day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_464.pdf" target="_blank">Machine Learning Surrogates for Optimizing Transportation Policies with Agent-Based Models</a>
+              </p>
+              <p class="mb-1">Elena Natterer, Roman Engelhardt, Sebastian Hörl, Klaus Bogenberger</p>
+              <p class="mb-1">Session: Graph Neural Network</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-1 day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_484.pdf" target="_blank">Nonlinear and Ready-to-depart Based Bus Holding Control</a>
+              </p>
+              <p class="mb-1">Weihua Gu, Li Zhen, Minyu Shen, Le Zhang</p>
+              <p class="mb-1">Session: Timetabling 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-stochastic-programming day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_382.pdf" target="_blank">ONLINE STOCHASTIC OPTIMIZATION FOR REAL-TIME TRANSFER SYNCHRONIZATION IN PUBLIC TRANSIT NETWORKS</a>
+              </p>
+              <p class="mb-1">Laura Kolcheva, Antoine Legrain, Martin Trépanier</p>
+              <p class="mb-1">Session: Stochastic Programming</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-stochastic-programming day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_160.pdf" target="_blank">Optimizing ride-hailing with a mix of on-demand and pre-booked customers under distributional shift</a>
+              </p>
+              <p class="mb-1">Breno Serrano, Alex, re Jacquillat, Stefan Minner, Maximilian Schiffer</p>
+              <p class="mb-1">Session: Stochastic Programming</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-stochastic-programming day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_385.pdf" target="_blank">Pricing carsharing services under decision-dependent demand uncertainty: A two-stage stochastic programming approach</a>
+              </p>
+              <p class="mb-1">Jiali Deng, Giovanni Pantuso</p>
+              <p class="mb-1">Session: Stochastic Programming</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-stochastic-programming day-monday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_292.pdf" target="_blank">Stochastic Optimization under Supply Uncertainty for Multimodal Trip Planning Based on Demand Prediction</a>
+              </p>
+              <p class="mb-1">Yimeng Zhang, Jingyi Cheng, Oded Cats, Shadi Sharif Azadeh</p>
+              <p class="mb-1">Session: Stochastic Programming</p>
+              <p class="mb-1">Slot: 16:00-18:00, Monday June 23</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-column-generation-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_141.pdf" target="_blank">A Column Generation Heuristic for the Three-Dimensional Truck Loading Problem</a>
+              </p>
+              <p class="mb-1">Rick Willemsen, Bart Van Rossum</p>
+              <p class="mb-1">Session: Column Generation 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-urban-planning-and-science day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_456.pdf" target="_blank">A Study on the Tour and Consumption Behavior at Station Areas in Considering the Green Coverage</a>
+              </p>
+              <p class="mb-1">Anju Kawazu, Kuniaki Sasaki</p>
+              <p class="mb-1">Session: Urban Planning and Science</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-last-mile-delivery-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_206.pdf" target="_blank">Batching and In-Building Delivery Routing with Capacitated Residential Parcel Lockers</a>
+              </p>
+              <p class="mb-1">Dipayan Banerjee, Ignacio Erazo</p>
+              <p class="mb-1">Session: Last-Mile Delivery 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-column-generation-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_213.pdf" target="_blank">Combining Lagrangian relaxation and a two-set column generation model for integrated railway freight planning</a>
+              </p>
+              <p class="mb-1">Louis Fourcade, Stéphane Dauzère-Pérès</p>
+              <p class="mb-1">Session: Column Generation 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-column-generation-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_101.pdf" target="_blank">Integrated Regional Airline Scheduling Via Column Generation</a>
+              </p>
+              <p class="mb-1">Alberto Santini, Vikrant Vaze</p>
+              <p class="mb-1">Session: Column Generation 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-last-mile-delivery-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_23.pdf" target="_blank">Leveraging public transit for efficient last-mile delivery through crowdshipping</a>
+              </p>
+              <p class="mb-1">Mikele Gajda, Olivier Gallay, Renata Mansini, Filippo Ranza</p>
+              <p class="mb-1">Session: Last-Mile Delivery 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-last-mile-delivery-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_204.pdf" target="_blank">Sustainable last-mile logistics with parcel lockers and autonomous delivery robots</a>
+              </p>
+              <p class="mb-1">Gianpaolo Ghiani, Emanuela Guerriero, Emanuele Manni, Deborah Pareo</p>
+              <p class="mb-1">Session: Last-Mile Delivery 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-urban-planning-and-science day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_65.pdf" target="_blank">The Dynamic Park-and-loop Routing Problem</a>
+              </p>
+              <p class="mb-1">Jean-François Cordeau, Nicolas Cabrera, Jorge Mendoza</p>
+              <p class="mb-1">Session: Urban Planning and Science</p>
+              <p class="mb-1">Slot: 8:30-10:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-drone-and-air-mobility-control-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_433.pdf" target="_blank">A mixed integer programming approach for airspace sector design problem</a>
+              </p>
+              <p class="mb-1">Go Nam Lui, Guglielmo Lulli</p>
+              <p class="mb-1">Session: Drone and Air Mobility Control 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_491.pdf" target="_blank">A Model-Based Approach to Vacant Vehicle Routing of a Ride-Sourcing Fleet in Transportation Networks</a>
+              </p>
+              <p class="mb-1">Guocheng Jiang, Song Gao</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-survey-and-sensing day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_276.pdf" target="_blank">A naturalistic experiment on individual activity, mobility and emotional patterns</a>
+              </p>
+              <p class="mb-1">Carlos Lima Azevedo, Marta Conceicao, Sonja Haustein, Paulo Morgado, Bruno Mir, a</p>
+              <p class="mb-1">Session: Survey and Sensing</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_257.pdf" target="_blank">Decomposition and Set Covering Strategies for Large-Scale Heterogeneous Vehicle Routing Problems</a>
+              </p>
+              <p class="mb-1">Christoph Kerscher, Stefan Minner, Fabien Lehuédé, Guillaume Massonnet</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-drone-and-air-mobility-control-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_407.pdf" target="_blank">Drone Delivery Network Design with Uncertainties</a>
+              </p>
+              <p class="mb-1">Wenjia Zeng, Ruiwei Jiang, Hai Yang, Hai Wang</p>
+              <p class="mb-1">Session: Drone and Air Mobility Control 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_344.pdf" target="_blank">Learning to Segment for Capacitated Vehicle Routing Problems</a>
+              </p>
+              <p class="mb-1">Wenbin Ouyang, Sirui Li, Yining Ma, Cathy Wu</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-survey-and-sensing day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_420.pdf" target="_blank">Logistics of Urban Monitoring with Moving Sensors</a>
+              </p>
+              <p class="mb-1">Amir Ahmadian, Mehdi Nourinejad, Matthew Roorda</p>
+              <p class="mb-1">Session: Survey and Sensing</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-drone-and-air-mobility-control-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_163.pdf" target="_blank">Risk-based truck-drone delivery optimization</a>
+              </p>
+              <p class="mb-1">Wenxuan Wang, Mai Zhang, Ethan Beech, Arnab Majumdar, Washington Ochieng, Jose Escribano</p>
+              <p class="mb-1">Session: Drone and Air Mobility Control 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-survey-and-sensing day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_366.pdf" target="_blank">Striking a Balance: Co-Training Framework for Enhancing Survey Accuracy While Reducing Respondent Burden in Travel Data Collection</a>
+              </p>
+              <p class="mb-1">Reem Alolabi, Makoto Chikaraishi</p>
+              <p class="mb-1">Session: Survey and Sensing</p>
+              <p class="mb-1">Slot: 10:30-12:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-robust-optimization day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_58.pdf" target="_blank">A Consensus Fixing Based Heuristic for Liner Shipping Network Design with Stochastic Demands</a>
+              </p>
+              <p class="mb-1">Mikkel Lassen Johansen, David Pisinger, Stefan Røpke</p>
+              <p class="mb-1">Session: Robust Optimization</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-2 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_245.pdf" target="_blank">An adaptive large neighbourhood search with MILP and heuristic repair operators for bus timetabling</a>
+              </p>
+              <p class="mb-1">Robin Gaborit, Yu Jiang, Evelien van der Hurk, Otto Anker Nielsen</p>
+              <p class="mb-1">Session: Timetabling 2</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-integrating-fixed-route-and-on-demand-transit day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_329.pdf" target="_blank">Capacity planning for demand-responsive multimodal transit</a>
+              </p>
+              <p class="mb-1">Bernardo Martin-Iradi, Francesco Corman, Nikolas Geroliminis</p>
+              <p class="mb-1">Session: Integrating Fixed-Route and On-Demand Transit</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-2 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_16.pdf" target="_blank">Data-Driven Train Timetabling with Contextual Information</a>
+              </p>
+              <p class="mb-1">Jiateng Yin, Hanxiao Fan, D&#39;Ariano Andrea, Lixing Yang</p>
+              <p class="mb-1">Session: Timetabling 2</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-integrating-fixed-route-and-on-demand-transit day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_474.pdf" target="_blank">Deviated Fixed-route Microtransit: Design and Operations</a>
+              </p>
+              <p class="mb-1">Alex, re Jacquillat, Bernardo Martin-Iradi, Alex, ria Schmid, Kayla Cummings</p>
+              <p class="mb-1">Session: Integrating Fixed-Route and On-Demand Transit</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-integrating-fixed-route-and-on-demand-transit day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_154.pdf" target="_blank">Integrated Urban Transportation Network Design for Alleviating Transit Deserts</a>
+              </p>
+              <p class="mb-1">Yifei Sun, Vikrant Vaze</p>
+              <p class="mb-1">Session: Integrating Fixed-Route and On-Demand Transit</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-integrating-fixed-route-and-on-demand-transit day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_283.pdf" target="_blank">Mictrotransit design: fixed-line transit, on-demand mobility, or both?</a>
+              </p>
+              <p class="mb-1">Alex, re Jacquillat, Julia Yan, Arthur Delarue, Shriya Karam</p>
+              <p class="mb-1">Session: Integrating Fixed-Route and On-Demand Transit</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-2 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_351.pdf" target="_blank">Modeling and Optimising Infrastructure Upgrade Deployment in Railway Networks Operating Cyclic Timetables</a>
+              </p>
+              <p class="mb-1">Pedro José Correia Duarte, Lucas Petrus Veelenturf, Dennis Huisman</p>
+              <p class="mb-1">Session: Timetabling 2</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-robust-optimization day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_115.pdf" target="_blank">Optimizing Skip Schedules for Construction and Demolition Waste Management under Uncertainty</a>
+              </p>
+              <p class="mb-1">Ze Wang, Zhiqi Shao, Michael G.H. Bell, D. Glenn Geers, Junbin Gao</p>
+              <p class="mb-1">Session: Robust Optimization</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-2 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_489.pdf" target="_blank">Passenger Based Intermodal Connection Optimization of the Italian Passenger Railway Network</a>
+              </p>
+              <p class="mb-1">Boris Grimm, Ralf Borndoerfer, Federico Marinucci, Andrea Fraioli, Giovanni Luca Giacco</p>
+              <p class="mb-1">Session: Timetabling 2</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-robust-optimization day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_410.pdf" target="_blank">Robust Outbound Load Planning with Volume Splitting for Parcel Carriers</a>
+              </p>
+              <p class="mb-1">Ritesh Ojha, Alan Erera</p>
+              <p class="mb-1">Session: Robust Optimization</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-robust-optimization day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_130.pdf" target="_blank">Robust planning of bus fleet electrification and charging facility deployment</a>
+              </p>
+              <p class="mb-1">Yihan Gao, Wei Liu</p>
+              <p class="mb-1">Session: Robust Optimization</p>
+              <p class="mb-1">Slot: 13:30-15:30, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_348.pdf" target="_blank">A Parallel Berth Allocation Problem in Multipurpose Inland Waterway Terminals</a>
+              </p>
+              <p class="mb-1">Adnan Pasha, Jiyin Liu, Rajat Rastogi</p>
+              <p class="mb-1">Session: Logistics optimization 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_147.pdf" target="_blank">A time-slot management problem with mixed logit demand</a>
+              </p>
+              <p class="mb-1">Dorsa Abdolhamidi, Virginie Lurkin</p>
+              <p class="mb-1">Session: Logistics optimization 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_275.pdf" target="_blank">An Integrated Framework for Network-Wide Assessment and Improvement of Supply Chain Resilience</a>
+              </p>
+              <p class="mb-1">Yousef Maknoon, Maurice Hart Nibbrig, Shadi Sharif Azadeh</p>
+              <p class="mb-1">Session: Logistics optimization 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_19.pdf" target="_blank">Autonomous vehicle control on lane-free roads: A level-k game approach</a>
+              </p>
+              <p class="mb-1">Zhaohan Wang, Mohsen Ramezani, David Levinson</p>
+              <p class="mb-1">Session: Game Theory 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_96.pdf" target="_blank">Continuous Approximation Model for a Demand Responsive Feeder Service with Meeting Points</a>
+              </p>
+              <p class="mb-1">Richard Connors, Haruko Nakao, Tai-Yu Ma, Francesco Viti</p>
+              <p class="mb-1">Session: On-Demand Mobility 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_419.pdf" target="_blank">Dispatching and Pricing in Two-Sided Spatial Queues</a>
+              </p>
+              <p class="mb-1">Ang Xu, Chiwei Yan</p>
+              <p class="mb-1">Session: Game Theory 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_268.pdf" target="_blank">Evolutionary process of self-financed shared mobility systems</a>
+              </p>
+              <p class="mb-1">Haruko Nakao, Koki Satsukawa, Takamasa Iryo, Richard Connors, Sowa Suzuki</p>
+              <p class="mb-1">Session: On-Demand Mobility 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_191.pdf" target="_blank">Facility and dynamic fare design for multimodal automated vehicle logistics system under traffic flow constraints</a>
+              </p>
+              <p class="mb-1">Toru Seo, Riki Kawase</p>
+              <p class="mb-1">Session: Logistics optimization 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_398.pdf" target="_blank">Improving the convergence of Schedule-Based Dynamic Transit Assignment Models with capacity constraints</a>
+              </p>
+              <p class="mb-1">Lory Michelle Bresciani Miristice, Guido Gentile</p>
+              <p class="mb-1">Session: On-Demand Mobility 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_431.pdf" target="_blank">Information design for spatial resource allocation</a>
+              </p>
+              <p class="mb-1">Ozan C, ogan, Manxi Wu</p>
+              <p class="mb-1">Session: Game Theory 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_357.pdf" target="_blank">Mean-Field Game Optimization in Bounded-Acceleration Traffic Models for CAVs</a>
+              </p>
+              <p class="mb-1">Negin Alisoltani, Mostafa Ameli, Megan Khoshyaran, Jean-Patrick Lebacque</p>
+              <p class="mb-1">Session: Game Theory 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-1 day-tuesday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_5.pdf" target="_blank">Selecting an optimal set of shared ridepooling stops</a>
+              </p>
+              <p class="mb-1">Francisco Vilches, Cristián E. Cortés, Andrés Fielbaum</p>
+              <p class="mb-1">Session: On-Demand Mobility 1</p>
+              <p class="mb-1">Slot: 16:00-18:00, Tuesday June 24</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-traffic-and-transit-assignment-1 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_102.pdf" target="_blank">A Multi-objective User Equilibrium of Time Loss in Congestion and Time Surplus</a>
+              </p>
+              <p class="mb-1">Judith Y. T. Wang, Richard P. Batley, Matthias Ehrgott, Pornpimon Boriwan, Thanathorn Phoka</p>
+              <p class="mb-1">Session: Traffic and Transit Assignment 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-distributed-control-and-decentralized-allocation day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_274.pdf" target="_blank">Communication-free Distributed Model Predictive Control for Autonomous Vehicles at Lane-free and Signal-free Intersections</a>
+              </p>
+              <p class="mb-1">Alireza Soltani, David Levinson, Mohsen Ramezani</p>
+              <p class="mb-1">Session: Distributed Control and Decentralized Allocation</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-traffic-and-transit-assignment-1 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_150.pdf" target="_blank">Error bounds for stochastic user equilibrium traffic assignment</a>
+              </p>
+              <p class="mb-1">Debojjal Bagchi, Stephen D. Boyles</p>
+              <p class="mb-1">Session: Traffic and Transit Assignment 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-distributed-control-and-decentralized-allocation day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_133.pdf" target="_blank">First-come-first-served Decentralized Assignment of Capacitated Resources with Partially Observable User Preference</a>
+              </p>
+              <p class="mb-1">Yuhao Liu, Zhibin Chen, Joseph Y.J. Chow, Xi Lin</p>
+              <p class="mb-1">Session: Distributed Control and Decentralized Allocation</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-sustainable-transport-planning day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_297.pdf" target="_blank">Incentive Scheme for Low-carbon Travel Based on the Public-private Partnership and Personal Trip Carbon Accounts</a>
+              </p>
+              <p class="mb-1">Yingtian Zhang, Gege Jiang, Guanqun Shi</p>
+              <p class="mb-1">Session: Sustainable Transport Planning</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-distributed-control-and-decentralized-allocation day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_242.pdf" target="_blank">Modeling paradigm for adaptive decentralized traffic control via a rollout reinforcement learning approach</a>
+              </p>
+              <p class="mb-1">Zhongyang Lu, Andy H. F. Chow</p>
+              <p class="mb-1">Session: Distributed Control and Decentralized Allocation</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-traffic-and-transit-assignment-1 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_117.pdf" target="_blank">Multimodal stochastic user equilibrium of a tradable credit scheme considering vehicle capacity and passenger waiting time</a>
+              </p>
+              <p class="mb-1">Zenghao Hou, Ludovic Leclercq</p>
+              <p class="mb-1">Session: Traffic and Transit Assignment 1</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-sustainable-transport-planning day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_304.pdf" target="_blank">Optimal Pricing and Reputation Investment for Sustainable Aviation Fuel with Herd Effects and Heterogeneous Customers</a>
+              </p>
+              <p class="mb-1">Jinshu Cai, Yanyan Ding, Sisi Jian</p>
+              <p class="mb-1">Session: Sustainable Transport Planning</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-sustainable-transport-planning day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_316.pdf" target="_blank">Refrigerated Container Loading Problem (R-CLP) Models for Managing Arrangement of Smart Containers</a>
+              </p>
+              <p class="mb-1">Ahmad Rusdiansyah, Ratna Sari Dewi, Zara Safira Ramadhani</p>
+              <p class="mb-1">Session: Sustainable Transport Planning</p>
+              <p class="mb-1">Slot: 8:30-10:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-two-sided-markets day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_124.pdf" target="_blank">A scalable three-sided electric Mobility-as-a-Service assignment game model with charging activity</a>
+              </p>
+              <p class="mb-1">Hai Yang, Joseph Chow</p>
+              <p class="mb-1">Session: Two-Sided Markets</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-data-driven-analysis-1 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_73.pdf" target="_blank">Collaborative generative adversarial networks for fusing household travel survey and smart card data to generate heterogeneous activity schedules</a>
+              </p>
+              <p class="mb-1">Huichang Lee, Prateek Bansal, Khoa D. Vo, Eui-Jin Kim</p>
+              <p class="mb-1">Session: Data-Driven Analysis 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-data-driven-analysis-1 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_293.pdf" target="_blank">Data-driven optimization of pricing and vehicle relocation for ridesourcing platforms considering reservation</a>
+              </p>
+              <p class="mb-1">Xiaoshu Ding, Haoning Xi, Han Fang, Sisi Jian</p>
+              <p class="mb-1">Session: Data-Driven Analysis 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-last-mile-delivery-2 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_314.pdf" target="_blank">Food-Delivery Platforms: A Near-Optimal Policy for Capacity Sizing, Order Batching, and Spatial Routing</a>
+              </p>
+              <p class="mb-1">Yang Bo, Milind Daw, e, Ganesh Janakiraman</p>
+              <p class="mb-1">Session: Last-Mile Delivery 2</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-two-sided-markets day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_290.pdf" target="_blank">On the Joint Effects of Supply and Demand Multi-homing in the e-hailing Market</a>
+              </p>
+              <p class="mb-1">Guipeng Jiao, Yue Yang, Mohsen Ramezani</p>
+              <p class="mb-1">Session: Two-Sided Markets</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-last-mile-delivery-2 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_447.pdf" target="_blank">Scheduling and Routing for Multi-modal Last-mile Delivery under Multiple Uncertainties</a>
+              </p>
+              <p class="mb-1">Minghao Chen, Zhiyuan Shi, Ang Li, Max Z. Li</p>
+              <p class="mb-1">Session: Last-Mile Delivery 2</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-two-sided-markets day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_289.pdf" target="_blank">The intraday competition in a duopoly ride-hailing market</a>
+              </p>
+              <p class="mb-1">Yue Yang, Mohsen Ramezani</p>
+              <p class="mb-1">Session: Two-Sided Markets</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-data-driven-analysis-1 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_449.pdf" target="_blank">Uncovering Unmet Demand in Bike-sharing Systems Based on Bayesian Gaussian Decomposition of Time-varying OD Tensor</a>
+              </p>
+              <p class="mb-1">Xinghang Zhu, Xiaoxu Chen, Luis Mir, a-Moreno, Lijun Sun</p>
+              <p class="mb-1">Session: Data-Driven Analysis 1</p>
+              <p class="mb-1">Slot: 10:30-12:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_333.pdf" target="_blank">A Reinforcement Learning Approach to Plan Charging Stations for Shared Electric Vehicles</a>
+              </p>
+              <p class="mb-1">Qiming Ye, Prateek Bansal, Bryan Adey</p>
+              <p class="mb-1">Session: Reinforcement Learning</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-dynamic-fleet-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_445.pdf" target="_blank">Analysis and mitigation of discriminatory behaviour in fleet management algorithms</a>
+              </p>
+              <p class="mb-1">Tarek Chouaki, Sebastian Hörl</p>
+              <p class="mb-1">Session: Dynamic Fleet Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_340.pdf" target="_blank">Atomic Proximal Policy Optimization for Electric Robo-Taxi Dispatch and Charger Allocation</a>
+              </p>
+              <p class="mb-1">Jim Dai, Manxi Wu, Zhanhao Zhang</p>
+              <p class="mb-1">Session: Reinforcement Learning</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-dynamic-fleet-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_307.pdf" target="_blank">Blocking and Railcar Fleet Management for Intermodal Rail Transportation</a>
+              </p>
+              <p class="mb-1">Julie Kienzle, Serge Bisaillon, Teodor G Crainic, Emma Frejinger</p>
+              <p class="mb-1">Session: Dynamic Fleet Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-dynamic-fleet-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_182.pdf" target="_blank">Coordinated vehicle dispatching and charging scheduling for an electric ride-hailing fleet under charging congestion and dynamic prices</a>
+              </p>
+              <p class="mb-1">Tai-Yu Ma, Richard Connors, Francesco Viti</p>
+              <p class="mb-1">Session: Dynamic Fleet Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-reinforcement-learning day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_111.pdf" target="_blank">Fair Courier Assignment and Dynamic Food Pricing via Multi-Agent Reinforcement Learning with Communication</a>
+              </p>
+              <p class="mb-1">Yang Deng, Andy Chow, Zhili Zhou</p>
+              <p class="mb-1">Session: Reinforcement Learning</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-dynamic-fleet-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_414.pdf" target="_blank">Minimum Multi-Service Fleet Size Problem: Shareability Graph and Network Flow Approach</a>
+              </p>
+              <p class="mb-1">Dingtong Yang, Yubin Liu, Hai Wang, Jinhua Zhao, Hamsa Balakrishnan</p>
+              <p class="mb-1">Session: Dynamic Fleet Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-equity-based-transportation-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_100.pdf" target="_blank">Multimodal Transportation Pricing Alliance Design: Large-Scale Optimization for Rapid Gains</a>
+              </p>
+              <p class="mb-1">Kayla Cummings, Vikrant Vaze, Ozlem Ergun, Cynthia Barnhart</p>
+              <p class="mb-1">Session: Equity-Based Transportation Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-equity-based-transportation-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_487.pdf" target="_blank">Regulating Autonomous Ride-Hailing Services for an Equitable Multimodal Transportation Network</a>
+              </p>
+              <p class="mb-1">Jing Gao, Sen Li</p>
+              <p class="mb-1">Session: Equity-Based Transportation Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-equity-based-transportation-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_347.pdf" target="_blank">Shared mobility services: exploring their impact on equity in multimodal transportation systems</a>
+              </p>
+              <p class="mb-1">Khadidja Kadem, Mostafa Ameli, Carlos Lima Azevedo, Mahdi Zargayouna, Latifa Oukhellou</p>
+              <p class="mb-1">Session: Equity-Based Transportation Management</p>
+              <p class="mb-1">Slot: 13:30-15:30, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-3 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_244.pdf" target="_blank">A Multi-Neighborhood Search Approach to Rolling Stock Rescheduling</a>
+              </p>
+              <p class="mb-1">Roberto Maria Rosati, Valentina Cacchiani, Vera Hemmelmayr</p>
+              <p class="mb-1">Session: Timetabling 3</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-3 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_97.pdf" target="_blank">Adaptive routing and scheduling of network-wide rail transit services with flexible train composition</a>
+              </p>
+              <p class="mb-1">Shouyi Wang, Andy Chow, Chengshuo Ying</p>
+              <p class="mb-1">Session: Timetabling 3</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-disaster-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_132.pdf" target="_blank">Excess-demand isolation vulnerability analysis based on a bipartitioning minimum cut</a>
+              </p>
+              <p class="mb-1">Ruri Sase, Satoshi Sugiura</p>
+              <p class="mb-1">Session: Disaster Management</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-2 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_301.pdf" target="_blank">Inverse Optimization for Dynamic Vehicle Routing</a>
+              </p>
+              <p class="mb-1">Pedro Zattoni Scroccaro, Peyman Mohajerin Esfahani, Bilge Atasoy</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 2</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-3 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_317.pdf" target="_blank">Optimization of railway resource planning process in a multi-level scale</a>
+              </p>
+              <p class="mb-1">Estia Maliqari, Dritan Nace, Antoine Jouglet, Giuliana Barbarino, Loïc Hamelin</p>
+              <p class="mb-1">Session: Timetabling 3</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-disaster-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_61.pdf" target="_blank">Prompt and Reliable Medical Evacuation with Air Ambulances</a>
+              </p>
+              <p class="mb-1">Miguel Lejeune, Francois Margot, Alan Delgado de Oliveira</p>
+              <p class="mb-1">Session: Disaster Management</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-2 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_334.pdf" target="_blank">Quantile-based Sequential Learning and Optimization for Contextual Stochastic Vehicle Routing</a>
+              </p>
+              <p class="mb-1">Nele Bertling, Kevin Tierney, Michael Römer</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 2</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-disaster-management day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_255.pdf" target="_blank">Real-time control of traffic flows under disruptive events</a>
+              </p>
+              <p class="mb-1">Valentina Mor, i, M.Grazia Speranza, Lorenzo Peirano</p>
+              <p class="mb-1">Session: Disaster Management</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-timetabling-3 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_152.pdf" target="_blank">Solving Train Timetabling Adjustment Problems with integrated track assignments</a>
+              </p>
+              <p class="mb-1">Hoang Thi Khue Nguyen, Dennis Huisman, Paul Bouman</p>
+              <p class="mb-1">Session: Timetabling 3</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-2 day-thursday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_250.pdf" target="_blank">Time-Dependent Vehicle Routing Problem in Subway-Assisted Delivery Systems</a>
+              </p>
+              <p class="mb-1">Yu Yao, Pengli Mo</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 2</p>
+              <p class="mb-1">Slot: 16:00-18:00, Thursday June 26</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-3 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_71.pdf" target="_blank">A deep attention model for solving vehicle routing problems with uncertain parking availability</a>
+              </p>
+              <p class="mb-1">Zhenjun Tian, Zhaoxia Guo, Feng Guo, Mouna Bamoumen, Jan Fransoo</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 3</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_198.pdf" target="_blank">A General Optimization Framework for Dynamic Two-Stage Order Fulfillment Problems</a>
+              </p>
+              <p class="mb-1">Gal Neria, Michal Tzur, Marlin Ulmer</p>
+              <p class="mb-1">Session: Logistics Optimization 2</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-discrete-choice-model-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_256.pdf" target="_blank">Are travelers more satisfied with more options offered? A choice set paradox</a>
+              </p>
+              <p class="mb-1">Heqing Tan, Yu Gu, Anthony Chen, Xiangdong Xu</p>
+              <p class="mb-1">Session: Discrete Choice Model 2</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_405.pdf" target="_blank">Economics of Empty Trips and Collaborative Logistics</a>
+              </p>
+              <p class="mb-1">Ricardo Giesen, Dario Farren, Luis Ignacio Rizzi</p>
+              <p class="mb-1">Session: Logistics Optimization 2</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-discrete-choice-model-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_66.pdf" target="_blank">Estimating the Joint Accessibility of Group Travel:  A Case Study of Leisure Activities in The Greater Tokyo Area</a>
+              </p>
+              <p class="mb-1">Giancarlos Parady, Joanna Ji, Kiyoshi Takami</p>
+              <p class="mb-1">Session: Discrete Choice Model 2</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-vehicle-routing-problem-3 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_151.pdf" target="_blank">Fast Shapley Value approximation in routing problems through machine learning models</a>
+              </p>
+              <p class="mb-1">Pirmin Fontaine, Johannes Gückel</p>
+              <p class="mb-1">Session: Vehicle Routing Problem 3</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-discrete-choice-model-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_493.pdf" target="_blank">Rationally Inattentive Route Choice: A Link-Based Model</a>
+              </p>
+              <p class="mb-1">Ronghui Liu, Bo Zhou</p>
+              <p class="mb-1">Session: Discrete Choice Model 2</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-logistics-optimization-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_483.pdf" target="_blank">Two-echelon city logistics by integrating road and water transport: Amsterdam case study</a>
+              </p>
+              <p class="mb-1">Cigdem Karademir, Bilge Atasoy</p>
+              <p class="mb-1">Session: Logistics Optimization 2</p>
+              <p class="mb-1">Slot: 8:30-10:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-od-estimation day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_207.pdf" target="_blank">Advancing Dynamic Origin-Destination Matrices Estimation Models Using Crowd-Sourced Flexibility Data</a>
+              </p>
+              <p class="mb-1">Marisdea Castiglione, Guido Cantelmo, Ernesto Cipriani, Marialisa Nigro</p>
+              <p class="mb-1">Session: OD Estimation</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-resilience day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_195.pdf" target="_blank">Development of network generation model with the properties of real road networks by machine learning</a>
+              </p>
+              <p class="mb-1">Takumi Mori, Hiroe Ando, Ryuji Kakimoto</p>
+              <p class="mb-1">Session: Resilience</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-od-estimation day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_76.pdf" target="_blank">Dynamic OD Matrix Estimation using Data-Driven Modelling under Data-Scarcity: an application of Sparse Variational Gaussian Process</a>
+              </p>
+              <p class="mb-1">Giovanni Tataranno, Federico Bigi, Francesco Viti</p>
+              <p class="mb-1">Session: OD Estimation</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-od-estimation day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_443.pdf" target="_blank">Improving simulation-based origin-destination demand calibration using sample segment counts data</a>
+              </p>
+              <p class="mb-1">Arwa Alanqary, Chao Zhang, Yechen Li, Neha Arora, Carolina Osorio</p>
+              <p class="mb-1">Session: OD Estimation</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-column-generation-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_270.pdf" target="_blank">Line planning under crowding: A row-and-column generation approach</a>
+              </p>
+              <p class="mb-1">Yahan Lu, Rolf van Lieshout, Layla Martin, Lixing Yang</p>
+              <p class="mb-1">Session: Column Generation 2</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-column-generation-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_471.pdf" target="_blank">Optimized Itinerary Planning for Tourist Attractions</a>
+              </p>
+              <p class="mb-1">Tarun Rambha</p>
+              <p class="mb-1">Session: Column Generation 2</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-column-generation-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_365.pdf" target="_blank">Optimizing Shared Mobility: A Penalized Column Generation Model for Peer-to-Peer Ride-Sharing</a>
+              </p>
+              <p class="mb-1">Negin Alisoltani, Younes Delhoum, Mostafa Ameli, Mahdi Zargayouna</p>
+              <p class="mb-1">Session: Column Generation 2</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-resilience day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_374.pdf" target="_blank">Resilience of Railway Stations: Impacts of Strategic Infrastructure Modifications</a>
+              </p>
+              <p class="mb-1">Md Tabish Haque, Jan Eisold, Nikola Besinovic</p>
+              <p class="mb-1">Session: Resilience</p>
+              <p class="mb-1">Slot: 10:30-12:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-data-driven-analysis-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_326.pdf" target="_blank">A data fusion framework for the estimation of dynamic multimodal OD flows within urban areas</a>
+              </p>
+              <p class="mb-1">Paul de Nailly, Etienne Côme, Angelo Furno, Latifa Oukhellou</p>
+              <p class="mb-1">Session: Data-Driven Analysis 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-drone-and-air-mobility-control-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_279.pdf" target="_blank">A new MILP formulation and a Branch-and-cut Algorithm for the TSP with Release Dates and Drone Resupply</a>
+              </p>
+              <p class="mb-1">Claudia Archetti, Maurizio Boccia, Adriano Masone, Claudio Sterle</p>
+              <p class="mb-1">Session: Drone and Air Mobility Control 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-data-driven-analysis-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_167.pdf" target="_blank">Deep Generative Networks for Synthesizing Data on Electric Vehicle Driving and Charging Events</a>
+              </p>
+              <p class="mb-1">Zhi Li, Ma Wei, Monica Menendez, Zhibin Chen, Minghui Zhong</p>
+              <p class="mb-1">Session: Data-Driven Analysis 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_69.pdf" target="_blank">Fast heuristic for global optimization of continuous network design problem with stochastic user equilibrium</a>
+              </p>
+              <p class="mb-1">Sorachi Matsumoto, Ryuichi Tani, Kenetsu Uchida</p>
+              <p class="mb-1">Session: Network Design 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-data-driven-analysis-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_153.pdf" target="_blank">Gibbs Sampler for Generating Longitudinal Synthetic Populations</a>
+              </p>
+              <p class="mb-1">Marija Kukic, Michel Bierlaire</p>
+              <p class="mb-1">Session: Data-Driven Analysis 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_202.pdf" target="_blank">Integration of Hub Capacity Acquisition Decisions in the Scheduled Service Network Design Problem</a>
+              </p>
+              <p class="mb-1">Simon Belieres, Yannick Oskar Scherr, Mike Hewitt</p>
+              <p class="mb-1">Session: Network Design 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-network-design-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_378.pdf" target="_blank">Line Network Design for Parcel Routing with Handling Times</a>
+              </p>
+              <p class="mb-1">Gabriel Deza, Michal Tzur, Tal Raviv</p>
+              <p class="mb-1">Session: Network Design 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-drone-and-air-mobility-control-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_406.pdf" target="_blank">Optimization of Drone and Truck Operations for Socially Optimal Disaster Relief Distribution</a>
+              </p>
+              <p class="mb-1">Ricardo Modrego, Sofia Perez-Guzman</p>
+              <p class="mb-1">Session: Drone and Air Mobility Control 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-drone-and-air-mobility-control-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_170.pdf" target="_blank">Urban Air Mobility Service Network Design: Ridership Maximization and Exact Solution Algorithm</a>
+              </p>
+              <p class="mb-1">Yun Hui Lin, Qingyun Tian, Jianjun Wu</p>
+              <p class="mb-1">Session: Drone and Air Mobility Control 2</p>
+              <p class="mb-1">Slot: 13:30-15:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_121.pdf" target="_blank">Assessing the Resilience of Rebalancing Strategies for Ride-hailing Services in Multi-modal Transportation System</a>
+              </p>
+              <p class="mb-1">Euntak Lee, Rim Slama, Ludovic Leclercq</p>
+              <p class="mb-1">Session: On-Demand Mobility 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-traffic-and-transit-assignment-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_203.pdf" target="_blank">Budget-constrained user equilibrium: A quasi-variational inequality approach</a>
+              </p>
+              <p class="mb-1">Yuzhen Feng, Wei Liu</p>
+              <p class="mb-1">Session: Traffic and Transit Assignment 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-traffic-and-transit-assignment-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_470.pdf" target="_blank">Complex dynamics in transportation networks in the context of assignment</a>
+              </p>
+              <p class="mb-1">Jean-Patrick Lebacque, Megan Khoshyaran</p>
+              <p class="mb-1">Session: Traffic and Transit Assignment 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_123.pdf" target="_blank">Designing High-Occupancy Toll Lanes: A Game-Theoretic Analysis</a>
+              </p>
+              <p class="mb-1">Zhanhao Zhang, Ruifan Yang, Manxi Wu</p>
+              <p class="mb-1">Session: Game Theory 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_397.pdf" target="_blank">Learning to Prune: Fast Feasible Trip Generation for High-capacity Ridepooling</a>
+              </p>
+              <p class="mb-1">Youngseo Kim, Sirui Li, Hins Hu, Wenbin Ouyang, Samitha Samaranayake, Cathy Wu</p>
+              <p class="mb-1">Session: On-Demand Mobility 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-on-demand-mobility-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_85.pdf" target="_blank">Learning-based control of AMoD in competitive environments</a>
+              </p>
+              <p class="mb-1">Joachim Andreasen, Frederik Sørensen, Asger Tang, Carolin Schmidt, Daniele Gammelli, Francisco Pereira, Filipe Rodrigues</p>
+              <p class="mb-1">Session: On-Demand Mobility 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_53.pdf" target="_blank">Population Markov Potential Game: An Alternative Framework for Markovian Traffic Assignment</a>
+              </p>
+              <p class="mb-1">Xuhang Liu, Kenan Zhang, Rui Yao</p>
+              <p class="mb-1">Session: Game Theory 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="grid-sizer col-lg-12 isotope-item session-game-theory-2 day-friday">
+          <div class="mb-4 pb-3 border-bottom">
+            <div class="publication-item">
+              <p class="font-weight-bold mb-1">
+                <a href="/proceedings/TRISTAN2025_ExtendedAbstract_320.pdf" target="_blank">Privacy-Preserving Contextual Personalized Dynamic Pricing for Ride-Hailing Platforms</a>
+              </p>
+              <p class="mb-1">Bing Song, Sisi Jian</p>
+              <p class="mb-1">Session: Game Theory 2</p>
+              <p class="mb-1">Slot: 15:30-17:00, Friday June 27</p>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 TRISTAN 2025.
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.b4708d4364577c16ab7001b265a063a4.js"></script>
+
+
+
+
+  
+    <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.4922cd6d3d810ab587afa7cdb3851db6.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

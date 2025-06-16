@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sisi Jian | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/sisi-jian/</link>
+      <atom:link href="https://tristan2025.org/author/sisi-jian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sisi Jian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Sisi Jian</title>
+      <link>https://tristan2025.org/author/sisi-jian/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven optimization of pricing and vehicle relocation for ridesourcing platforms considering reservation</title>
+      <link>https://tristan2025.org/proceedings/paper293/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper293/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Pricing and Reputation Investment for Sustainable Aviation Fuel with Herd Effects and Heterogeneous Customers</title>
+      <link>https://tristan2025.org/proceedings/paper304/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Contextual Personalized Dynamic Pricing for Ride-Hailing Platforms</title>
+      <link>https://tristan2025.org/proceedings/paper320/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper320/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiqi Cai | TRISTAN 2025</title>
+    <link>https://tristan2025.org/author/yiqi-cai/</link>
+      <atom:link href="https://tristan2025.org/author/yiqi-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiqi Cai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tristan2025.org/media/logo_hu1abc14aa7abcf97a787203b263ccbf4c_19088_300x300_fit_lanczos_3.png</url>
+      <title>Yiqi Cai</title>
+      <link>https://tristan2025.org/author/yiqi-cai/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing customized bus routing and maximum seat occupancy rate under the influence of epidemic outbreaks</title>
+      <link>https://tristan2025.org/proceedings/paper20/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tristan2025.org/proceedings/paper20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
