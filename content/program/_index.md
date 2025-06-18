@@ -45,12 +45,24 @@ The TRISTAN XII program is available here:
 # <span style="color: orange;"><a name="keynote-speakers">Keynote Speakers</a></span>
 ---
 
-## "Transportation Research for Social Impact in a Changing World: advances in humanitarian logistics and disaster response" by Dr. Karen Smilowitz
+## "Transportation Research for Social Impact in a Changing World" by Dr. Karen Smilowitz
 **Professor at Northwestern University, USA**
 
 <img src="images/karen.jpg" width="35%">
 
-This talk includes a discussion of recent trends we have seen at Transportation Science and the changes we have made at the journal to broaden its scope, which is particularly relevant to the theme of transportation research for social impact in a changing world.
+Humanitarian logistics presents a series of unique and urgent challenges. 
+For example, at the core of disaster response lies the effective and equitable distribution of life-saving supplies to those in need. 
+In such high-stakes environments, operations research holds significant potential to support decision-making—helping relief organizations save lives and resources while upholding principles of fairness, humanitarianism, and transparency. 
+In this keynote, we focus on humanitarian operations in a range of settings. 
+This talk will present opportunities and challenges related to transportation research that strives for positive social impact in a constantly changing world. 
+In such settings, the objectives are often more difficult to quantify since issues such as equity and sustainability must be considered, yet efficient operations are still crucial. 
+The talk will be both a look back over several decades of influential research and a look forward at the challenges ahead, focusing on [key papers](https://users.iems.northwestern.edu/~smilo/Tristan%20references.pdf) that span a range of related topics.
+We will explore how new platform technology is changing both the practice and study of humanitarian logistics. 
+The talk will include open challenges for junior researchers to consider in their own work.
+
+The talk will also include a discussion of what journals are doing to promote such impactful work, with a particular focus on innovations at *Transportation Science*. 
+In doing so, I will highlight the important changes to *Transportation Science* during my time as Editor-in-Chief. 
+This will include both an overview of editorial structure as well as thoughts regarding the future of the journal.
 
 <!--
 Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial Engineering and Management Science at Northwestern University, with a joint appointment in the Operations group at the Kellogg School of Management. 
