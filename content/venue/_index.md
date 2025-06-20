@@ -202,11 +202,11 @@ The following map summarizes the locations and expected travel times between Nah
 - Schedule
     | Route / Stop    |     Venue      | Best Western Hotel | Hotel Route Inn | Green Rich Hotel | Nago City Hall |  Hotel Yugaf Inn Okinawa      | Churaumi Aquarium |
     |-----------------|----------------|--------------------|-----------------|------------------|----------------|-------------------------------|-------------------|
-    |   Bus 1         |     8:30       |-                   | -               | -                | -              | 9:00                          | 9:45              |
-    |   Bus 2         |     -          |       8:40         | -               | -                | -              | 9:00                          | 9:45              |
-    |   Bus 3         |     -          | -                  | 8:50            | -                | -              | 9:00                          | 9:45              |
-    |   Bus 4         |     -          | -                  | -               | 9:05             | -              | 9:15                          | 10:00             |
-    |   Bus 5         |     -          | -                  | -               | -                | 9:05           | 9:15                          | 10:00             |
+    |   Bus 1,2       |     8:30       |-                   | -               | -                | -              | 9:00                          | 9:45              |
+    |   Bus 3         |     -          |       8:40         | -               | -                | -              | 9:00                          | 9:45              |
+    |   Bus 4         |     -          | -                  | 8:50            | -                | -              | 9:00                          | 9:45              |
+    |   Bus 5         |     -          | -                  | -               | 9:05             | -              | 9:15                          | 10:00             |
+    |   Bus 6         |     -          | -                  | -               | -                | 9:05           | 9:15                          | 10:00             |
 
 - Please check the spreadsheet for real-time updates and a detailed timetable: 
   

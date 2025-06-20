@@ -34,16 +34,16 @@ Details are available on the [Access page](https://tristan2025.org/venue/#access
 
 Then, we’ll visit the **Okinawa Churaumi Aquarium** before heading to Toguchi Port.
 
-**11:15** — Group 1: Departure from **Toguchi Port**.<br>
-**12:00** — Group 2: Departure from **Toguchi Port**.
+**11:15** — Group 1 (Bus 1,2,3,4): Departure from **Toguchi Port**.<br>
+**12:00** — Group 2 (Bus 5,6): Departure from **Toguchi Port**.
 
 We’ll enjoy lunch and free time on **Minna Island**.
 
-**14:45** — Group 1: Departure from **Minna Island Port**.<br>
-**16:30** — Group 2: Departure from **Minna Island Port**.
+**14:45** — Group 1 (Bus 1,2,3,4): Departure from **Minna Island Port**.<br>
+**16:30** — Group 2 (Bus 5,6): Departure from **Minna Island Port**.
 
-**15:30 – 16:20** — Group 1: Return to the **venue or bus stops**.<br>
-**17:15 – 18:05** — Group 2: Return to the **venue or bus stops**.
+**15:30 – 16:20** — Group 1 (Bus 1,2,3,4): Return to the **venue or bus stops**.<br>
+**17:15 – 18:05** — Group 2 (Bus 5,6): Return to the **venue or bus stops**.
 
 ---
 
