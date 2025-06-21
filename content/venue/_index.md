@@ -66,6 +66,7 @@ The following map summarizes the locations and expected travel times between Nah
     - Book/take a bus from Naha Airport Terminal to "Orion Hotel Motobu Resort & Spa" or "Kanehide Kise Beach Palace".
     - Alight the bus at the bus stop "The Busena Terrace" 
     - Book tickets [online](https://japanbusonline.com/en/Detail/14700010001/0/9472018001/9472018002/20250622) or at the [airport domestic terminal](https://okinawabus.com/en/ls/ls_carstop/) (open 11:00 - 18:00) - A reservation is required to board the bus.
+    - **At airport, the payment can be made only by cash.*
     - The bus departs from the bus stop 12 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
     - [How to ride on a limousine bus](https://okinawabus.com/en/ls/ls_ridemethod/)
   - :bus: [OAS Resort liners (RSL・RSL Rapid #5, 9, 13, 17, 19, 21)](https://www.okinawa-shuttle.co.jp/en/) 
@@ -107,6 +108,7 @@ The following map summarizes the locations and expected travel times between Nah
     - The bus departs from the bus stop 1 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
   - :bus: [Bus Route 111, 117, 120](https://okinawabus.com/en/rb/rb_routelist/)
     - Naha Airport Domestic Terminal - Naha Airport International Terminal - Nago-shiyakusho mae (Nago City Office), Nago Bus Terminal
+    - **Some buses accept only cash. Please check before boarding.**
     - For payment by credit card, touch the card reader with your IC card or smartphone when getting on and off the bus.
     - For payment by cash, you can pay the fare after the ride. Take a boarding ticket when you get on the bus and make the payment before getting off the bus. Please check the [boarding guide](https://okinawabus.com/en/rb/rb_userguide/rb_ridemethod/) carefully.
     - The bus departs from the bus stop 2 at the domestic terminal and the bus stop 2 at the international terminal  ([map](https://www.naha-airport.co.jp/en/access/bus/)).
@@ -120,6 +122,7 @@ The following map summarizes the locations and expected travel times between Nah
     - Book/take a bus from Naha Airport Terminal to "Orion Hotel Motobu Resort & Spa".
     - Alight the bus at the bus stop "Nago Bus Terminal" 
     - Book tickets [online](https://japanbusonline.com/en/Detail/14700010001/0/9472018001/9472018002/20250621) or at the [airport domestic terminal](https://okinawabus.com/en/ls/ls_carstop/) (open 11:00 - 18:00) - A reservation is required to board the bus.
+    - **At airport, the payment can be made only by cash.*
     - The bus departs from stop 12 at the domestic terminal ([map](https://www.naha-airport.co.jp/en/access/bus/)).
     - [How to ride on a limousine bus](https://okinawabus.com/en/ls/ls_ridemethod/)
 - :taxi: **Taxi** (JPY 15,000 - 20,000)
@@ -153,6 +156,7 @@ The following map summarizes the locations and expected travel times between Nah
   - [How to ride on a limousine bus](https://okinawabus.com/en/ls/ls_ridemethod/)
 - :bus: [Bus Route 120](https://okinawabus.com/en/rb/rb_routelist/)
   - Nago Bus Terminal &harr; Nago-shiyakusho mae (Nago City Office) - Naha Airport
+  - **Some buses accept only cash. Please check before boarding.**
   - For payment by credit card, touch the card reader with your IC card or smartphone when getting on and off the bus.
   - For payment by cash, you can pay the fare after the ride. Take a boarding ticket when you get on the bus and make the payment before getting off the bus. Please check the [boarding guide](https://okinawabus.com/en/rb/rb_userguide/rb_ridemethod/) carefully.
   <img src="bus/120.jpg" width="50%">
