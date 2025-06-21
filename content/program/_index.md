@@ -24,7 +24,7 @@ sections:
 The TRISTAN XII program is available here:
 <br>
 [TRISTAN2025_final_program.pdf](TRISTAN2025_final_program.pdf) (0.2MB)
-
+<!---
 ### Special Program on Sunday Afternoon
    We will host <span style="color: red;">**three Keynote sessions on Sunday afternoon**</span> in succession, followed by a **Welcome Party**. 
    We hope you can join us for an engaging start to the conference and meaningful networking opportunities.
@@ -32,7 +32,7 @@ The TRISTAN XII program is available here:
 ### Weekday Sessions
    From Monday to Friday, there will be **three parallel sessions running from morning to evening**, featuring a wide variety of presentations.
    We are also planning some social activities!
-<!---
+
 ### Arrive Early Recommendation
    Given the updated start on Sunday, we highly recommend <span style="color: red;">**booking your travel to arrive in Okinawa by Saturday**</span>. 
    We encourage you to adjust your plans to fully participate in all Sunday activities.
@@ -47,6 +47,7 @@ The TRISTAN XII program is available here:
 
 ## "Transportation Research for Social Impact in a Changing World" by Dr. Karen Smilowitz
 **Professor at Northwestern University, USA**
+{{% staticref "uploads/Karen_Smilowitz.pdf" "newtab" %}}<span style="font-size: 1.5rem;">**Download slides**</span>{{% /staticref %}}
 
 <img src="images/karen.jpg" width="35%">
 
@@ -80,7 +81,7 @@ The goal of this field is to design policies and tactics that have the potential
 ## "Combinatorial choices" by Dr. Michel Bierlaire
 **Professor at École Polytechnique Fédérale de Lausanne, Switzerland** <br>
 *Joint work with Frédéric Meunier, Léa Ricard and Prunelle Vogler*
-
+{{% staticref "uploads/Michel_Bierlaire.pdf" "newtab" %}}<span style="font-size: 1.5rem;">**Download slides**</span>{{% /staticref %}}
 
 <img src="images/michel.jpg" width="35%">
 
@@ -106,6 +107,7 @@ He is the founder of hEART, the European Association for Research in Transportat
 
 ## "Participatory Traffic Control: Leveraging Connected and Automated Vehicles for Enhanced Network Efficiency" by Dr. Yafeng Yin
 **Professor at University of Michigan, USA**
+{{% staticref "uploads/Yafeng_Yin.pdf" "newtab" %}}<span style="font-size: 1.5rem;">**Download slides**</span>{{% /staticref %}}
 
 <img src="images/yafeng.jpg" width="35%">
 
