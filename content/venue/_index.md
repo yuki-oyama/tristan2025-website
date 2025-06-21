@@ -253,6 +253,7 @@ The following map summarizes the locations and expected travel times between Nah
     - Payment can be made by cash or credit card.
   - :bus: [Bus Route 111](https://okinawabus.com/en/rb/rb_routelist/)
     - Nago Bus Terminal - Nago-shiyakusho mae (Nago City Office) - Naha Airport
+    - **Some buses accept only cash. Please check before boarding.**
     - For payment by credit card, touch the card reader with your IC card or smartphone when getting on and off the bus.
     - For payment by cash, you can pay the fare after the ride. Take a boarding ticket when you get on the bus and make the payment before getting off the bus. Please check the [boarding guide](https://okinawabus.com/en/rb/rb_userguide/rb_ridemethod/) carefully.
   - :bus: [Yanbaru Express Bus (YKB888)](https://yanbaru-expressbus.com/)
