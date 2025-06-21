@@ -48,6 +48,7 @@ The TRISTAN XII program is available here:
 ## "Transportation Research for Social Impact in a Changing World" by Dr. Karen Smilowitz
 **Professor at Northwestern University, USA**
 {{% staticref "uploads/Karen_Smilowitz.pdf" "newtab" %}}<span style="font-size: 1.5rem;">**Download slides**</span>{{% /staticref %}}
+{{% staticref "uploads/Karen_Smilowitz_references.pdf" "newtab" %}}**References**{{% /staticref %}}
 
 <img src="images/karen.jpg" width="35%">
 
