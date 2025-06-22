@@ -79,6 +79,31 @@ The goal of this field is to design policies and tactics that have the potential
 
 <br>
 
+## "Participatory Traffic Control: Leveraging Connected and Automated Vehicles for Enhanced Network Efficiency" by Dr. Yafeng Yin
+**Professor at University of Michigan, USA**
+{{% staticref "uploads/Yafeng_Yin.pdf" "newtab" %}}<span style="font-size: 1.5rem;">**Download slides**</span>{{% /staticref %}}
+
+<img src="images/yafeng.jpg" width="35%">
+
+Participatory traffic control is an emerging paradigm that envisions vehicles within the traffic stream serving as active control actuators to enhance the performance of traffic networks. 
+With rapid advances in vehicle connectivity and automation, travelers are increasingly likely to relinquish personal control over certain travel decisions. 
+This shift enables the development of a participatory traffic control framework, where a subset of connected and automated vehicles (CAVs) function as “traffic demand distributors.” 
+By coordinating their departure times and route choices, these CAVs can influence the travel behavior of others, thereby improving overall system efficiency. 
+This talk presents methods for enabling CAVs to stabilize day-to-day traffic dynamics and reduce congestion. 
+It also explores the design of incentive mechanisms to encourage CAVs to participate as control agents within the broader traffic system.
+
+<!--
+Dr. Yafeng Yin is Donald Cleveland Collegiate Professor of Engineering, and Professor and Donald Malloure Department Chair of Civil and Environmental Engineering, and Professor of Industrial and Operations Engineering at University of Michigan, Ann Arbor. 
+His research aims to analyze and enhance multimodal transportation systems towards efficiency, resilience and environmental sustainability. 
+Currently he focuses on developing innovative mobility solutions and services by leveraging vehicle connectivity and automation. 
+Dr. Yin has published over 150 refereed papers in leading academic journals. 
+He also has extensive experience with editing academic journals. 
+He was the Editor-in-Chief of Transportation Research Part C: Emerging Technologies between 2014 and 2020 and currently serves as Area Editor of Transportation Science and Associate Editor of Transportation Research Part B: Methodological, another two flagship journals in the transportation domain. 
+He also serves on the International Advisory Committee of the International Symposium of Transportation and Traffic Theory (ISTTT) and the Steering Committee of the World Conference on Transport Research Society (WCTRS).
+--->
+
+<br>
+
 ## "Combinatorial choices" by Dr. Michel Bierlaire
 **Professor at École Polytechnique Fédérale de Lausanne, Switzerland** <br>
 *Joint work with Frédéric Meunier, Léa Ricard and Prunelle Vogler*
@@ -102,30 +127,5 @@ Dr. Bierlaire’s expertise lies in the design, development, and application of 
 His work includes significant contributions to demand modeling, such as discrete choice models and the estimation of origin-destination matrices, as well as operations research topics like scheduling and assignment, and dynamic traffic management systems.
 
 He is the founder of hEART, the European Association for Research in Transportation. Additionally, he served as the founding Editor-in-Chief of the EURO Journal on Transportation and Logistics from 2011 to 2019 and has been an Associate Editor of Operations Research since 2012.
---->
-
-<br>
-
-## "Participatory Traffic Control: Leveraging Connected and Automated Vehicles for Enhanced Network Efficiency" by Dr. Yafeng Yin
-**Professor at University of Michigan, USA**
-{{% staticref "uploads/Yafeng_Yin.pdf" "newtab" %}}<span style="font-size: 1.5rem;">**Download slides**</span>{{% /staticref %}}
-
-<img src="images/yafeng.jpg" width="35%">
-
-Participatory traffic control is an emerging paradigm that envisions vehicles within the traffic stream serving as active control actuators to enhance the performance of traffic networks. 
-With rapid advances in vehicle connectivity and automation, travelers are increasingly likely to relinquish personal control over certain travel decisions. 
-This shift enables the development of a participatory traffic control framework, where a subset of connected and automated vehicles (CAVs) function as “traffic demand distributors.” 
-By coordinating their departure times and route choices, these CAVs can influence the travel behavior of others, thereby improving overall system efficiency. 
-This talk presents methods for enabling CAVs to stabilize day-to-day traffic dynamics and reduce congestion. 
-It also explores the design of incentive mechanisms to encourage CAVs to participate as control agents within the broader traffic system.
-
-<!--
-Dr. Yafeng Yin is Donald Cleveland Collegiate Professor of Engineering, and Professor and Donald Malloure Department Chair of Civil and Environmental Engineering, and Professor of Industrial and Operations Engineering at University of Michigan, Ann Arbor. 
-His research aims to analyze and enhance multimodal transportation systems towards efficiency, resilience and environmental sustainability. 
-Currently he focuses on developing innovative mobility solutions and services by leveraging vehicle connectivity and automation. 
-Dr. Yin has published over 150 refereed papers in leading academic journals. 
-He also has extensive experience with editing academic journals. 
-He was the Editor-in-Chief of Transportation Research Part C: Emerging Technologies between 2014 and 2020 and currently serves as Area Editor of Transportation Science and Associate Editor of Transportation Research Part B: Methodological, another two flagship journals in the transportation domain. 
-He also serves on the International Advisory Committee of the International Symposium of Transportation and Traffic Theory (ISTTT) and the Steering Committee of the World Conference on Transport Research Society (WCTRS).
 --->
 
