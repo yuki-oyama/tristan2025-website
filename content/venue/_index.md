@@ -198,7 +198,7 @@ The following map summarizes the locations and expected travel times between Nah
 ---
 ## <a name="access-social-tour"> Wednesday: Social tour</a>
 - Six buses will be arranged to transport participants to the tour destinations.
-- The buses will stop at the same bus stops as on the session days, **except for the venue and Yugaf Inn. The locations of those two are different from the session days.**
+- The buses will stop at the same bus stops as on the session days, **except for Yugaf Inn (only Bus 5&6)**. The Bus stop location may be different from the session days (still coordinating).
   Be sure to double-check your stop in [the bus map](access/bus_map.pdf).
 - Bus stops: 1. Bankoku Shinryokan (Venue), 2. Best Western Okinawa Kouki Beach Hotel, 3. Hotel Route Inn Nago, 4. Green Rich hotel, 5. Nago City Hall, 6. Hotel Yugaf Inn Okinawa, 
 - As the tour includes a boat ride with a fixed departure time, **late arrivals will not be able to join the tour partway through.**
@@ -206,12 +206,13 @@ The following map summarizes the locations and expected travel times between Nah
 - Schedule
     | Route / Stop    |     Venue      | Best Western Hotel | Hotel Route Inn | Green Rich Hotel | Nago City Hall |  Hotel Yugaf Inn Okinawa      | Churaumi Aquarium |
     |-----------------|----------------|--------------------|-----------------|------------------|----------------|-------------------------------|-------------------|
-    |   Bus 1,2       |     8:30       |-                   | -               | -                | -              | 9:00                          | 9:45              |
-    |   Bus 3         |     -          |       8:40         | -               | -                | -              | 9:00                          | 9:45              |
-    |   Bus 4         |     -          | -                  | 8:50            | -                | -              | 9:00                          | 9:45              |
+    |   Bus 1,2       |     8:10       |-                   | -               | -                | -              | 8:40                          | 9:25              |
+    |   Bus 3         |     -          |       8:20         | -               | -                | -              | 8:40                          | 9:25              |
+    |   Bus 4         |     -          | -                  | 8:30            | -                | -              | 8:40                          | 9:25              |
     |   Bus 5         |     -          | -                  | -               | 9:05             | -              | 9:15                          | 10:00             |
     |   Bus 6         |     -          | -                  | -               | -                | 9:05           | 9:15                          | 10:00             |
 
+- There are multiple meeting time options for the Yugaf inn bus stop, but we kindly ask for your cooperation in **joining the earlier bus group if possible**. Group of Bus 1-4 come back earlier than Group 5-6.
 - Please check the spreadsheet for real-time updates and a detailed timetable: 
   
   👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
