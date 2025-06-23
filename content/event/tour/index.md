@@ -53,7 +53,7 @@ We’ll enjoy lunch and free time on **Minna Island**.
 ## 📌 Important Notes
 
 - This is a full-day tour including lunch, drinks, and all transfers.
-- The detailed map of Minna Island and the Okinawa Churaumi Aquarium can be found in the [Social Tour Map](tour_info.pdf).
+- The detailed info is available in the [Social Tour Info](tour_info.pdf), also available in the conference reception.
 - Bring your **sunscreen** and **beach towels**.
 - <span style="color: red;">**CASH is the only payment method at Minna Island.**</span> 
   If you plan to purchase alcohol or participate in marine activities, please be sure to bring cash and coins.
