@@ -12,6 +12,5 @@ Summary: The details on the social tour are now available.
 The details of the social tour are now available on the [Social Tour page](/event/tour). 
 The tour will include a visit to the Okinawa Churaumi Aquarium and the Minna Island.
 
-The bus timetable and bus stop location is different in some bus stops.
 Please check the latest information carefully.
 

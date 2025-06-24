@@ -29,9 +29,8 @@ title: Social Tour
 
 **08:10-9:15** — Meet at the **venue** or your **nearest designated bus stop**.
 <br>
-The buses will stop at the same bus stops as on the session days, except for Yugaf Inn (only Bus 5&6). 
-The Bus stop location **may be** different from the session days (still coordinating). 
-Be sure to double-check your stop in the [the bus map](/venue/access/bus_map.pdf) and [Access page](https://tristan2025.org/venue/#access-social-tour).
+The buses will stop at the same bus stops as on the session days.
+Be sure to check your nearest stop in the [the bus map](/venue/access/bus_map.pdf) and [Access page](https://tristan2025.org/venue/#access-social-tour).
 
 Then, we’ll visit the **Okinawa Churaumi Aquarium** for about one hour.<br>
 **10:45** — Group 1 (Bus 1,2,3,4): Departure from the Aquarium to Toguchi Port.<br>

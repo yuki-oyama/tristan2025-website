@@ -198,8 +198,8 @@ The following map summarizes the locations and expected travel times between Nah
 ---
 ## <a name="access-social-tour"> Wednesday: Social tour</a>
 - Six buses will be arranged to transport participants to the tour destinations.
-- The buses will stop at the same bus stops as on the session days, **except for Yugaf Inn (only Bus 5&6)**. The Bus stop location may be different from the session days (still coordinating).
-  Be sure to double-check your stop in [the bus map](access/bus_map.pdf).
+- The buses will stop at the same bus stops as on the session days.
+  Check your nearest stop in [the bus map](access/bus_map.pdf).
 - Bus stops: 1. Bankoku Shinryokan (Venue), 2. Best Western Okinawa Kouki Beach Hotel, 3. Hotel Route Inn Nago, 4. Green Rich hotel, 5. Nago City Hall, 6. Hotel Yugaf Inn Okinawa, 
 - As the tour includes a boat ride with a fixed departure time, **late arrivals will not be able to join the tour partway through.**
   We kindly ask all participants to gather at their nearest designated bus stop on time to avoid missing the tour.
@@ -212,7 +212,7 @@ The following map summarizes the locations and expected travel times between Nah
     |   Bus 5         |     -          | -                  | -               | 9:05             | -              | 9:15                          | 10:00             |
     |   Bus 6         |     -          | -                  | -               | -                | 9:05           | 9:15                          | 10:00             |
 
-- There are multiple meeting time options for the Yugaf inn bus stop, but we kindly ask for your cooperation in **joining the earlier bus group if possible**. Group of Bus 1-4 come back earlier than Group 5-6.
+- There are multiple meeting time options for the Yugaf Inn bus stop, but we kindly ask for your cooperation in **joining the earlier bus group if possible**. Group of Bus 1-4 come back earlier than Group 5-6.
 - Please check the spreadsheet for real-time updates and a detailed timetable: 
   
   👉[Bus real-time location spreadsheet](https://docs.google.com/spreadsheets/d/1BQuWNfjrmYsDcWUNj8SbrtjtIQmE1mEpy19AWzXI-uc/preview)
