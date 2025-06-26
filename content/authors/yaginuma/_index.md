@@ -20,7 +20,7 @@ interests:
 #- Information Retrieval
 last_name: Yaginuma
 organizations:
-- name: University of Tokyo
+- name: Tokyo University of Science
 #  url: ""
 role: 
 position: 15
