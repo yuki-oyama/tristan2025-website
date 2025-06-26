@@ -10,23 +10,35 @@
     <lastmod>2025-06-26T19:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tristan2025.org/tag/announcement/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/post/13_return_bus/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/tags/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/post/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tristan2025.org/event/tour/</loc>
     <lastmod>2025-06-25T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://tristan2025.org/tag/announcement/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+    <loc>https://tristan2025.org/event/nextvenue/</loc>
+    <lastmod>2025-06-24T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/post/12_social_tour/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/post/11_transportation_info/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025.org/tags/</loc>
-    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://tristan2025.org/post/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2369,6 +2381,9 @@
     <loc>https://tristan2025.org/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://tristan2025.org/author/atsushi-uechi/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://tristan2025.org/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2382,6 +2397,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/author/giancarlos-parady/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/author/hajime-watanabe/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://tristan2025.org/author/hideki-yaginuma/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://tristan2025.org/author/hiroe-ando/</loc>
