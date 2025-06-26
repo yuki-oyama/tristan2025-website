@@ -19,7 +19,7 @@ sections:
   - [Session days (Monday, Tuesday, Thursday, Friday)](#access-session-days)
   - [Wednesday: Social tour](#access-social-tour)
   - [Thursday evening: Gala dinner](#access-gala)
-  - [Saturday, June 28: From Nago to Naha Airport](#access-departure)
+  - [From Venue/Nago to Naha Airport](#access-departure)
 - [Rental car information](#rental-car)
 - [Venue - Bankoku Shinryokan](#venue)
 - [Accommodation](#accommodation)
@@ -245,7 +245,24 @@ The following map summarizes the locations and expected travel times between Nah
   - Please note that a parking permit is required to park at the Gala Dinner venue. If you need one, please inform the staff during the conference.
 
 ---
-## <a name="access-departure"> Saturday, June 28: From Nago to Naha Airport</a>
+## <a name="access-departure"> From Venue/Nago to Naha Airport</a>
+### Airport Shuttle (Weekday/Saturday/Sunday)
+- The closest bus stop to Naha Airport from the venue is **Airport Limousine Bus departing From The Busena Terrace**.
+  - Please purchase your bus ticket online or at the reception desk of The Busena Terrace.
+  - It is recommended to purchase your ticket by the day before. The deadline of the purchase is 30 minutes before the departure. 
+- **Okinawa Airport Shuttle departs from Nago City Hall and Okinawa Kariyushi LCH Hotel.**
+
+Airport bus schedules are available [**HERE**](access/Return-BUS-information_airport-shuttle.pdf)
+
+- We will also provide a private shuttle bus from Nago city center to Naha airport on Saturday, 28th. The details are in the section below.
+
+### Local Bus (Weekday schedule)
+- Local buses are available from Nago City and the venue.
+- They are more frequent than airport shuttles, but they take longer to reach the airport.
+- The local bus schedules on weekdays are available [**HERE**](access/Return-BUS-information_weekday.pdf)
+- For weekend schedule, please refer to the section below or Google maps.
+
+### Details
 - :bus: **Bus** (JPY 1,600 - 2,500)
   - :bus: [Airport Limousine Bus (Area DE)](https://okinawabus.com/en/ls/)
     - Book a bus from "Orion Hotel Motobu Resort & Spa".
